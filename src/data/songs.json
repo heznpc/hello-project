@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "morning-musume-ai-no-tane",
+    "titleJa": "愛の種",
+    "titleEn": "Ai no Tane",
+    "groupId": "morning-musume",
+    "releaseDate": "1997-11-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-morning-coffee",
+    "titleJa": "モーニングコーヒー",
+    "titleEn": "Morning Coffee",
+    "groupId": "morning-musume",
+    "releaseDate": "1998-01-28",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-summer-night-town",
+    "titleJa": "サマーナイトタウン",
+    "titleEn": "Summer Night Town",
+    "groupId": "morning-musume",
+    "releaseDate": "1998-05-27",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-daite-hold-on-me",
+    "titleJa": "抱いてHOLD ON ME!",
+    "titleEn": "Daite HOLD ON ME!",
+    "groupId": "morning-musume",
+    "releaseDate": "1998-09-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-memory-seishun-no-hikari",
+    "titleJa": "Memory 青春の光",
+    "titleEn": "Memory Seishun no Hikari",
+    "groupId": "morning-musume",
+    "releaseDate": "1999-02-10",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-manatsu-no-kousen",
+    "titleJa": "真夏の光線",
+    "titleEn": "Manatsu no Kousen",
+    "groupId": "morning-musume",
+    "releaseDate": "1999-05-12",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-furusato",
+    "titleJa": "ふるさと",
+    "titleEn": "Furusato",
+    "groupId": "morning-musume",
+    "releaseDate": "1999-07-14",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-love-machine",
+    "titleJa": "LOVEマシーン",
+    "titleEn": "LOVE Machine",
+    "groupId": "morning-musume",
+    "releaseDate": "1999-09-09",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-koi-no-dance-site",
+    "titleJa": "恋のダンスサイト",
+    "titleEn": "Koi no Dance Site",
+    "groupId": "morning-musume",
+    "releaseDate": "2000-01-26",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-happy-summer-wedding",
+    "titleJa": "ハッピーサマーウェディング",
+    "titleEn": "Happy Summer Wedding",
+    "groupId": "morning-musume",
+    "releaseDate": "2000-05-17",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-i-wish",
+    "titleJa": "|released = September 6, 2000",
+    "titleEn": "I WISH",
+    "groupId": "morning-musume",
+    "releaseDate": "2000-09-06",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-renai-revolution-21",
+    "titleJa": "恋愛レボリューション21",
+    "titleEn": "Ren'ai Revolution 21",
+    "groupId": "morning-musume",
+    "releaseDate": "2000-12-13",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-the-peace",
+    "titleJa": "ザ☆ピース！",
+    "titleEn": "The☆Peace!",
+    "groupId": "morning-musume",
+    "releaseDate": "2001-07-25",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-mr-moonlight-ai-no-big-band",
+    "titleJa": "Mr.Moonlight 〜愛のビッグバンド〜",
+    "titleEn": "Mr.Moonlight ~Ai no Big Band~",
+    "groupId": "morning-musume",
+    "releaseDate": "2001-10-31",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-souda-were-alive",
+    "titleJa": "そうだ！We're ALIVE",
+    "titleEn": "Souda! We're ALIVE",
+    "groupId": "morning-musume",
+    "releaseDate": "2002-02-21",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-morning-musume-single-medley-hawaiian",
+    "titleJa": "モーニング娘。シングルメドレー～ハワイアン～",
+    "titleEn": "Morning Musume Single Medley ~Hawaiian~",
+    "groupId": "morning-musume",
+    "releaseDate": "2002-06-26",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-do-it-now",
+    "titleJa": "Do it! Now",
+    "titleEn": "Do it! Now",
+    "groupId": "morning-musume",
+    "releaseDate": "2002-07-24",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-koko-ni-iru-zee",
+    "titleJa": "ここにいるぜぇ！",
+    "titleEn": "Koko ni Iru zee!",
+    "groupId": "morning-musume",
+    "releaseDate": "2002-10-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ganbacchae-hey-mirai",
+    "titleJa": "がんばっちゃえ！/HEY！未来",
+    "titleEn": "Ganbacchae! / HEY! Mirai",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-01-29",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-morning-musume-no-hyokkori-hyoutanjima",
+    "titleJa": "モーニング娘。のひょっこりひょうたん島",
+    "titleEn": "Morning Musume no Hyokkori Hyoutanjima",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-02-19",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-as-for-one-day",
+    "titleJa": "AS FOR ONE DAY",
+    "titleEn": "AS FOR ONE DAY",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-04-23",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-shabondama",
+    "titleJa": "シャボン玉",
+    "titleEn": "Shabondama",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-07-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ai-no-sono-touch-my-heart",
+    "titleJa": "愛の園～Touch My Heart!～",
+    "titleEn": "Ai no Sono ~Touch My Heart!~",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-09-18",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-hare-ame-nochi-suki",
+    "titleJa": "晴れ 雨 のち スキ ♡",
+    "titleEn": "Hare Ame Nochi Suki ♡",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-09-18",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-go-girl-koi-no-victory",
+    "titleJa": "Go Girl〜恋のヴィクトリー〜",
+    "titleEn": "Go Girl ~Koi no Victory~",
+    "groupId": "morning-musume",
+    "releaseDate": "2003-11-06",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ai-araba-its-all-right",
+    "titleJa": "愛あらば IT'S ALL RIGHT",
+    "titleEn": "Ai Araba IT'S ALL RIGHT",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-01-21",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-sakura-mankai",
+    "titleJa": "さくら満開",
+    "titleEn": "Sakura Mankai",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-02-25",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-yuujou-kokoro-no-busu-ni-wa-naranee",
+    "titleJa": "友情～心のブスにはならねぇ!～",
+    "titleEn": "Yuujou ~Kokoro no Busu ni wa Naranee!~",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-02-25",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-anata-nashi-de-wa-ikite-yukenai",
+    "titleJa": "あなたなしでは生きてゆけない",
+    "titleEn": "Anata Nashi de wa Ikite Yukenai",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2004-03-03",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-fighting-pose-wa-date-ja-nai",
+    "titleJa": "ファイティングポーズはダテじゃない！",
+    "titleEn": "Fighting Pose wa Date ja nai!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2004-04-28",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-roman-my-dear-boy",
+    "titleJa": "浪漫～MY DEAR BOY～",
+    "titleEn": "Roman ~MY DEAR BOY~",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-05-12",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-piriri-to-yukou",
+    "titleJa": "ピリリと行こう！",
+    "titleEn": "Piriri to Yukou!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2004-05-26",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-joshi-kashimashi-monogatari",
+    "titleJa": "女子かしまし物語",
+    "titleEn": "Joshi Kashimashi Monogatari",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-07-22",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-happiness-koufuku-kangei",
+    "titleJa": "ハピネス～幸福歓迎！～",
+    "titleEn": "Happiness ~Koufuku Kangei!~",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2004-08-25",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-namida-ga-tomaranai-houkago",
+    "titleJa": "涙が止まらない放課後",
+    "titleEn": "Namida ga Tomaranai Houkago",
+    "groupId": "morning-musume",
+    "releaseDate": "2004-11-03",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-koi-no-jubaku",
+    "titleJa": "恋の呪縛",
+    "titleEn": "Koi no Jubaku",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2004-11-10",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-the-manpower",
+    "titleJa": "THE マンパワー!!!",
+    "titleEn": "THE Manpower!!!",
+    "groupId": "morning-musume",
+    "releaseDate": "2005-01-19",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-special-generation",
+    "titleJa": "スッペシャル ジェネレ〜ション",
+    "titleEn": "Special Generation",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2005-03-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-osaka-koi-no-uta",
+    "titleJa": "大阪 恋の歌",
+    "titleEn": "Osaka Koi no Uta",
+    "groupId": "morning-musume",
+    "releaseDate": "2005-04-27",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-nanchuu-koi-wo-yatteruu-you-know",
+    "titleJa": "なんちゅう恋をやってるぅ YOU KNOW？",
+    "titleEn": "Nanchuu Koi wo Yatteruu YOU KNOW?",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2005-06-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-iroppoi-jirettai",
+    "titleJa": "色っぽい じれったい",
+    "titleEn": "Iroppoi Jirettai",
+    "groupId": "morning-musume",
+    "releaseDate": "2005-07-27",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-21ji-made-no-cinderella",
+    "titleJa": "21時までのシンデレラ",
+    "titleEn": "21ji Made no Cinderella",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2005-08-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-chokkan-2-nogashita-sakana-wa-ookiizo",
+    "titleJa": "直感2 ～逃した魚は大きいぞ！～",
+    "titleEn": "Chokkan 2 ~Nogashita Sakana wa Ookiizo!~",
+    "groupId": "morning-musume",
+    "releaseDate": "2005-11-09",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-gag-100kaibun-aishite-kudasai",
+    "titleJa": "ギャグ100回分愛してください",
+    "titleEn": "Gag 100kaibun Aishite Kudasai",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2005-11-23",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-sexy-boy-soyokaze-ni-yorisotte",
+    "titleJa": "SEXY BOY ～そよ風に寄り添って～",
+    "titleEn": "SEXY BOY ~Soyokaze ni Yorisotte~",
+    "groupId": "morning-musume",
+    "releaseDate": "2006-03-15",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-jiriri-kiteru",
+    "titleJa": "ジリリ キテル",
+    "titleEn": "Jiriri Kiteru",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2006-03-29",
+    "type": "single"
+  },
+  {
+    "id": "cute-massara-blue-jeans",
+    "titleJa": "まっさらブルージーンズ",
+    "titleEn": "Massara Blue Jeans",
+    "groupId": "cute",
+    "releaseDate": "2006-05-06",
+    "type": "single"
+  },
+  {
+    "id": "cute-soku-dakishimete",
+    "titleJa": "即 抱きしめて",
+    "titleEn": "Soku Dakishimete",
+    "groupId": "cute",
+    "releaseDate": "2006-06-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ambitious-yashinteki-de-ii-jan",
+    "titleJa": "Ａｍｂｉｔｉｏｕｓ！野心的でいいじゃん",
+    "titleEn": "Ambitious! Yashinteki de Ii jan",
+    "groupId": "morning-musume",
+    "releaseDate": "2006-06-21",
+    "type": "single"
+  },
+  {
+    "id": "cute-ooki-na-ai-de-motenashite",
+    "titleJa": "大きな愛でもてなして",
+    "titleEn": "Ooki na Ai de Motenashite",
+    "groupId": "cute",
+    "releaseDate": "2006-07-09",
+    "type": "single"
+  },
+  {
+    "id": "cute-wakkyanai-z",
+    "titleJa": "わっきゃない(Z)",
+    "titleEn": "Wakkyanai (Z)",
+    "groupId": "cute",
+    "releaseDate": "2006-07-29",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-waracchaou-yo-boyfriend",
+    "titleJa": "笑っちゃおうよ BOYFRIEND",
+    "titleEn": "Waracchaou yo BOYFRIEND",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2006-08-02",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-aruiteru",
+    "titleJa": "歩いてる",
+    "titleEn": "Aruiteru",
+    "groupId": "morning-musume",
+    "releaseDate": "2006-11-08",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-munasawagi-scarlet",
+    "titleJa": "胸さわぎスカーレット",
+    "titleEn": "Munasawagi Scarlet",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2006-12-06",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-egao-yes-nude",
+    "titleJa": "笑顔YESヌード",
+    "titleEn": "Egao YES Nude",
+    "groupId": "morning-musume",
+    "releaseDate": "2007-02-14",
+    "type": "single"
+  },
+  {
+    "id": "cute-sakura-chirari",
+    "titleJa": "桜チラリ",
+    "titleEn": "Sakura Chirari",
+    "groupId": "cute",
+    "releaseDate": "2007-02-21",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-very-beauty",
+    "titleJa": "VERY BEAUTY",
+    "titleEn": "VERY BEAUTY",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2007-03-07",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-kanashimi-twilight",
+    "titleJa": "悲しみトワイライト",
+    "titleEn": "Kanashimi Twilight",
+    "groupId": "morning-musume",
+    "releaseDate": "2007-04-25",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-kokuhaku-no-funsui-hiroba",
+    "titleJa": "告白の噴水広場",
+    "titleEn": "Kokuhaku no Funsui Hiroba",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2007-06-27",
+    "type": "single"
+  },
+  {
+    "id": "cute-meguru-koi-no-kisetsu",
+    "titleJa": "めぐる恋の季節",
+    "titleEn": "Meguru Koi no Kisetsu",
+    "groupId": "cute",
+    "releaseDate": "2007-07-11",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-onna-ni-sachi-are",
+    "titleJa": "女に幸あれ",
+    "titleEn": "Onna ni Sachi Are",
+    "groupId": "morning-musume",
+    "releaseDate": "2007-07-25",
+    "type": "single"
+  },
+  {
+    "id": "cute-tokaikko-junjou",
+    "titleJa": "都会っ子 純情",
+    "titleEn": "Tokaikko Junjou",
+    "groupId": "cute",
+    "releaseDate": "2007-10-17",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-mikan",
+    "titleJa": "みかん",
+    "titleEn": "Mikan",
+    "groupId": "morning-musume",
+    "releaseDate": "2007-11-21",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-tsukiatteru-no-ni-kataomoi",
+    "titleJa": "付き合ってるのに片思い",
+    "titleEn": "Tsukiatteru no ni Kataomoi",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2007-11-28",
+    "type": "single"
+  },
+  {
+    "id": "cute-lalala-shiawase-no-uta",
+    "titleJa": "LALALA 幸せの歌",
+    "titleEn": "LALALA Shiawase no Uta",
+    "groupId": "cute",
+    "releaseDate": "2008-02-27",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-dschinghis-khan",
+    "titleJa": "ジンギスカン",
+    "titleEn": "Dschinghis Khan",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2008-03-12",
+    "type": "single"
+  },
+  {
+    "id": "cute-koero-rakuten-eagles",
+    "titleJa": "越えろ! 楽天イーグルス",
+    "titleEn": "Koero! Rakuten Eagles",
+    "groupId": "cute",
+    "releaseDate": "2008-03-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-resonant-blue",
+    "titleJa": "リゾナント ブルー",
+    "titleEn": "Resonant Blue",
+    "groupId": "morning-musume",
+    "releaseDate": "2008-04-16",
+    "type": "single"
+  },
+  {
+    "id": "cute-namida-no-iro",
+    "titleJa": "涙の色",
+    "titleEn": "Namida no Iro",
+    "groupId": "cute",
+    "releaseDate": "2008-04-23",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-yuke-yuke-monkey-dance",
+    "titleJa": "行け 行け モンキーダンス",
+    "titleEn": "Yuke Yuke Monkey Dance",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2008-07-09",
+    "type": "single"
+  },
+  {
+    "id": "cute-edo-no-temari-uta-ii",
+    "titleJa": "江戸の手毬唄II",
+    "titleEn": "Edo no Temari Uta II",
+    "groupId": "cute",
+    "releaseDate": "2008-07-30",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-dschinghis-khan-tartar-mix",
+    "titleJa": "ジンギスカン タルタルミックス",
+    "titleEn": "Dschinghis Khan Tartar Mix",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2008-09-17",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-pepper-keibu",
+    "titleJa": "ペッパー警部",
+    "titleEn": "Pepper Keibu",
+    "groupId": "morning-musume",
+    "releaseDate": "2008-09-24",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-madayade",
+    "titleJa": "MADAYADE",
+    "titleEn": "MADAYADE",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2008-11-05",
+    "type": "single"
+  },
+  {
+    "id": "cute-forever-love",
+    "titleJa": "FOREVER LOVE",
+    "titleEn": "FOREVER LOVE",
+    "groupId": "cute",
+    "releaseDate": "2008-11-26",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-naichau-kamo",
+    "titleJa": "泣いちゃうかも",
+    "titleEn": "Naichau Kamo",
+    "groupId": "morning-musume",
+    "releaseDate": "2009-02-18",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-dakishimete-dakishimete",
+    "titleJa": "抱きしめて 抱きしめて",
+    "titleEn": "Dakishimete Dakishimete",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2009-03-11",
+    "type": "single"
+  },
+  {
+    "id": "cute-bye-bye-bye",
+    "titleJa": "Bye Bye Bye!",
+    "titleEn": "Bye Bye Bye!",
+    "groupId": "cute",
+    "releaseDate": "2009-04-15",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-shouganai-yume-oibito",
+    "titleJa": "しょうがない 夢追い人",
+    "titleEn": "Shouganai Yume Oibito",
+    "groupId": "morning-musume",
+    "releaseDate": "2009-05-13",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-seishun-bus-guide-rival",
+    "titleJa": "青春バスガイド／ライバル",
+    "titleEn": "Seishun Bus Guide / Rival",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2009-06-03",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ama-no-jaku",
+    "titleJa": "ぁまのじゃく",
+    "titleEn": "AMa no Jaku",
+    "groupId": "angerme",
+    "releaseDate": "2009-06-07",
+    "type": "single"
+  },
+  {
+    "id": "cute-shochuu-omimai-moushiagemasu",
+    "titleJa": "暑中お見舞い申し上げます",
+    "titleEn": "Shochuu Omimai Moushiagemasu",
+    "groupId": "cute",
+    "releaseDate": "2009-07-01",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-nanchatte-renai",
+    "titleJa": "なんちゃって恋愛",
+    "titleEn": "Nanchatte Ren'ai",
+    "groupId": "morning-musume",
+    "releaseDate": "2009-08-12",
+    "type": "single"
+  },
+  {
+    "id": "cute-everyday-zekkouchou",
+    "titleJa": "EVERYDAY 絶好調!!",
+    "titleEn": "EVERYDAY Zekkouchou!!",
+    "groupId": "cute",
+    "releaseDate": "2009-09-16",
+    "type": "single"
+  },
+  {
+    "id": "angerme-asu-wa-date-na-no-ni-imasugu-koe-ga-kikitai",
+    "titleJa": "あすはデートなのに、今すぐ声が聞きたい",
+    "titleEn": "Asu wa Date na no ni, Imasugu Koe ga Kikitai",
+    "groupId": "angerme",
+    "releaseDate": "2009-09-23",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-kimagure-princess",
+    "titleJa": "気まぐれプリンセス",
+    "titleEn": "Kimagure Princess",
+    "groupId": "morning-musume",
+    "releaseDate": "2009-10-28",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-watashi-no-mirai-no-danna-sama-ryuusei-boy",
+    "titleJa": "私の未来のだんな様／流星ボーイ",
+    "titleEn": "Watashi no Mirai no Danna-sama / Ryuusei Boy",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2009-11-11",
+    "type": "single"
+  },
+  {
+    "id": "angerme-suki-chan",
+    "titleJa": "スキちゃん",
+    "titleEn": "Suki-chan",
+    "groupId": "angerme",
+    "releaseDate": "2009-11-23",
+    "type": "single"
+  },
+  {
+    "id": "cute-shock",
+    "titleJa": "SHOCK!",
+    "titleEn": "SHOCK!",
+    "groupId": "cute",
+    "releaseDate": "2010-01-06",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-onna-ga-medatte-naze-ikenai",
+    "titleJa": "女が目立って なぜイケナイ",
+    "titleEn": "Onna ga Medatte Naze Ikenai",
+    "groupId": "morning-musume",
+    "releaseDate": "2010-02-10",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-otakebi-boy-wao-tomodachi-wa-tomodachi-nanda",
+    "titleJa": "雄叫びボーイ WAO!/友達は友達なんだ!",
+    "titleEn": "Otakebi Boy WAO! / Tomodachi wa Tomodachi Nanda!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2010-03-03",
+    "type": "single"
+  },
+  {
+    "id": "angerme-otona-ni-narutte-muzukashii",
+    "titleJa": "オトナになるって難しい!!!",
+    "titleEn": "Otona ni Narutte Muzukashii!!!",
+    "groupId": "angerme",
+    "releaseDate": "2010-03-14",
+    "type": "single"
+  },
+  {
+    "id": "cute-campus-life-umarete-kite-yokatta",
+    "titleJa": "キャンパスライフ～生まれて来てよかった～",
+    "titleEn": "Campus Life ~Umarete Kite Yokatta~",
+    "groupId": "cute",
+    "releaseDate": "2010-04-28",
+    "type": "single"
+  },
+  {
+    "id": "angerme-yumemiru-fifteen",
+    "titleJa": "夢見る {{kana|15歳|フィフティーン}}",
+    "titleEn": "Yumemiru Fifteen",
+    "groupId": "angerme",
+    "releaseDate": "2010-05-26",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-seishun-collection",
+    "titleJa": "青春コレクション",
+    "titleEn": "Seishun Collection",
+    "groupId": "morning-musume",
+    "releaseDate": "2010-06-09",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-maji-bomber",
+    "titleJa": "本気ボンバー！！",
+    "titleEn": "Maji Bomber!!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2010-07-14",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ganbaranakutemo-eenende",
+    "titleJa": "○○ がんばらなくてもええねんで!!",
+    "titleEn": "○○ Ganbaranakutemo Eenende!!",
+    "groupId": "angerme",
+    "releaseDate": "2010-07-28",
+    "type": "single"
+  },
+  {
+    "id": "cute-dance-de-bakoon",
+    "titleJa": "Danceでバコーン!",
+    "titleEn": "Dance de Bakoon!",
+    "groupId": "cute",
+    "releaseDate": "2010-08-25",
+    "type": "single"
+  },
+  {
+    "id": "angerme-onaji-jikyuu-de-hataraku-tomodachi-no-bijin-mama",
+    "titleJa": "同じ時給で働く友達の美人ママ",
+    "titleEn": "Onaji Jikyuu de Hataraku Tomodachi no Bijin Mama",
+    "groupId": "angerme",
+    "releaseDate": "2010-09-29",
+    "type": "single"
+  },
+  {
+    "id": "cute-akuma-de-cute-na-seishun-graffiti",
+    "titleJa": "アクマでキュートな青春グラフィティ",
+    "titleEn": "Akuma de Cute na Seishun Graffiti",
+    "groupId": "cute",
+    "releaseDate": "2010-10-13",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-appare-kaitenzushi",
+    "titleJa": "あっぱれ回転ずし!",
+    "titleEn": "Appare Kaitenzushi!",
+    "groupId": "morning-musume",
+    "releaseDate": "2010-10-27",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-shining-power",
+    "titleJa": "シャイニング パワー",
+    "titleEn": "Shining Power",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2010-11-10",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-onna-to-otoko-no-lullaby-game",
+    "titleJa": "女と男のララバイゲーム",
+    "titleEn": "Onna to Otoko no Lullaby Game",
+    "groupId": "morning-musume",
+    "releaseDate": "2010-11-17",
+    "type": "single"
+  },
+  {
+    "id": "angerme-my-school-march",
+    "titleJa": "マイ・スクール・マーチ",
+    "titleEn": "My School March",
+    "groupId": "angerme",
+    "releaseDate": "2010-11-24",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ramen-revolution-2010-long-type",
+    "titleJa": "ラーメンレボリューション2010 Long Type",
+    "titleEn": "Ramen Revolution 2010 Long Type",
+    "groupId": "morning-musume",
+    "releaseDate": "2010-12-01",
+    "type": "single"
+  },
+  {
+    "id": "cute-aitai-lonely-christmas",
+    "titleJa": "会いたいロンリークリスマス",
+    "titleEn": "Aitai Lonely Christmas",
+    "groupId": "cute",
+    "releaseDate": "2010-12-01",
+    "type": "single"
+  },
+  {
+    "id": "angerme-short-cut",
+    "titleJa": "ショートカット",
+    "titleEn": "Short Cut",
+    "groupId": "angerme",
+    "releaseDate": "2011-02-09",
+    "type": "single"
+  },
+  {
+    "id": "cute-kiss-me-aishiteru",
+    "titleJa": "Kiss me 愛してる",
+    "titleEn": "Kiss me Aishiteru",
+    "groupId": "cute",
+    "releaseDate": "2011-02-23",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-heroine-ni-narou-ka",
+    "titleJa": "ヒロインになろうか！",
+    "titleEn": "Heroine ni Narou ka!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-03-02",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-maji-desu-ka-ska",
+    "titleJa": "まじですかスカ！",
+    "titleEn": "Maji Desu ka Ska!",
+    "groupId": "morning-musume",
+    "releaseDate": "2011-04-06",
+    "type": "single"
+  },
+  {
+    "id": "angerme-koi-ni-booing-buu",
+    "titleJa": "恋にBooingブー",
+    "titleEn": "Koi ni Booing Buu!",
+    "groupId": "angerme",
+    "releaseDate": "2011-04-20",
+    "type": "single"
+  },
+  {
+    "id": "cute-momoiro-sparkling",
+    "titleJa": "桃色スパークリング",
+    "titleEn": "Momoiro Sparkling",
+    "groupId": "cute",
+    "releaseDate": "2011-05-25",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-ai-no-dangan",
+    "titleJa": "愛の弾丸",
+    "titleEn": "Ai no Dangan",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-06-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-only-you",
+    "titleJa": "Only you",
+    "titleEn": "Only you",
+    "groupId": "morning-musume",
+    "releaseDate": "2011-06-15",
+    "type": "single"
+  },
+  {
+    "id": "angerme-uchouten-love",
+    "titleJa": "有頂天ＬＯＶＥ",
+    "titleEn": "Uchouten LOVE",
+    "groupId": "angerme",
+    "releaseDate": "2011-08-03",
+    "type": "single"
+  },
+  {
+    "id": "angerme-makeruna-wasshoi",
+    "titleJa": "負けるな わっしょい!",
+    "titleEn": "Makeruna Wasshoi!",
+    "groupId": "angerme",
+    "releaseDate": "2011-08-06",
+    "type": "single"
+  },
+  {
+    "id": "cute-makeruna-wasshoi",
+    "titleJa": "負けるな わっしょい!",
+    "titleEn": "Makeruna Wasshoi!",
+    "groupId": "cute",
+    "releaseDate": "2011-08-06",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-makeruna-wasshoi",
+    "titleJa": "負けるな わっしょい!",
+    "titleEn": "Makeruna Wasshoi!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-08-06",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-aa-yo-ga-akeru",
+    "titleJa": "ああ, 夜が明ける",
+    "titleEn": "Aa, Yo ga Akeru",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-08-10",
+    "type": "single"
+  },
+  {
+    "id": "cute-sekaiichi-happy-na-onna-no-ko",
+    "titleJa": "世界一HAPPYな女の子",
+    "titleEn": "Sekaiichi HAPPY na Onna no Ko",
+    "groupId": "cute",
+    "releaseDate": "2011-09-07",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-kono-chikyuu-no-heiwa-wo-honki-de-negatterun-da-yo",
+    "titleJa": "この地球の平和を本気で願ってるんだよ！",
+    "titleEn": "Kono Chikyuu no Heiwa wo Honki de Negatterun da yo!",
+    "groupId": "morning-musume",
+    "releaseDate": "2011-09-14",
+    "type": "single"
+  },
+  {
+    "id": "cute-seishun-gekijou",
+    "titleJa": "青春劇場",
+    "titleEn": "Seishun Gekijou",
+    "groupId": "cute",
+    "releaseDate": "2011-09-17",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-seishun-gekijou",
+    "titleJa": "青春劇場",
+    "titleEn": "Seishun Gekijou",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-09-17",
+    "type": "single"
+  },
+  {
+    "id": "angerme-tachiagirl",
+    "titleJa": "タチアガール",
+    "titleEn": "Tachiagirl",
+    "groupId": "angerme",
+    "releaseDate": "2011-09-28",
+    "type": "single"
+  },
+  {
+    "id": "cute-amazuppai-haru-ni-sakura-saku",
+    "titleJa": "甘酸っぱい春にサクラサク",
+    "titleEn": "Amazuppai Haru ni Sakura Saku",
+    "groupId": "cute",
+    "releaseDate": "2011-11-09",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-amazuppai-haru-ni-sakura-saku",
+    "titleJa": "甘酸っぱい春にサクラサク",
+    "titleEn": "Amazuppai Haru ni Sakura Saku",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-11-09",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-busu-ni-naranai-tetsugaku",
+    "titleJa": "ブスにならない哲学",
+    "titleEn": "Busu ni Naranai Tetsugaku",
+    "groupId": "morning-musume",
+    "releaseDate": "2011-11-16",
+    "type": "single"
+  },
+  {
+    "id": "angerme-busu-ni-naranai-tetsugaku",
+    "titleJa": "ブスにならない哲学",
+    "titleEn": "Busu ni Naranai Tetsugaku",
+    "groupId": "angerme",
+    "releaseDate": "2011-11-16",
+    "type": "single"
+  },
+  {
+    "id": "cute-busu-ni-naranai-tetsugaku",
+    "titleJa": "ブスにならない哲学",
+    "titleEn": "Busu ni Naranai Tetsugaku",
+    "groupId": "cute",
+    "releaseDate": "2011-11-16",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-busu-ni-naranai-tetsugaku",
+    "titleJa": "ブスにならない哲学",
+    "titleEn": "Busu ni Naranai Tetsugaku",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2011-11-16",
+    "type": "single"
+  },
+  {
+    "id": "angerme-please-miniskirt-postwoman",
+    "titleJa": "プリーズ ミニスカ ポストウーマン！",
+    "titleEn": "Please Miniskirt Postwoman!",
+    "groupId": "angerme",
+    "releaseDate": "2011-12-28",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-pyocopyoco-ultra",
+    "titleJa": "ピョコピョコ ウルトラ",
+    "titleEn": "Pyocopyoco Ultra",
+    "groupId": "morning-musume",
+    "releaseDate": "2012-01-25",
+    "type": "single"
+  },
+  {
+    "id": "angerme-choto-mate-kudasai",
+    "titleJa": "チョトマテクダサイ!",
+    "titleEn": "Choto Mate Kudasai!",
+    "groupId": "angerme",
+    "releaseDate": "2012-02-01",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-be-genki-naseba-naru",
+    "titleJa": "Be 元気<成せば成るっ!>",
+    "titleEn": "Be Genki (Naseba Naru!)",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2012-03-21",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-renai-hunter",
+    "titleJa": "恋愛ハンター",
+    "titleEn": "Ren'ai Hunter",
+    "groupId": "morning-musume",
+    "releaseDate": "2012-04-11",
+    "type": "single"
+  },
+  {
+    "id": "cute-kimi-wa-jitensha-watashi-wa-densha-de-kitaku",
+    "titleJa": "君は自転車 私は電車で帰宅",
+    "titleEn": "Kimi wa Jitensha Watashi wa Densha de Kitaku",
+    "groupId": "cute",
+    "releaseDate": "2012-04-18",
+    "type": "single"
+  },
+  {
+    "id": "cute-chou-happy-song",
+    "titleJa": "超HAPPY SONG",
+    "titleEn": "Chou HAPPY SONG",
+    "groupId": "cute",
+    "releaseDate": "2012-04-28",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-chou-happy-song",
+    "titleJa": "超HAPPY SONG",
+    "titleEn": "Chou HAPPY SONG",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2012-04-28",
+    "type": "single"
+  },
+  {
+    "id": "angerme-dot-bikini",
+    "titleJa": "ドットビキニ",
+    "titleEn": "Dot Bikini",
+    "groupId": "angerme",
+    "releaseDate": "2012-05-02",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-one・two・three-the-matenrou-show",
+    "titleJa": "One・Two・Three/The 摩天楼ショー",
+    "titleEn": "One・Two・Three / The Matenrou Show",
+    "groupId": "morning-musume",
+    "releaseDate": "2012-07-04",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-cha-cha-sing",
+    "titleJa": "|Cover          = chachaSING-r.jpg",
+    "titleEn": "Cha cha SING",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2012-07-25",
+    "type": "single"
+  },
+  {
+    "id": "angerme-suki-yo-junjou-hankouki",
+    "titleJa": "好きよ、純情反抗期。",
+    "titleEn": "Suki yo, Junjou Hankouki.",
+    "groupId": "angerme",
+    "releaseDate": "2012-08-22",
+    "type": "single"
+  },
+  {
+    "id": "cute-aitai-aitai-aitai-na",
+    "titleJa": "会いたい会いたい会いたいな",
+    "titleEn": "Aitai Aitai Aitai na",
+    "groupId": "cute",
+    "releaseDate": "2012-09-05",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-wakuteka-take-a-chance",
+    "titleJa": "ワクテカ Take a chance",
+    "titleEn": "Wakuteka Take a chance",
+    "groupId": "morning-musume",
+    "releaseDate": "2012-10-10",
+    "type": "single"
+  },
+  {
+    "id": "angerme-samui-ne",
+    "titleJa": "寒いね。",
+    "titleEn": "Samui ne.",
+    "groupId": "angerme",
+    "releaseDate": "2012-11-28",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-want",
+    "titleJa": "WANT!",
+    "titleEn": "WANT!",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2012-12-19",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-help-me",
+    "titleJa": "Help me!!",
+    "titleEn": "Help me!!",
+    "groupId": "morning-musume",
+    "releaseDate": "2013-01-23",
+    "type": "single"
+  },
+  {
+    "id": "cute-kono-machi",
+    "titleJa": "この街",
+    "titleEn": "Kono Machi",
+    "groupId": "cute",
+    "releaseDate": "2013-02-06",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-asian-celebration",
+    "titleJa": "アジアンセレブレイション",
+    "titleEn": "Asian Celebration",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2013-03-13",
+    "type": "single"
+  },
+  {
+    "id": "angerme-tabidachi-no-haru-ga-kita",
+    "titleJa": "旅立ちの春が来た",
+    "titleEn": "Tabidachi no Haru ga Kita",
+    "groupId": "angerme",
+    "releaseDate": "2013-03-20",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-watashi-ga-iu-mae-ni-dakishimenakya-ne",
+    "titleJa": "私が言う前に抱きしめなきゃね",
+    "titleEn": "Watashi ga Iu Mae ni Dakishimenakya ne",
+    "groupId": "juice-juice",
+    "releaseDate": "2013-03-31",
+    "type": "single"
+  },
+  {
+    "id": "cute-crazy-kanzen-na-otona",
+    "titleJa": "Crazy 完全な大人",
+    "titleEn": "Crazy Kanzen na Otona",
+    "groupId": "cute",
+    "releaseDate": "2013-04-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-brainstorming-kimi-sae-ireba-nani-mo-iranai",
+    "titleJa": "ブレインストーミング／君さえ居れば何も要らない;",
+    "titleEn": "Brainstorming / Kimi Sae Ireba Nani mo Iranai",
+    "groupId": "morning-musume",
+    "releaseDate": "2013-04-17",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-samidare-bijo-ga-samidareru",
+    "titleJa": "五月雨美女がさ乱れる",
+    "titleEn": "Samidare Bijo ga Samidareru",
+    "groupId": "juice-juice",
+    "releaseDate": "2013-05-05",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-ten-made-nobore",
+    "titleJa": "天まで登れ!",
+    "titleEn": "Ten Made Nobore!",
+    "groupId": "juice-juice",
+    "releaseDate": "2013-06-08",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-golden-chinatown-sayonara-usotsuki-no-watashi",
+    "titleJa": "ゴールデンチャイナタウン / サヨナラ ウソつきの私",
+    "titleEn": "Golden Chinatown / Sayonara Usotsuki no Watashi",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2013-06-19",
+    "type": "single"
+  },
+  {
+    "id": "angerme-atarashii-watashi-ni-nare-yattaruchan",
+    "titleJa": "新しい私になれ!/ヤッタルチャン",
+    "titleEn": "Atarashii Watashi ni Nare! / Yattaruchan",
+    "groupId": "angerme",
+    "releaseDate": "2013-07-03",
+    "type": "single"
+  },
+  {
+    "id": "cute-kanashiki-amefuri-adam-to-eve-no-dilemma",
+    "titleJa": "悲しき雨降り/アダムとイブのジレンマ",
+    "titleEn": "Kanashiki Amefuri / Adam to Eve no Dilemma",
+    "groupId": "cute",
+    "releaseDate": "2013-07-10",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-wagamama-ki-no-mama-ai-no-joke-ai-no-gundan",
+    "titleJa": "わがまま 気のまま 愛のジョーク／愛の軍団",
+    "titleEn": "Wagamama Ki no Mama Ai no Joke / Ai no Gundan",
+    "groupId": "morning-musume",
+    "releaseDate": "2013-08-28",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-romance-no-tochuu-watashi-ga-iu-mae-ni-dakishimenakya-ne-mem",
+    "titleJa": "ロマンスの途中／私が言う前に抱きしめなきゃね（MEMORIAL EDIT）／五月雨美女がさ乱れる（MEMORIAL EDIT）",
+    "titleEn": "Romance no Tochuu / Watashi ga Iu Mae ni Dakishimenakya ne (MEMORIAL EDIT) / Samidare Bijo ga Samidareru (MEMORIAL EDIT)",
+    "groupId": "juice-juice",
+    "releaseDate": "2013-09-11",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-motto-zutto-issho-ni-itakatta-rock-erotic",
+    "titleJa": "もっとずっと一緒に居たかった/ROCKエロティック",
+    "titleEn": "Motto Zutto Issho ni Itakatta / ROCK Erotic",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2013-10-02",
+    "type": "single"
+  },
+  {
+    "id": "cute-tokai-no-hitorigurashi-aitte-motto-zanshin",
+    "titleJa": "都会の一人暮らし/愛ってもっと斬新",
+    "titleEn": "Tokai no Hitorigurashi / Aitte Motto Zanshin",
+    "groupId": "cute",
+    "releaseDate": "2013-11-06",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-ijiwaru-shinai-de-dakishimete-yo-hajimete-wo-keikenchuu",
+    "titleJa": "イジワルしないで 抱きしめてよ／初めてを経験中",
+    "titleEn": "Ijiwaru Shinai de Dakishimete yo / Hajimete wo Keikenchuu",
+    "groupId": "juice-juice",
+    "releaseDate": "2013-12-04",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ee-ka-ii-yatsu",
+    "titleJa": "ええか！？/「良い奴」",
+    "titleEn": "Ee ka!? / \"Ii Yatsu\"",
+    "groupId": "angerme",
+    "releaseDate": "2013-12-18",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-egao-no-kimi-wa-taiyou-sa-kimi-no-kawari-wa-iyashinai-what-i",
+    "titleJa": "笑顔の君は太陽さ／君の代わりは居やしない／What is LOVE?",
+    "titleEn": "Egao no Kimi wa Taiyou sa / Kimi no Kawari wa Iyashinai / What is LOVE?",
+    "groupId": "morning-musume",
+    "releaseDate": "2014-01-29",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-otona-na-no-yo-1oku-3zenman-sou-diet-oukoku",
+    "titleJa": "大人なのよ！／1億3千万総ダイエット王国",
+    "titleEn": "Otona na no yo! / 1oku 3zenman Sou Diet Oukoku",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2014-02-19",
+    "type": "single"
+  },
+  {
+    "id": "cute-kokoro-no-sakebi-wo-uta-ni-shitemita-love-take-it-all",
+    "titleJa": "心の叫びを歌にしてみた／Love take it all",
+    "titleEn": "Kokoro no Sakebi wo Uta ni Shitemita / Love take it all",
+    "groupId": "cute",
+    "releaseDate": "2014-03-05",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-hadaka-no-hadaka-no-hadaka-no-kiss-are-kore-shitai",
+    "titleJa": "裸の裸の裸のKISS／アレコレしたい！",
+    "titleEn": "Hadaka no Hadaka no Hadaka no KISS / Are Kore Shitai!",
+    "groupId": "juice-juice",
+    "releaseDate": "2014-03-19",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-toki-wo-koe-sora-wo-koe-password-is-0",
+    "titleJa": "時空を超え 宇宙を超え／Password is 0",
+    "titleEn": "Toki wo Koe Sora wo Koe / Password is 0",
+    "groupId": "morning-musume",
+    "releaseDate": "2014-04-16",
+    "type": "single"
+  },
+  {
+    "id": "angerme-mystery-night-eighteen-emotion",
+    "titleJa": "ミステリーナイト！／エイティーン エモーション",
+    "titleEn": "Mystery Night! / Eighteen Emotion",
+    "groupId": "angerme",
+    "releaseDate": "2014-04-30",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-ai-wa-itsumo-kimi-no-naka-ni-futsuu-idol-10nen-yatterannai-d",
+    "titleJa": "愛はいつも君の中に／普通、アイドル10年やってらんないでしょ！？",
+    "titleEn": "Ai wa Itsumo Kimi no Naka ni / Futsuu, Idol 10nen Yatterannai Desho!?",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2014-06-04",
+    "type": "single"
+  },
+  {
+    "id": "cute-the-power-kanashiki-heaven-single-version",
+    "titleJa": "The Power／悲しきヘブン(Single Version)",
+    "titleEn": "The Power / Kanashiki Heaven (Single Version)",
+    "groupId": "cute",
+    "releaseDate": "2014-07-16",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-black-butterfly-kaze-ni-fukarete",
+    "titleJa": "ブラックバタフライ／風に吹かれて",
+    "titleEn": "Black Butterfly / Kaze ni Fukarete",
+    "groupId": "juice-juice",
+    "releaseDate": "2014-07-30",
+    "type": "single"
+  },
+  {
+    "id": "angerme-aa-susukino-chikyuu-wa-kyou-mo-ai-wo-hagukumu",
+    "titleJa": "嗚呼 すすきの/地球は今日も愛を育む",
+    "titleEn": "Aa Susukino / Chikyuu wa Kyou mo Ai wo Hagukumu",
+    "groupId": "angerme",
+    "releaseDate": "2014-08-20",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-senobi-date-ja-nai-yo-uchi-no-jinsei-wa",
+    "titleJa": "背伸び／伊達じゃないよ うちの人生は",
+    "titleEn": "Senobi / Date ja nai yo Uchi no Jinsei wa",
+    "groupId": "juice-juice",
+    "releaseDate": "2014-10-01",
+    "type": "single"
+  },
+  {
+    "id": "angerme-smile-fantasy",
+    "titleJa": "|start       = October 4, 2014",
+    "titleEn": "SMILE FANTASY!",
+    "groupId": "angerme",
+    "releaseDate": "2014-10-04",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-tiki-bun-shabadaba-doo-mikaeri-bijin",
+    "titleJa": "TIKI BUN／シャバダバ ドゥ〜／見返り美人",
+    "titleEn": "TIKI BUN / Shabadaba Doo~ / Mikaeri Bijin",
+    "groupId": "morning-musume",
+    "releaseDate": "2014-10-15",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-romance-wo-katatte-towa-no-uta",
+    "titleJa": "ロマンスを語って／永久の歌",
+    "titleEn": "Romance wo Katatte / Towa no Uta",
+    "groupId": "berryz-koubou",
+    "releaseDate": "2014-11-12",
+    "type": "single"
+  },
+  {
+    "id": "cute-i-miss-you-the-future",
+    "titleJa": "I miss you / THE FUTURE",
+    "titleEn": "I miss you / THE FUTURE",
+    "groupId": "cute",
+    "releaseDate": "2014-11-19",
+    "type": "single"
+  },
+  {
+    "id": "angerme-taiki-bansei-otome-no-gyakushuu",
+    "titleJa": "大器晩成／乙女の逆襲",
+    "titleEn": "Taiki Bansei / Otome no Gyakushuu",
+    "groupId": "angerme",
+    "releaseDate": "2015-02-04",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-itooshikutte-gomen-ne-koi-dorobou",
+    "titleJa": "愛おしくってごめんね／恋泥棒",
+    "titleEn": "Itooshikutte Gomen ne / Koi Dorobou",
+    "groupId": "country-girls",
+    "releaseDate": "2015-03-25",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-nen-ni-wa-nen-survivor",
+    "titleJa": "念には念 / サバイバー",
+    "titleEn": "Nen ni wa Nen / Survivor",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2015-03-26",
+    "type": "single"
+  },
+  {
+    "id": "cute-the-middle-management-josei-chuukan-kanrishoku-gamusha-life-",
+    "titleJa": "次の角を曲がれ / 我武者LIFE / The Middle Management ～女性中間管理職～",
+    "titleEn": "The Middle Management ~Josei Chuukan Kanrishoku~ / Gamusha LIFE / Tsugi no Kado wo Magare",
+    "groupId": "cute",
+    "releaseDate": "2015-04-01",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-wonderful-world-a-va-a-va",
+    "titleJa": "Wonderful World / Ça va ? Ça va ?",
+    "titleEn": "Wonderful World / Ça va ? Ça va ?",
+    "groupId": "juice-juice",
+    "releaseDate": "2015-04-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-seishun-kozou-ga-naiteiru-yuugure-wa-ameagari-ima-koko-kara",
+    "titleJa": "青春小僧が泣いている／夕暮れは雨上がり／イマココカラ",
+    "titleEn": "Seishun Kozou ga Naiteiru / Yuugure wa Ameagari / Ima Koko Kara",
+    "groupId": "morning-musume",
+    "releaseDate": "2015-04-15",
+    "type": "single"
+  },
+  {
+    "id": "angerme-nana-korobi-ya-oki-gashin-shoutan-mahou-tsukai-sally",
+    "titleJa": "七転び八起き／臥薪嘗胆／魔法使いサリー",
+    "titleEn": "Nana Korobi Ya Oki / Gashin Shoutan / Mahou Tsukai Sally",
+    "groupId": "angerme",
+    "releaseDate": "2015-07-22",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-wakatteiru-no-ni-gomen-ne-tamerai-summer-time",
+    "titleJa": "わかっているのにごめんね/ためらいサマータイム",
+    "titleEn": "Wakatteiru no ni Gomen ne / Tamerai Summer Time",
+    "groupId": "country-girls",
+    "releaseDate": "2015-08-05",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-oh-my-wish-sukatto-my-heart-imasugu-tobikomu-yuuki",
+    "titleJa": "Oh my wish!／スカッとMy Heart／今すぐ飛び込む勇気",
+    "titleEn": "Oh my wish! / Sukatto My Heart / Imasugu Tobikomu Yuuki",
+    "groupId": "morning-musume",
+    "releaseDate": "2015-08-19",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-dosukoi-kenkyo-ni-daitan-ramen-daisuki-koizumi-san-no-uta-ne",
+    "titleJa": "ドスコイ！ケンキョにダイタン / ラーメン大好き小泉さんの唄 / 念には念（念入りVer.）",
+    "titleEn": "Dosukoi! Kenkyo ni Daitan / Ramen Daisuki Koizumi-san no Uta / Nen ni wa Nen (Nen'iri Ver.)",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2015-09-02",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-seishun-manmannaka",
+    "titleJa": "青春まんまんなか！",
+    "titleEn": "Seishun Manmannaka!",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2015-09-06",
+    "type": "single"
+  },
+  {
+    "id": "cute-arigatou-mugen-no-yell-arashi-wo-okosunda-exciting-fight",
+    "titleJa": "ありがとう～無限のエール～／嵐を起こすんだ Exciting Fight!",
+    "titleEn": "Arigatou ~Mugen no Yell~ / Arashi wo Okosunda Exciting Fight!",
+    "groupId": "cute",
+    "releaseDate": "2015-10-28",
+    "type": "single"
+  },
+  {
+    "id": "angerme-desugita-kui-wa-utarenai-dondengaeshi-watashi",
+    "titleJa": "出すぎた杭は打たれない／ドンデンガエシ／わたし",
+    "titleEn": "Desugita Kui wa Utarenai / Dondengaeshi / Watashi",
+    "groupId": "angerme",
+    "releaseDate": "2015-11-09",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-tsumetai-kaze-to-kataomoi-endless-sky-one-and-only",
+    "titleJa": "冷たい風と片思い／ENDLESS SKY／One and Only",
+    "titleEn": "Tsumetai Kaze to Kataomoi / ENDLESS SKY / One and Only",
+    "groupId": "morning-musume",
+    "releaseDate": "2015-12-29",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-kedakaku-sakihokore",
+    "titleJa": "気高く咲き誇れ!",
+    "titleEn": "Kedakaku Sakihokore!",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2015-12-31",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-next-is-you-karada-dake-ga-otona-ni-nattan-ja-nai",
+    "titleJa": "Next is you!／カラダだけが大人になったんじゃない",
+    "titleEn": "Next is you! / Karada Dake ga Otona ni Nattan ja nai",
+    "groupId": "juice-juice",
+    "releaseDate": "2016-02-03",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-sakura-night-fever-chotto-guchoku-ni-chototsumoushin-osu-kob",
+    "titleJa": "桜ナイトフィーバー／チョット愚直に！猪突猛進／押忍！こぶし魂",
+    "titleEn": "Sakura Night Fever / Chotto Guchoku ni! Chototsumoushin / Osu! Kobushi Damashii",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2016-02-17",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-otona-no-jijou",
+    "titleJa": "大人の事情",
+    "titleEn": "Otona no Jijou",
+    "groupId": "juice-juice",
+    "releaseDate": "2016-03-02",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-boogie-woogie-love-koi-wa-magnet-ranrarun-anata-ni-muchuu",
+    "titleJa": "ブギウギLOVE／恋はマグネット／ランラルン〜あなたに夢中〜",
+    "titleEn": "Boogie Woogie LOVE / Koi wa Magnet / Ranrarun ~Anata ni Muchuu~",
+    "groupId": "country-girls",
+    "releaseDate": "2016-03-09",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-kizetsu-suru-hodo-aishiteru",
+    "titleJa": "気絶するほど愛してる！",
+    "titleEn": "Kizetsu Suru Hodo Aishiteru!",
+    "groupId": "country-girls",
+    "releaseDate": "2016-03-25",
+    "type": "single"
+  },
+  {
+    "id": "cute-naze-hito-wa-arasoun-darou-summer-wind-jinsei-wa-step",
+    "titleJa": "何故 人は争うんだろう？／Summer Wind／人生はSTEP!",
+    "titleEn": "Naze Hito wa Arasoun Darou? / Summer Wind / Jinsei wa STEP!",
+    "groupId": "cute",
+    "releaseDate": "2016-04-20",
+    "type": "single"
+  },
+  {
+    "id": "angerme-tsugitsugi-zokuzoku-itoshima-distance-koi-nara-tokku-ni-haji",
+    "titleJa": "次々続々／糸島Distance／恋ならとっくに始まってる",
+    "titleEn": "Tsugitsugi Zokuzoku / Itoshima Distance / Koi Nara Tokku ni Hajimatteru",
+    "groupId": "angerme",
+    "releaseDate": "2016-04-27",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-utakata-saturday-night-the-vision-tokyo-to-iu-katasumi",
+    "titleJa": "泡沫サタデーナイト！／The Vision／Tokyoという片隅",
+    "titleEn": "Utakata Saturday Night! / The Vision / Tokyo to Iu Katasumi",
+    "groupId": "morning-musume",
+    "releaseDate": "2016-05-11",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-samba-kobushi-janeiro-bacchikoi-seishun-ora-wa-ninkimono",
+    "titleJa": "サンバ！こぶしジャネイロ/バッチ来い青春！/オラはにんきもの",
+    "titleEn": "Samba! Kobushi Janeiro / Bacchikoi Seishun! / Ora wa Ninkimono",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2016-07-27",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-hitorijime-watashi-ga-obasan-ni-natte-mo",
+    "titleJa": "独り占め / 私がオバさんになっても",
+    "titleEn": "Hitorijime / Watashi ga Obasan ni Natte mo",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2016-08-06",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-dou-datte-ii-no-namida-no-request",
+    "titleJa": "どーだっていいの／涙のリクエスト",
+    "titleEn": "Dou Datte Ii no / Namida no Request",
+    "groupId": "country-girls",
+    "releaseDate": "2016-09-28",
+    "type": "single"
+  },
+  {
+    "id": "angerme-umaku-ienai-ai-no-tame-kyou-made-shinka-shite-kita-ningen-ai",
+    "titleJa": "上手く言えない／愛のため今日まで進化してきた人間　愛のためすべて退化してきた人間／忘れてあげる",
+    "titleEn": "Umaku Ienai / Ai no Tame Kyou Made Shinka Shite Kita Ningen Ai no Tame Subete Taika Shite Kita Ningen / Wasurete Ageru",
+    "groupId": "angerme",
+    "releaseDate": "2016-10-19",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-dream-road-kokoro-ga-odoridashiteru-keep-on-joushou-shikou-a",
+    "titleJa": "Dream Road～心が躍り出してる～／KEEP ON 上昇志向！！／明日やろうはバカやろう",
+    "titleEn": "Dream Road ~Kokoro ga Odoridashiteru~ / KEEP ON Joushou Shikou!! / Ashita Yarou wa Bakayarou",
+    "groupId": "juice-juice",
+    "releaseDate": "2016-10-26",
+    "type": "single"
+  },
+  {
+    "id": "cute-mugen-climax-ai-wa-maru-de-seidenki-singing-ano-koro-no-you-",
+    "titleJa": "夢幻クライマックス／愛はまるで静電気／Singing～あの頃のように～",
+    "titleEn": "Mugen Climax / Ai wa Maru de Seidenki / Singing ~Ano Koro no You ni~",
+    "groupId": "cute",
+    "releaseDate": "2016-11-02",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-nega-poji-poji",
+    "titleJa": "ネガポジポジ",
+    "titleEn": "Nega Poji Poji",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2016-11-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-sexy-cat-no-enzetsu-mukidashi-de-mukiatte-sou-ja-nai",
+    "titleJa": "セクシーキャットの演説／ムキダシで向き合って／そうじゃない",
+    "titleEn": "Sexy Cat no Enzetsu / Mukidashi de Mukiatte / Sou ja nai",
+    "groupId": "morning-musume",
+    "releaseDate": "2016-11-23",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-good-boy-bad-girl-peanut-butter-jelly-love",
+    "titleJa": "Good Boy Bad Girl / ピーナッツバタージェリーラブ",
+    "titleEn": "Good Boy Bad Girl / Peanut Butter Jelly Love",
+    "groupId": "country-girls",
+    "releaseDate": "2017-02-08",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-hatsukoi-sunrise-just-try-uruwashi-no-camellia",
+    "titleJa": "初恋サンライズ/Just Try!/うるわしのカメリア",
+    "titleEn": "Hatsukoi Sunrise / Just Try! / Uruwashi no Camellia",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2017-02-22",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-brand-new-morning-jealousy-jealousy",
+    "titleJa": "BRAND NEW MORNING／ジェラシー ジェラシー",
+    "titleEn": "BRAND NEW MORNING / Jealousy Jealousy",
+    "groupId": "morning-musume",
+    "releaseDate": "2017-03-08",
+    "type": "single"
+  },
+  {
+    "id": "cute-to-tomorrow-final-squall-the-curtain-rises",
+    "titleJa": "To Tomorrow／ファイナルスコール／The Curtain Rises",
+    "titleEn": "To Tomorrow / Final Squall / The Curtain Rises",
+    "groupId": "cute",
+    "releaseDate": "2017-03-29",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-jidanda-dance-feel-kanjiru-yo",
+    "titleJa": "地団駄ダンス／Feel！感じるよ",
+    "titleEn": "Jidanda Dance / Feel! Kanjiru yo",
+    "groupId": "juice-juice",
+    "releaseDate": "2017-04-26",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-shalala-yareru-hazu-sa-ee-ja-nai-ka-ninja-nai-ka",
+    "titleJa": "シャララ！やれるはずさ／エエジャナイカ ニンジャナイカ",
+    "titleEn": "Shalala! Yareru Hazu sa / Ee ja nai ka Ninja nai ka",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2017-06-14",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ai-sae-areba-nanni-mo-iranai-namida-iro-no-ketsui-majokko-me",
+    "titleJa": "愛さえあればなんにもいらない/ナミダイロノケツイ/魔女っ子メグちゃん",
+    "titleEn": "Ai Sae Areba Nanni mo Iranai / Namida Iro no Ketsui / Majokko Megu-chan",
+    "groupId": "angerme",
+    "releaseDate": "2017-06-21",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-shuukatsu-sensation-waratte-hana-moyou",
+    "titleJa": "就活センセーション／笑って／ハナモヨウ",
+    "titleEn": "Shuukatsu Sensation / Waratte / Hana Moyou",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2017-07-26",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-fiesta-fiesta",
+    "titleJa": "|Cover          = FiestaFiesta-r.jpg",
+    "titleEn": "Fiesta! Fiesta!",
+    "groupId": "juice-juice",
+    "releaseDate": "2017-08-23",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-jama-shinai-de-here-we-go-dokyuu-no-go-sign-wakain-da-shi",
+    "titleJa": "邪魔しないで Here We Go！／弩級のゴーサイン／若いんだし！",
+    "titleEn": "Jama Shinai de Here We Go! / Dokyuu no Go Sign / Wakain da shi!",
+    "groupId": "morning-musume",
+    "releaseDate": "2017-10-04",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-gosenfu-no-tasuki",
+    "titleJa": "五線譜のたすき",
+    "titleEn": "Gosenfu no Tasuki",
+    "groupId": "morning-musume",
+    "releaseDate": "2017-11-30",
+    "type": "single"
+  },
+  {
+    "id": "angerme-manner-mode-kisokutadashiku-utsukushiku-kimi-dake-ja-nai-sa-",
+    "titleJa": "マナーモード／キソクタダシクウツクシク／君だけじゃないさ...friends",
+    "titleEn": "Manner Mode / Kisokutadashiku Utsukushiku / Kimi Dake ja nai sa...friends",
+    "groupId": "angerme",
+    "releaseDate": "2017-12-13",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-kaite-wa-keshite-no-i-love-you",
+    "titleJa": "書いては消しての “I Love You”",
+    "titleEn": "Kaite wa Keshite no \"I Love You\"",
+    "groupId": "country-girls",
+    "releaseDate": "2017-12-24",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-hana-ga-saku-taiyou-abite",
+    "titleJa": "花が咲く 太陽浴びて",
+    "titleEn": "Hana ga Saku Taiyou Abite",
+    "groupId": "morning-musume",
+    "releaseDate": "2018-01-28",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-teion-yakedo-shunrenka-i-need-you-yozora-no-kanransha",
+    "titleJa": "低温火傷/春恋歌/I Need You ～夜空の観覧車～",
+    "titleEn": "Teion Yakedo / Shunrenka / I Need You ~Yozora no Kanransha~",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2018-02-21",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-kore-kara-da-ashita-tenki-ni-naare",
+    "titleJa": "これからだ！/明日テンキになあれ",
+    "titleEn": "Kore Kara da! / Ashita Tenki ni Naare",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2018-03-28",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-sexy-sexy-naite-ii-yo-vivid-midnight",
+    "titleJa": "SEXY SEXY/泣いていいよ/Vivid Midnight",
+    "titleEn": "SEXY SEXY / Naite Ii yo / Vivid Midnight",
+    "groupId": "juice-juice",
+    "releaseDate": "2018-04-18",
+    "type": "single"
+  },
+  {
+    "id": "angerme-nakenai-ze・・・kyoukan-sagi-uraha-lover-kimi-dake-ja-nai-sa-fr",
+    "titleJa": "泣けないぜ・・・共感詐欺/Uraha=Lover/君だけじゃないさ...friends(2018アコースティックVer.)",
+    "titleEn": "Nakenai ze・・・Kyoukan Sagi / Uraha=Lover / Kimi Dake ja nai sa...friends (2018 Acoustic Ver.)",
+    "groupId": "angerme",
+    "releaseDate": "2018-05-09",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-are-you-happy-a-gonna",
+    "titleJa": "|Cover    = AreyouHappy-r.jpg",
+    "titleEn": "Are you Happy? / A gonna",
+    "groupId": "morning-musume",
+    "releaseDate": "2018-06-13",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-hyokkori-hyoutanjima",
+    "titleJa": "ひょっこりひょうたん島",
+    "titleEn": "Hyokkori Hyoutanjima",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2018-07-17",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-hyokkori-hyoutanjima",
+    "titleJa": "ひょっこりひょうたん島",
+    "titleEn": "Hyokkori Hyoutanjima",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2018-07-17",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-date-no-hi-wa-nido-kurai-shower-shite-dekaketai-junjou-cm-ko",
+    "titleJa": "デートの日は二度くらいシャワーして出かけたい/純情cm/今夜だけ浮かれたかった",
+    "titleEn": "Date no Hi wa Nido Kurai Shower Shite Dekaketai / Junjou cm / Kon'ya Dake Ukaretakatta",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2018-07-18",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-kitto-watashi-wa-naseba-naru",
+    "titleJa": "きっと私は/ナセバナル",
+    "titleEn": "Kitto Watashi wa / Naseba Naru",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2018-08-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-furari-ginza-jiyuu-na-kuni-dakara",
+    "titleJa": "フラリ銀座／自由な国だから",
+    "titleEn": "Furari Ginza / Jiyuu na Kuni Dakara",
+    "groupId": "morning-musume",
+    "releaseDate": "2018-10-24",
+    "type": "single"
+  },
+  {
+    "id": "angerme-tade-kuu-mushi-mo-like-it-46okunen-love",
+    "titleJa": "タデ食う虫もLike it!/46億年LOVE",
+    "titleEn": "Tade Kuu Mushi mo Like it! / 46okunen LOVE",
+    "groupId": "angerme",
+    "releaseDate": "2018-10-31",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-bitansan-potsuri-to-good-bye-good-luck",
+    "titleJa": "微炭酸/ポツリと/Good bye & Good luck！",
+    "titleEn": "Bitansan / Potsuri to / Good bye & Good luck!",
+    "groupId": "juice-juice",
+    "releaseDate": "2019-02-13",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-sankaime-no-date-shinwa-fuwari-koi-dokei",
+    "titleJa": "三回目のデート神話/ふわり、恋時計",
+    "titleEn": "Sankaime no Date Shinwa / Fuwari, Koi Dokei",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2019-02-27",
+    "type": "single"
+  },
+  {
+    "id": "angerme-koi-wa-accha-accha-yumemita-fifteen",
+    "titleJa": "恋はアッチャアッチャ/夢見た {{Kana|15年|フィフティーン}}",
+    "titleEn": "Koi wa Accha Accha / Yumemita Fifteen",
+    "groupId": "angerme",
+    "releaseDate": "2019-04-10",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-oh-no-ounou-haru-urara",
+    "titleJa": "Oh No 懊悩／ハルウララ",
+    "titleEn": "Oh No Ounou / Haru Urara",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2019-04-24",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-hitori-de-ikiraresou-tte-sore-tte-nee-homete-iru-no-25sai-ei",
+    "titleJa": "「ひとりで生きられそう」って それってねえ、褒めているの？／25歳永遠説",
+    "titleEn": "\"Hitori de Ikiraresou\" tte Sore tte Nee, Homete Iru no? / 25sai Eien Setsu",
+    "groupId": "juice-juice",
+    "releaseDate": "2019-06-05",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-jinsei-blues-seishun-night",
+    "titleJa": "人生Blues/青春Night",
+    "titleEn": "Jinsei Blues / Seishun Night",
+    "groupId": "morning-musume",
+    "releaseDate": "2019-06-12",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-megane-no-otoko-no-ko-nippon-no-d・n・a-go-waist",
+    "titleJa": "眼鏡の男の子/ニッポンノD・N・A！/Go Waist",
+    "titleEn": "Megane no Otoko no Ko / Nippon no D・N・A! / Go Waist",
+    "groupId": "beyooooonds",
+    "releaseDate": "2019-08-07",
+    "type": "single"
+  },
+  {
+    "id": "angerme-watashi-wo-tsukuru-no-wa-watashi-zenzen-okiagarenai-sunday",
+    "titleJa": "私を創るのは私/全然起き上がれないSUNDAY",
+    "titleEn": "Watashi wo Tsukuru no wa Watashi / Zenzen Okiagarenai SUNDAY",
+    "groupId": "angerme",
+    "releaseDate": "2019-11-20",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-ishiki-takai-otome-no-dilemma-dakishimerarete-mitai",
+    "titleJa": "意識高い乙女のジレンマ/抱きしめられてみたい",
+    "titleEn": "Ishiki Takai Otome no Dilemma / Dakishimerarete Mitai",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2020-01-15",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-kokoro-karada-lovepedia-ningen-kankei-no-way-way",
+    "titleJa": "KOKORO＆KARADA/LOVEペディア/人間関係No way way",
+    "titleEn": "KOKORO&KARADA / LOVEpedia / Ningen Kankei No way way",
+    "groupId": "morning-musume",
+    "releaseDate": "2020-01-22",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-seishun-no-hana-start-line",
+    "titleJa": "青春の花/スタートライン",
+    "titleEn": "Seishun no Hana / Start Line",
+    "groupId": "kobushi-factory",
+    "releaseDate": "2020-03-04",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-pop-music-suki-tte-itte-yo",
+    "titleJa": "ポップミュージック/好きって言ってよ",
+    "titleEn": "Pop Music / Suki tte Itte yo",
+    "groupId": "juice-juice",
+    "releaseDate": "2020-04-01",
+    "type": "single"
+  },
+  {
+    "id": "angerme-kagiriaru-moment-mirror-mirror",
+    "titleJa": "限りあるMoment/ミラー・ミラー",
+    "titleEn": "Kagiriaru Moment / Mirror Mirror",
+    "groupId": "angerme",
+    "releaseDate": "2020-08-26",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-dansha-ism-ima-nanji",
+    "titleJa": "断捨ISM/イマナンジ？",
+    "titleEn": "Dansha-ISM / Ima Nanji?",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2020-09-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-junjou-evidence-gyuu-saretai-dake-na-no-ni",
+    "titleJa": "純情エビデンス/ギューされたいだけなのに",
+    "titleEn": "Junjou Evidence / Gyuu Saretai Dake na no ni",
+    "groupId": "morning-musume",
+    "releaseDate": "2020-12-16",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-gekikara-love-now-now-ningen-konna-hazu-ja-nakatta",
+    "titleJa": "激辛LOVE/Now Now Ningen/こんなハズジャナカッター！",
+    "titleEn": "Gekikara LOVE / Now Now Ningen / Konna Hazu ja Nakatta!",
+    "groupId": "beyooooonds",
+    "releaseDate": "2021-03-03",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-down-town-ganbarenai-yo",
+    "titleJa": "DOWN TOWN/がんばれないよ",
+    "titleEn": "DOWN TOWN / Ganbarenai yo",
+    "groupId": "juice-juice",
+    "releaseDate": "2021-04-28",
+    "type": "single"
+  },
+  {
+    "id": "angerme-hakkiri-shiyou-ze-oyogenai-mermaid-aisare-route-a-or-b",
+    "titleJa": "はっきりしようぜ/泳げないMermaid/愛されルート A or B？",
+    "titleEn": "Hakkiri Shiyou ze / Oyogenai Mermaid / Aisare Route A or B?",
+    "groupId": "angerme",
+    "releaseDate": "2021-06-23",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-namida-no-heroine-kouban-geki-garakuta-diamond-yakusoku・renr",
+    "titleJa": "涙のヒロイン降板劇/ガラクタDIAMOND/約束・連絡・記念日",
+    "titleEn": "Namida no Heroine Kouban Geki / Garakuta DIAMOND / Yakusoku・Renraku・Kinenbi",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2021-11-17",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-teenage-solution-yoshi-yoshi-shite-hoshii-no-beat-no-wakusei",
+    "titleJa": "Teenage Solution/よしよししてほしいの/ビートの惑星",
+    "titleEn": "Teenage Solution / Yoshi Yoshi Shite Hoshii no / Beat no Wakusei",
+    "groupId": "morning-musume",
+    "releaseDate": "2021-12-08",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-plastic-love-familia-future-smile",
+    "titleJa": "プラスティック・ラブ/Familia/Future Smile",
+    "titleEn": "Plastic Love / Familia / Future Smile",
+    "groupId": "juice-juice",
+    "releaseDate": "2021-12-22",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-eiyuu-waratte-chopin-senpai-hamkatsu-mokushiroku",
+    "titleJa": "英雄～笑って!ショパン先輩～/ハムカツ黙示録",
+    "titleEn": "Eiyuu ~Waratte! Chopin Senpai~ / Hamkatsu Mokushiroku",
+    "groupId": "beyooooonds",
+    "releaseDate": "2022-03-02",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ai・mashou-hade-ni-yacchai-na-aisubeki-beki-human-life",
+    "titleJa": "愛・魔性/ハデにやっちゃいな！/愛すべきべきHuman Life",
+    "titleEn": "Ai・Mashou / Hade ni Yacchai na! / Aisubeki Beki Human Life",
+    "groupId": "angerme",
+    "releaseDate": "2022-05-11",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-chu-chu-chu-bokura-no-mirai-dai・jinsei-never-been-better",
+    "titleJa": "Chu Chu Chu 僕らの未来／{{Kana|大|だい}}・人生 Never Been Better!",
+    "titleEn": "Chu Chu Chu Bokura no Mirai / Dai・Jinsei Never Been Better!",
+    "groupId": "morning-musume",
+    "releaseDate": "2022-06-08",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-adrenaline-dame-yowasa-ja-nai-yo-koi-wa-idol-tenshoku-ondo",
+    "titleJa": "アドレナリン・ダメ／弱さじゃないよ、恋は／アイドル天職音頭",
+    "titleEn": "Adrenaline Dame / Yowasa ja nai yo, Koi wa / Idol Tenshoku Ondo",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2022-06-29",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-koi-no-crouching-start-omatsuri-debut-da-ze",
+    "titleJa": "恋のクラウチングスタート/お祭りデビューだぜ！",
+    "titleEn": "Koi no Crouching Start / Omatsuri Debut da ze!",
+    "groupId": "ocha-norma",
+    "releaseDate": "2022-07-13",
+    "type": "single"
+  },
+  {
+    "id": "angerme-kuyashii-wa-piece-of-peace-shiawase-no-puzzle",
+    "titleJa": "悔しいわ/Piece of Peace～しあわせのパズル～",
+    "titleEn": "Kuyashii wa / Piece of Peace ~Shiawase no Puzzle~",
+    "groupId": "angerme",
+    "releaseDate": "2022-10-19",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-zenbu-kakete-go-eeny-meeny-miny-moe-koi-no-rival-sengen",
+    "titleJa": "全部賭けてGO!!/イニミニマニモ～恋のライバル宣言～",
+    "titleEn": "Zenbu Kakete GO!! / Eeny Meeny Miny Moe ~Koi no Rival Sengen~",
+    "groupId": "juice-juice",
+    "releaseDate": "2022-11-23",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-unmei-chachachacha-n-uchira-no-jimoto-wa-chikyuu-jan",
+    "titleJa": "運命 CHACHACHACHA～N/ウチらの地元は地球じゃん！",
+    "titleEn": "Unmei CHACHACHACHA~N / Uchira no Jimoto wa Chikyuu jan!",
+    "groupId": "ocha-norma",
+    "releaseDate": "2022-11-30",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-swing-swing-paradise-happy-birthday-to-me",
+    "titleJa": "|Cover    = SwingSwingParadise-r.jpg",
+    "titleEn": "Swing Swing Paradise / Happy birthday to Me!",
+    "groupId": "morning-musume",
+    "releaseDate": "2022-12-21",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-machigai-ja-nai-naitari-shinai-skip・skip・skip-kimi-to-boku-n",
+    "titleJa": "間違いじゃない 泣いたりしない/スキップ・スキップ・スキップ/君と僕の絆 feat.KIKI",
+    "titleEn": "Machigai ja nai Naitari Shinai / Skip・Skip・Skip / Kimi to Boku no Kizuna feat. KIKI",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2023-02-22",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-motome-yo-unmei-no-tabibito-san-yume-sae-egakenai-yozora-ni-",
+    "titleJa": "求めよ…運命の旅人算/夢さえ描けない夜空には",
+    "titleEn": "Motome yo... Unmei no Tabibito San / Yume Sae Egakenai Yozora ni wa",
+    "groupId": "beyooooonds",
+    "releaseDate": "2023-04-12",
+    "type": "single"
+  },
+  {
+    "id": "angerme-ai-no-kedamono-dousousei",
+    "titleJa": "アイノケダモノ/同窓生",
+    "titleEn": "Ai no Kedamono / Dousousei",
+    "groupId": "angerme",
+    "releaseDate": "2023-06-14",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-pride-bright-funky-flushin",
+    "titleJa": "プライド・ブライト / FUNKY FLUSHIN'",
+    "titleEn": "Pride Bright / FUNKY FLUSHIN'",
+    "groupId": "juice-juice",
+    "releaseDate": "2023-07-12",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-chotto-joucho-fuantei-natsu-ocha-no-ma-mahoroba-ikoi-no-ba-s",
+    "titleJa": "ちょっと情緒不安定？…夏/オチャノマ マホロバ イコイノバ～昭和も令和もワッチャワチャ～/シェケナーレ/ヨリドリME DREAM",
+    "titleEn": "Chotto Joucho Fuantei?... Natsu / Ocha no Ma Mahoroba Ikoi no Ba ~Showa mo Reiwa mo Wacchawacha~ / Shekenaare / Yoridori ME DREAM",
+    "groupId": "ocha-norma",
+    "releaseDate": "2023-07-26",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-yuuki-its-my-life-mousou-dake-nara-freedom-demo-ii-yo",
+    "titleJa": "勇気 It's my Life！/妄想だけならフリーダム/でも…いいよ",
+    "titleEn": "Yuuki It's my Life! / Mousou Dake Nara Freedom / Demo... Ii yo",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2023-09-27",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-suggoi-fever-wake-up-call-mezameru-toki-neverending-shine",
+    "titleJa": "すっごいFEVER！/Wake-up Call～目覚めるとき～/Neverending Shine",
+    "titleEn": "Suggoi FEVER! / Wake-up Call ~Mezameru Toki~ / Neverending Shine",
+    "groupId": "morning-musume",
+    "releaseDate": "2023-10-25",
+    "type": "single"
+  },
+  {
+    "id": "angerme-red-line-life-is-beautiful",
+    "titleJa": "RED LINE/ライフ イズ ビューティフル！",
+    "titleEn": "RED LINE / Life is Beautiful!",
+    "groupId": "angerme",
+    "releaseDate": "2023-12-13",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-tokyo-blur-naimono-love-oaiko",
+    "titleJa": "トウキョウ・ブラー / ナイモノラブ / おあいこ",
+    "titleEn": "Tokyo Blur / Naimono Love / Oaiko",
+    "groupId": "juice-juice",
+    "releaseDate": "2024-05-15",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-hai-to-diamond-go-city-go-hooke-no-housoku",
+    "titleJa": "灰toダイヤモンド/Go City Go/フックの法則",
+    "titleEn": "Hai to Diamond / Go City Go / Hooke no Housoku",
+    "groupId": "beyooooonds",
+    "releaseDate": "2024-05-29",
+    "type": "single"
+  },
+  {
+    "id": "angerme-bibitaru-ichigeki-uwasa-no-narushii-thank-you-hello-good-bye",
+    "titleJa": "美々たる一撃/うわさのナルシー/THANK YOU, HELLO GOOD BYE",
+    "titleEn": "Bibitaru Ichigeki / Uwasa no Narushii / THANK YOU, HELLO GOOD BYE",
+    "groupId": "angerme",
+    "releaseDate": "2024-06-12",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-nandaka-sentimental-na-toki-no-uta-saikiyou",
+    "titleJa": "なんだかセンチメンタルな時の歌/最KIYOU",
+    "titleEn": "Nandaka Sentimental na Toki no Uta / SaiKIYOU",
+    "groupId": "morning-musume",
+    "releaseDate": "2024-08-14",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-baby-spider-seishun-exabyte-kodou-ok",
+    "titleJa": "ベイビースパイダー/青春エクサバイト/鼓動OK？",
+    "titleEn": "Baby Spider / Seishun Exabyte / Kodou OK?",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2024-08-28",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-chihayaburu-tomodachi-tentaizu",
+    "titleJa": "ちはやぶる/友達天体図",
+    "titleEn": "Chihayaburu / Tomodachi Tentaizu",
+    "groupId": "ocha-norma",
+    "releaseDate": "2024-09-11",
+    "type": "single"
+  },
+  {
+    "id": "angerme-hatsukoi-hanabie-yuuyuu-kankan-gonna-be-alright",
+    "titleJa": "初恋、花冷え/悠々閑々 gonna be alright!!",
+    "titleEn": "Hatsukoi, Hanabie / Yuuyuu Kankan gonna be alright!!",
+    "groupId": "angerme",
+    "releaseDate": "2024-11-13",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-do-did-done-aa-kimi-ni-tensei",
+    "titleJa": "Do-Did-Done/あゝ君に転生",
+    "titleEn": "Do-Did-Done / Aa Kimi ni Tensei",
+    "groupId": "beyooooonds",
+    "releaseDate": "2025-01-29",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-hatsukoi-no-bourei-konya-wa-hearty-party",
+    "titleJa": "初恋の亡霊/今夜はHearty Party",
+    "titleEn": "Hatsukoi no Bourei / Kon'ya wa Hearty Party",
+    "groupId": "juice-juice",
+    "releaseDate": "2025-02-26",
+    "type": "single"
+  },
+  {
+    "id": "angerme-android-wa-yume-wo-miru-ka-hikari-no-uta",
+    "titleJa": "アンドロイドは夢を見るか？/光のうた",
+    "titleEn": "Android wa Yume wo Miru ka? / Hikari no Uta",
+    "groupId": "angerme",
+    "releaseDate": "2025-05-21",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-my-days-for-you-kanashimi-ga-tomaranai",
+    "titleJa": "|released = June 4, 2025",
+    "titleEn": "My Days for You / Kanashimi ga Tomaranai",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2025-06-04",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-ki-ni-naru-sono-ki-no-uta-akaruku-ii-ko",
+    "titleJa": "気になるその気の歌/明るく良い子",
+    "titleEn": "Ki ni Naru Sono Ki no Uta / Akaruku Ii Ko",
+    "groupId": "morning-musume",
+    "releaseDate": "2025-07-02",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-secret-summer",
+    "titleJa": "シークレットサマー",
+    "titleEn": "Secret Summer",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2025-07-20",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-saikoo-de-dance",
+    "titleJa": "最KOO DE DANCE",
+    "titleEn": "SaiKOO DE DANCE",
+    "groupId": "beyooooonds",
+    "releaseDate": "2025-08-01",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-onna-no-aiso-wa-buki-ja-nai-gakkou-de-wa-oshiete-kurenai-kot",
+    "titleJa": "女の愛想は武器じゃない/学校では教えてくれないこと",
+    "titleEn": "Onna no Aiso wa Buki ja nai / Gakkou de wa Oshiete Kurenai Koto",
+    "groupId": "ocha-norma",
+    "releaseDate": "2025-08-27",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-shi-no-go-no-iwazu-satto-wakarete-ageta-more-mi-amore",
+    "titleJa": "四の五の言わず{{kana|颯|さっ}}と別れてあげた/盛れ！ミ・アモーレ",
+    "titleEn": "Shi no Go no Iwazu Satto Wakarete Ageta / More! Mi Amore",
+    "groupId": "juice-juice",
+    "releaseDate": "2025-10-08",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-teka-happy-no-happy-watashi-no-lamentazione",
+    "titleJa": "てか HAPPYのHAPPY！/私の{{kana|ラミンタッチオーネ|Lamentazione}}",
+    "titleEn": "Teka HAPPY no HAPPY! / Watashi no Lamentazione",
+    "groupId": "morning-musume",
+    "releaseDate": "2025-12-03",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-junai-crusher",
+    "titleJa": "純愛クラッシャー",
+    "titleEn": "Jun'ai Crusher",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2026-03-05",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-fireworks-mappira-da-tteba",
+    "titleJa": "|released = June 3, 2026",
+    "titleEn": "FireWorks / Mappira da Tteba!",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "2026-06-03",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-user-blog-gabiusagi-seishun-kouzou-ga-naiteiru-mv-vs-another",
+    "titleJa": "User blog:GabiUsagi/Seishun Kouzou ga Naiteiru MV vs. Another Ver.",
+    "titleEn": "User blog:GabiUsagi/Seishun Kouzou ga Naiteiru MV vs. Another Ver.",
+    "groupId": "morning-musume",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "morning-musume-morning-musume-discography",
+    "titleJa": "Morning Musume/Discography",
+    "titleEn": "Morning Musume/Discography",
+    "groupId": "morning-musume",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "juice-juice-juice-juice-discography",
+    "titleJa": "Juice=Juice/Discography",
+    "titleEn": "Juice=Juice/Discography",
+    "groupId": "juice-juice",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "tsubaki-factory-tsubaki-factory-discography",
+    "titleJa": "Tsubaki Factory/Discography",
+    "titleEn": "Tsubaki Factory/Discography",
+    "groupId": "tsubaki-factory",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "beyooooonds-beyooooonds-discography",
+    "titleJa": "BEYOOOOONDS/Discography",
+    "titleEn": "BEYOOOOONDS/Discography",
+    "groupId": "beyooooonds",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "ocha-norma-ocha-norma-discography",
+    "titleJa": "OCHA NORMA/Discography",
+    "titleEn": "OCHA NORMA/Discography",
+    "groupId": "ocha-norma",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "country-girls-country-girls-discography",
+    "titleJa": "Country Girls/Discography",
+    "titleEn": "Country Girls/Discography",
+    "groupId": "country-girls",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "kobushi-factory-kobushi-factory-discography",
+    "titleJa": "Kobushi Factory/Discography",
+    "titleEn": "Kobushi Factory/Discography",
+    "groupId": "kobushi-factory",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "angerme-angerme-discography",
+    "titleJa": "ANGERME/Discography",
+    "titleEn": "ANGERME/Discography",
+    "groupId": "angerme",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "cute-ute-discography",
+    "titleJa": "℃-ute/Discography",
+    "titleEn": "℃-ute/Discography",
+    "groupId": "cute",
+    "releaseDate": "unknown",
+    "type": "single"
+  },
+  {
+    "id": "berryz-koubou-berryz-koubou-discography",
+    "titleJa": "Berryz Koubou/Discography",
+    "titleEn": "Berryz Koubou/Discography",
+    "groupId": "berryz-koubou",
+    "releaseDate": "unknown",
+    "type": "single"
+  }
+]

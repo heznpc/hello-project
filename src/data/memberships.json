@@ -1,0 +1,999 @@
+[
+  {
+    "memberId": "fukuda-asuka",
+    "groupId": "morning-musume",
+    "joinDate": "1997-11-03",
+    "leaveDate": "1999-04-18",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ishiguro-aya",
+    "groupId": "morning-musume",
+    "joinDate": "1997-11-03",
+    "leaveDate": "2000-01-08",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "nakazawa-yuko",
+    "groupId": "morning-musume",
+    "joinDate": "1997-11-03",
+    "leaveDate": "2001-04-15",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "abe-natsumi",
+    "groupId": "morning-musume",
+    "joinDate": "1997-11-03",
+    "leaveDate": "2004-01-24",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "iida-kaori",
+    "groupId": "morning-musume",
+    "joinDate": "1997-11-03",
+    "leaveDate": "2005-01-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ichii-sayaka",
+    "groupId": "morning-musume",
+    "joinDate": "1998-04",
+    "leaveDate": "2000-05-21",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yasuda-kei",
+    "groupId": "morning-musume",
+    "joinDate": "1998-05-03",
+    "leaveDate": "2003-05",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yaguchi-mari",
+    "groupId": "morning-musume",
+    "joinDate": "1998-05-03",
+    "leaveDate": "2005-04-14",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "goto-maki",
+    "groupId": "morning-musume",
+    "joinDate": "1999-08-04",
+    "leaveDate": "2002-09-23",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kago-ai",
+    "groupId": "morning-musume",
+    "joinDate": "2000-04-16",
+    "leaveDate": "2004-08-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "tsuji-nozomi",
+    "groupId": "morning-musume",
+    "joinDate": "2000-04-16",
+    "leaveDate": "2004-08-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ishikawa-rika",
+    "groupId": "morning-musume",
+    "joinDate": "2000-04-16",
+    "leaveDate": "2005-05-07",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yoshizawa-hitomi",
+    "groupId": "morning-musume",
+    "joinDate": "2000-04-16",
+    "leaveDate": "2007-05-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "konno-asami",
+    "groupId": "morning-musume",
+    "joinDate": "2001-08-26",
+    "leaveDate": "2006-07-23",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ogawa-makoto",
+    "groupId": "morning-musume",
+    "joinDate": "2001-08-26",
+    "leaveDate": "2006-08-27",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "takahashi-ai",
+    "groupId": "morning-musume",
+    "joinDate": "2001-08-26",
+    "leaveDate": "2011-09-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "niigaki-risa",
+    "groupId": "morning-musume",
+    "joinDate": "2001-08-26",
+    "leaveDate": "2012-05-18",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "fujimoto-miki",
+    "groupId": "morning-musume",
+    "joinDate": "2003-05",
+    "leaveDate": "2007-06-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kamei-eri",
+    "groupId": "morning-musume",
+    "joinDate": "2003-05",
+    "leaveDate": "2010-12-15",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "tanaka-reina",
+    "groupId": "morning-musume",
+    "joinDate": "2003-05",
+    "leaveDate": "2013-05-21",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "michishige-sayumi",
+    "groupId": "morning-musume",
+    "joinDate": "2003-05",
+    "leaveDate": "2014-11-26",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kusumi-koharu",
+    "groupId": "morning-musume",
+    "joinDate": "2005-05-01",
+    "leaveDate": "2009-12-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "mitsui-aika",
+    "groupId": "morning-musume",
+    "joinDate": "2006-12-10",
+    "leaveDate": "2012-05-18",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "jun-jun",
+    "groupId": "morning-musume",
+    "joinDate": "2007-03-15",
+    "leaveDate": "2010-12-15",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "lin-lin",
+    "groupId": "morning-musume",
+    "joinDate": "2007-03-15",
+    "leaveDate": "2010-12-15",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "sayashi-riho",
+    "groupId": "morning-musume",
+    "joinDate": "2011-01-02",
+    "leaveDate": "2015-12-31",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "suzuki-kanon",
+    "groupId": "morning-musume",
+    "joinDate": "2011-01-02",
+    "leaveDate": "2016-05-31",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "fukumura-mizuki",
+    "groupId": "morning-musume",
+    "joinDate": "2011-01-02",
+    "leaveDate": "2023-11-29",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ikuta-erina",
+    "groupId": "morning-musume",
+    "joinDate": "2011-01-02"
+  },
+  {
+    "memberId": "kud-haruka",
+    "groupId": "morning-musume",
+    "joinDate": "2011-09-29",
+    "leaveDate": "2017-12-11",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "iikubo-haruna",
+    "groupId": "morning-musume",
+    "joinDate": "2011-09-29",
+    "leaveDate": "2018-12-16",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "sat-masaki",
+    "groupId": "morning-musume",
+    "joinDate": "2011-09-29",
+    "leaveDate": "2021-12-13",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ishida-ayumi",
+    "groupId": "morning-musume",
+    "joinDate": "2011-09-29"
+  },
+  {
+    "memberId": "oda-sakura",
+    "groupId": "morning-musume",
+    "joinDate": "2012-09-14"
+  },
+  {
+    "memberId": "ogata-haruna",
+    "groupId": "morning-musume",
+    "joinDate": "2014-09-30",
+    "leaveDate": "2018-06-20",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "haga-akane",
+    "groupId": "morning-musume",
+    "joinDate": "2014-09-30"
+  },
+  {
+    "memberId": "makino-maria",
+    "groupId": "morning-musume",
+    "joinDate": "2014-09-30"
+  },
+  {
+    "memberId": "nonaka-miki",
+    "groupId": "morning-musume",
+    "joinDate": "2014-09-30"
+  },
+  {
+    "memberId": "kaga-kaede",
+    "groupId": "morning-musume",
+    "joinDate": "2016-12-12"
+  },
+  {
+    "memberId": "yokoyama-reina",
+    "groupId": "morning-musume",
+    "joinDate": "2016-12-12"
+  },
+  {
+    "memberId": "morito-chisaki",
+    "groupId": "morning-musume",
+    "joinDate": "2017-06-26",
+    "leaveDate": "2022-06-20",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kitagawa-rio",
+    "groupId": "morning-musume",
+    "joinDate": "2019-06-22"
+  },
+  {
+    "memberId": "okamura-homare",
+    "groupId": "morning-musume",
+    "joinDate": "2019-06-22"
+  },
+  {
+    "memberId": "yamazaki-mei",
+    "groupId": "morning-musume",
+    "joinDate": "2019-06-22"
+  },
+  {
+    "memberId": "sakurai-rio",
+    "groupId": "morning-musume",
+    "joinDate": "2022-06-29"
+  },
+  {
+    "memberId": "inoue-haruka",
+    "groupId": "morning-musume",
+    "joinDate": "2023-05-23"
+  },
+  {
+    "memberId": "yumigeta-ako",
+    "groupId": "morning-musume",
+    "joinDate": "2023-05-23"
+  },
+  {
+    "memberId": "tsuka-aina",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2013-07-05",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "miyazaki-yuka",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2019-06-17",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "miyamoto-karin",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2020-12-10",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "takagi-sayuki",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2021-02-13",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kanazawa-tomoko",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2021-11-24",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "uemura-akari",
+    "groupId": "juice-juice",
+    "joinDate": "2013-02-25",
+    "leaveDate": "2024-06-14",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yanagawa-nanami",
+    "groupId": "juice-juice",
+    "joinDate": "2017-06-26",
+    "leaveDate": "2019-03-11",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "dambara-ruru",
+    "groupId": "juice-juice",
+    "joinDate": "2017-06-26"
+  },
+  {
+    "memberId": "inaba-manaka",
+    "groupId": "juice-juice",
+    "joinDate": "2018-06-13",
+    "leaveDate": "2022-05-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kudo-yume",
+    "groupId": "juice-juice",
+    "joinDate": "2019-06-14"
+  },
+  {
+    "memberId": "matsunaga-riai",
+    "groupId": "juice-juice",
+    "joinDate": "2019-06-14"
+  },
+  {
+    "memberId": "inoue-rei",
+    "groupId": "juice-juice",
+    "joinDate": "2020-04-01"
+  },
+  {
+    "memberId": "arisawa-ichika",
+    "groupId": "juice-juice",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "ebata-kisaki",
+    "groupId": "juice-juice",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "irie-risa",
+    "groupId": "juice-juice",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "endo-akari",
+    "groupId": "juice-juice",
+    "joinDate": "2022-06-29"
+  },
+  {
+    "memberId": "ishiyama-sakura",
+    "groupId": "juice-juice",
+    "joinDate": "2022-06-29"
+  },
+  {
+    "memberId": "kawashima-mifu",
+    "groupId": "juice-juice",
+    "joinDate": "2023-05-23"
+  },
+  {
+    "memberId": "hayashi-niina",
+    "groupId": "juice-juice",
+    "joinDate": "2025-06-25"
+  },
+  {
+    "memberId": "ogata-risa",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29",
+    "leaveDate": "2020-12-28",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "asakura-kiki",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29",
+    "leaveDate": "2023-04-02",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kishimoto-yumeno",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29",
+    "leaveDate": "2023-11-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yamagishi-riko",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29",
+    "leaveDate": "2023-11-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "niinuma-kisora",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29",
+    "leaveDate": "2024-06-10",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "tanimoto-ami",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2015-04-29"
+  },
+  {
+    "memberId": "akiyama-mao",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2016-08-13"
+  },
+  {
+    "memberId": "ono-mizuho",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2016-08-13"
+  },
+  {
+    "memberId": "onoda-saori",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2016-08-13"
+  },
+  {
+    "memberId": "yagi-shiori",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2021-07-07",
+    "leaveDate": "2025-04-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "fukuda-marine",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "kasai-yuumi",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "yofu-runo",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2021-07-07"
+  },
+  {
+    "memberId": "doi-fuka",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2024-02-07"
+  },
+  {
+    "memberId": "ishii-mihane",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2024-02-07"
+  },
+  {
+    "memberId": "murata-yuu",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2024-02-07"
+  },
+  {
+    "memberId": "nishimura-itsuki",
+    "groupId": "tsubaki-factory",
+    "joinDate": "2025-08-16"
+  },
+  {
+    "memberId": "ichioka-reina",
+    "groupId": "beyooooonds",
+    "joinDate": "2017-05-05",
+    "leaveDate": "2024-03-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kiyono-momohime",
+    "groupId": "beyooooonds",
+    "joinDate": "2017-05-05"
+  },
+  {
+    "memberId": "takase-kurumi",
+    "groupId": "beyooooonds",
+    "joinDate": "2017-05-05"
+  },
+  {
+    "memberId": "yamazaki-yuhane",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09",
+    "leaveDate": "2024-06-27",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "shimakura-rika",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09",
+    "leaveDate": "2025-06-09",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "eguchi-saya",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09"
+  },
+  {
+    "memberId": "maeda-kokoro",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09"
+  },
+  {
+    "memberId": "nishida-shiori",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09"
+  },
+  {
+    "memberId": "okamura-minami",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-06-09"
+  },
+  {
+    "memberId": "hirai-miyo",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-12-03"
+  },
+  {
+    "memberId": "kobayashi-honoka",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-12-03"
+  },
+  {
+    "memberId": "satoyoshi-utano",
+    "groupId": "beyooooonds",
+    "joinDate": "2018-12-03"
+  },
+  {
+    "memberId": "hiromoto-ruri",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "ishiguri-kanami",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "kitahara-momo",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "kubota-nanami",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "nakayama-natsume",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "nishizaki-miku",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "saito-madoka",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "yonemura-kirara",
+    "groupId": "ocha-norma",
+    "joinDate": "2021-12-12"
+  },
+  {
+    "memberId": "tashiro-sumire",
+    "groupId": "ocha-norma",
+    "joinDate": "2022-12-12"
+  },
+  {
+    "memberId": "tsutsui-roko",
+    "groupId": "ocha-norma",
+    "joinDate": "2022-12-12"
+  },
+  {
+    "memberId": "ozeki-mai",
+    "groupId": "country-girls",
+    "joinDate": "2014-01-05",
+    "leaveDate": "2019-12-26",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "shimamura-uta",
+    "groupId": "country-girls",
+    "joinDate": "2014-11-05",
+    "leaveDate": "2015-06-12",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "inaba-manaka",
+    "groupId": "country-girls",
+    "joinDate": "2014-11-05",
+    "leaveDate": "2016-08-04",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "tsugunaga-momoko",
+    "groupId": "country-girls",
+    "joinDate": "2014-11-05",
+    "leaveDate": "2017-06-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "morito-chisaki",
+    "groupId": "country-girls",
+    "joinDate": "2014-11-05",
+    "leaveDate": "2019-12-26",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yamaki-risa",
+    "groupId": "country-girls",
+    "joinDate": "2014-11-05",
+    "leaveDate": "2019-12-26",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yanagawa-nanami",
+    "groupId": "country-girls",
+    "joinDate": "2015-11-05",
+    "leaveDate": "2019-03-11",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "funaki-musubu",
+    "groupId": "country-girls",
+    "joinDate": "2015-11-05",
+    "leaveDate": "2019-12-26",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "fujii-rio",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2017-07-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ogawa-rena",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2017-09-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "taguchi-natsumi",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2017-12-06",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "hamaura-ayano",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2020-03-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "hirose-ayaka",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2020-03-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "inoue-rei",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2020-03-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "nomura-minami",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2020-03-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "wada-sakurako",
+    "groupId": "kobushi-factory",
+    "joinDate": "2015-01-02",
+    "leaveDate": "2020-03-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "tsuji-nozomi",
+    "groupId": "morning-musume-otome-gumi",
+    "joinDate": "2003-09-18",
+    "leaveDate": "2004-08-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "iida-kaori",
+    "groupId": "morning-musume-otome-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2005-01-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "abe-natsumi",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-01-24",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kago-ai",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kamei-eri",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "konno-asami",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "niigaki-risa",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "takahashi-ai",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yaguchi-mari",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yoshizawa-hitomi",
+    "groupId": "morning-musume-sakura-gumi",
+    "joinDate": "2003-09",
+    "leaveDate": "2004-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "lin-lin",
+    "groupId": "mini-moni",
+    "joinDate": "2009-07",
+    "leaveDate": "2010-12-15",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "fukuda-kanon",
+    "groupId": "mini-moni",
+    "joinDate": "2009-07",
+    "leaveDate": "2011-01-23",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "miyamoto-karin",
+    "groupId": "mini-moni",
+    "joinDate": "2009-07",
+    "leaveDate": "2011-01-23",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "takeuchi-akari",
+    "groupId": "mini-moni",
+    "joinDate": "2009-07",
+    "leaveDate": "2011-01-23",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "inaba-atsuko",
+    "groupId": "taiyou-to-ciscomoon",
+    "joinDate": "1999-02",
+    "leaveDate": "2000-03",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "inaba-atsuko",
+    "groupId": "taiyou-to-ciscomoon",
+    "joinDate": "2000-03",
+    "leaveDate": "2000-10-09",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "honda-ruru",
+    "groupId": "taiyou-to-ciscomoon",
+    "joinDate": "1999-02"
+  },
+  {
+    "memberId": "kominato-miwa",
+    "groupId": "taiyou-to-ciscomoon",
+    "joinDate": "1999-02"
+  },
+  {
+    "memberId": "shinoda-miho",
+    "groupId": "taiyou-to-ciscomoon",
+    "joinDate": "1999-02"
+  },
+  {
+    "memberId": "murata-megumi",
+    "groupId": "melon-kinenbi",
+    "joinDate": "2000",
+    "leaveDate": "2010",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "otani-masae",
+    "groupId": "melon-kinenbi",
+    "joinDate": "2000",
+    "leaveDate": "2010",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "saito-hitomi",
+    "groupId": "melon-kinenbi",
+    "joinDate": "2000",
+    "leaveDate": "2010",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "shibata-ayumi",
+    "groupId": "melon-kinenbi",
+    "joinDate": "2000",
+    "leaveDate": "2010",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "barbaran-april",
+    "groupId": "coconuts-musume",
+    "joinDate": "1999-03",
+    "leaveDate": "2000-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ching-chelsea",
+    "groupId": "coconuts-musume",
+    "joinDate": "1999-03",
+    "leaveDate": "2000-01",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "delaunay-danielle",
+    "groupId": "coconuts-musume",
+    "joinDate": "1999-03",
+    "leaveDate": "2001-05",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "todd-mika",
+    "groupId": "coconuts-musume",
+    "joinDate": "1999-03",
+    "leaveDate": "2004-05-02",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ayaka",
+    "groupId": "coconuts-musume",
+    "joinDate": "1999-03",
+    "leaveDate": "2008-04-30",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "sandbo-lehua",
+    "groupId": "coconuts-musume",
+    "joinDate": "2000-01",
+    "leaveDate": "2002-02",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "yanagihara-hiromi",
+    "groupId": "country-musume",
+    "joinDate": "1999",
+    "leaveDate": "1999-07-17",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "kobayashi-azusa",
+    "groupId": "country-musume",
+    "joinDate": "1999",
+    "leaveDate": "1999",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "rinne",
+    "groupId": "country-musume",
+    "joinDate": "1999",
+    "leaveDate": "2002-10",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "asami",
+    "groupId": "country-musume",
+    "joinDate": "2000-05",
+    "leaveDate": "2007-01-28",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "satoda-mai",
+    "groupId": "country-musume",
+    "joinDate": "2002",
+    "leaveDate": "2009-03-31",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "miuna",
+    "groupId": "country-musume",
+    "joinDate": "2003-04",
+    "leaveDate": "2007-01-28",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "ishikawa-rika",
+    "groupId": "v-u-den",
+    "joinDate": "2004-08",
+    "leaveDate": "2008-06-29",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "miyoshi-erika",
+    "groupId": "v-u-den",
+    "joinDate": "2004-08",
+    "leaveDate": "2008-06-29",
+    "leaveReason": "graduation"
+  },
+  {
+    "memberId": "okada-yui",
+    "groupId": "v-u-den",
+    "joinDate": "2004-08",
+    "leaveDate": "2008-06-29",
+    "leaveReason": "graduation"
+  }
+]

@@ -1,65 +1,103 @@
-import Image from "next/image";
+"use client";
+
+import Link from "next/link";
+import { useLocale } from "@/lib/locale-context";
+import membersData from "@/data/members.json";
+import groupsData from "@/data/groups.json";
+import membershipsData from "@/data/memberships.json";
+import type { Group } from "@/lib/types";
 
 export default function Home() {
+  const { t } = useLocale();
+  const activeGroups = (groupsData as Group[]).filter((g) => !g.dissolved);
+  const totalMembers = membersData.length;
+  const totalMemberships = membershipsData.length;
+  const years = new Date().getFullYear() - 1997;
+
+  const stats = t("home.stats") as (
+    m: number,
+    g: number,
+    ms: number
+  ) => string;
+  const timelineDesc = t("home.timeline.desc") as (
+    g: number,
+    y: number
+  ) => string;
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <div className="max-w-2xl mx-auto px-6 py-16">
+      <div className="text-center mb-12">
+        <p className="text-2xl mb-2 float-anim">&#x2764;&#xFE0F;</p>
+        <h1 className="text-3xl font-bold mb-3 sparkle-text">
+          {t("home.title") as string}
+        </h1>
+        <p style={{ color: "var(--text-muted)", fontSize: 14 }}>
+          {stats(totalMembers, groupsData.length, totalMemberships)}
+        </p>
+      </div>
+
+      <div className="grid gap-5">
+        <Link href="/timeline" className="princess-card block p-6">
+          <div className="flex items-center gap-3 mb-2">
+            <span className="text-2xl">&#x1F3B6;</span>
+            <h2
+              className="font-bold text-lg"
+              style={{ color: "var(--text-primary)" }}
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+              {t("home.timeline.title") as string}
+            </h2>
+          </div>
+          <p style={{ color: "var(--text-muted)", fontSize: 14 }}>
+            {timelineDesc(groupsData.length, years)}
           </p>
+        </Link>
+
+        <Link href="/distribution" className="princess-card block p-6">
+          <div className="flex items-center gap-3 mb-2">
+            <span className="text-2xl">&#x1F3A4;</span>
+            <h2
+              className="font-bold text-lg"
+              style={{ color: "var(--text-primary)" }}
+            >
+              {t("home.distribution.title") as string}
+            </h2>
+          </div>
+          <p style={{ color: "var(--text-muted)", fontSize: 14 }}>
+            {t("home.distribution.desc") as string}
+          </p>
+        </Link>
+      </div>
+
+      <div className="mt-12">
+        <h3
+          className="text-center text-sm font-medium mb-4"
+          style={{ color: "var(--text-muted)" }}
+        >
+          &#x2500;&#x2500;&#x2500; {t("home.activeGroups") as string}{" "}
+          &#x2500;&#x2500;&#x2500;
+        </h3>
+        <div className="flex flex-wrap gap-2 justify-center">
+          {activeGroups.map((g) => (
+            <span
+              key={g.id}
+              className="badge-pill inline-flex items-center gap-1.5"
+            >
+              <span
+                className="w-2.5 h-2.5 rounded-full"
+                style={{ backgroundColor: g.color }}
+              />
+              {g.nameEn}
+            </span>
+          ))}
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </div>
+
+      <div
+        className="mt-16 text-center text-xs"
+        style={{ color: "var(--border-lace)" }}
+      >
+        &#x2661; &#x2729; &#x2661; &#x2729; &#x2661; &#x2729; &#x2661;
+      </div>
     </div>
   );
 }

@@ -1,0 +1,139 @@
+[
+  {
+    "id": "morning-musume",
+    "nameJa": "モーニング娘。",
+    "nameEn": "Morning Musume",
+    "formed": "1997-11-03",
+    "color": "#FFD700",
+    "mbid": "9bffb20c-dd17-4895-9fd1-4e73e888d799"
+  },
+  {
+    "id": "coconuts-musume",
+    "nameJa": "ココナッツ娘。",
+    "nameEn": "Coconuts Musume",
+    "formed": "1999",
+    "dissolved": "2008",
+    "color": "#795548",
+    "mbid": "edb1dfc5-22b1-421e-9cbc-5fc61bf8399c"
+  },
+  {
+    "id": "country-musume",
+    "nameJa": "カントリー娘。",
+    "nameEn": "Country Musume",
+    "formed": "1999",
+    "dissolved": "2009",
+    "color": "#607D8B",
+    "mbid": "ecaebbf3-7fd6-4cf7-8821-6b68cc440272"
+  },
+  {
+    "id": "taiyou-to-ciscomoon",
+    "nameJa": "太陽とシスコムーン",
+    "nameEn": "Taiyou to Ciscomoon",
+    "formed": "1999-02",
+    "dissolved": "2000-03",
+    "color": "#FF5722",
+    "mbid": "0cf77233-da4e-4c36-b70e-6d36a645adca"
+  },
+  {
+    "id": "melon-kinenbi",
+    "nameJa": "メロン記念日",
+    "nameEn": "Melon Kinenbi",
+    "formed": "2000",
+    "dissolved": "2010",
+    "color": "#8BC34A",
+    "mbid": "bd80ba23-d373-4420-8dc0-fe9f0b94f19c"
+  },
+  {
+    "id": "morning-musume-otome-gumi",
+    "nameJa": "モーニング娘。おとめ組",
+    "nameEn": "モーニング娘。おとめ組",
+    "formed": "2003-09",
+    "dissolved": "2004-03",
+    "color": "#888888",
+    "mbid": "ee49e64a-c9bf-4829-9912-793a8c167ee4"
+  },
+  {
+    "id": "morning-musume-sakura-gumi",
+    "nameJa": "モーニング娘。さくら組",
+    "nameEn": "モーニング娘。さくら組",
+    "formed": "2003-09",
+    "dissolved": "2004-03",
+    "color": "#888888",
+    "mbid": "bfcc3746-05ff-421f-ae02-c3e760b2c1ca"
+  },
+  {
+    "id": "v-u-den",
+    "nameJa": "v-u-den",
+    "nameEn": "v-u-den",
+    "formed": "2004-08",
+    "dissolved": "2008-06-29",
+    "color": "#9C27B0",
+    "mbid": "9fb6fd87-df94-439d-ae16-b9c2b7a77a67"
+  },
+  {
+    "id": "juice-juice",
+    "nameJa": "Juice=Juice",
+    "nameEn": "Juice=Juice",
+    "formed": "2013-02-25",
+    "color": "#9B59B6",
+    "mbid": "a2f1b696-8ce0-4dfc-a10c-cfaa1be47a49"
+  },
+  {
+    "id": "country-girls",
+    "nameJa": "カントリー・ガールズ",
+    "nameEn": "Country Girls",
+    "formed": "2014-11-05",
+    "dissolved": "2019-12-26",
+    "color": "#F39C12",
+    "mbid": "6435fff6-7b69-45a3-93dd-a612a86d911f"
+  },
+  {
+    "id": "kobushi-factory",
+    "nameJa": "こぶしファクトリー",
+    "nameEn": "Kobushi Factory",
+    "formed": "2015-01-02",
+    "dissolved": "2020-03-30",
+    "color": "#1ABC9C",
+    "mbid": "31cce04a-09d3-4ec4-a237-9b58924ac454"
+  },
+  {
+    "id": "tsubaki-factory",
+    "nameJa": "つばきファクトリー",
+    "nameEn": "Tsubaki Factory",
+    "formed": "2015-04-29",
+    "color": "#E74C3C",
+    "mbid": "e032efb2-5751-4da9-b598-56b15f3f49f5"
+  },
+  {
+    "id": "beyooooonds",
+    "nameJa": "BEYOOOOONDS",
+    "nameEn": "BEYOOOOONDS",
+    "formed": "2018-10-19",
+    "color": "#3498DB",
+    "mbid": "f11855b4-b28a-4b93-992a-58af5cbc4f45"
+  },
+  {
+    "id": "ocha-norma",
+    "nameJa": "OCHA NORMA",
+    "nameEn": "OCHA NORMA",
+    "formed": "2021-12-12",
+    "color": "#2ECC71",
+    "mbid": "9a3fad64-ade4-461c-8ef0-c3f10d4cdbf6"
+  },
+  {
+    "id": "mini-moni",
+    "nameJa": "ミニモニ。",
+    "nameEn": "Minimoni",
+    "formed": "unknown",
+    "color": "#FFEB3B",
+    "mbid": "9041aff7-4403-4693-8680-c085700b606e"
+  },
+  {
+    "id": "w-double-you",
+    "nameJa": "W",
+    "nameEn": "W (Double You)",
+    "formed": "unknown",
+    "color": "#00BCD4",
+    "mbid": "2697ee1d-c8fc-4a68-994d-cb091f6d3ff0"
+  }
+]
