@@ -72,7 +72,7 @@ const t = {
   },
   "timeline.all": {
     ko: "전체",
-    ja: "��べて",
+    ja: "すべて",
     en: "All",
   },
   "timeline.none": {
@@ -109,7 +109,7 @@ const t = {
   // Distribution
   "distribution.title": {
     ko: "파트 분배 분석",
-    ja: "パ��ト分析",
+    ja: "パート分析",
     en: "Line Distribution",
   },
   "distribution.empty": {

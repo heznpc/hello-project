@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, useCallback } from "react";
+import { useEffect, useMemo, useRef, useState, useCallback } from "react";
 import * as d3 from "d3";
 import { useLocale } from "@/lib/locale-context";
 import type { Member, Group, Membership } from "@/lib/types";
@@ -56,8 +56,16 @@ export function TimelineChart({ members, groups, memberships }: Props) {
     new Set(groups.map((g) => g.id))
   );
 
-  const memberMap = new Map(members.map((m) => [m.id, m]));
-  const groupMap = new Map(groups.map((g) => [g.id, g]));
+  // Memoize lookup maps; they feed the effect's dependency array, and a
+  // fresh Map per render would re-run the entire d3 layout on every keystroke.
+  const memberMap = useMemo(
+    () => new Map(members.map((m) => [m.id, m])),
+    [members],
+  );
+  const groupMap = useMemo(
+    () => new Map(groups.map((g) => [g.id, g])),
+    [groups],
+  );
 
   const toggleGroup = useCallback((groupId: string) => {
     setSelectedGroups((prev) => {
@@ -128,6 +136,7 @@ export function TimelineChart({ members, groups, memberships }: Props) {
 
     svg
       .append("g")
+      .attr("class", "x-axis")
       .attr("transform", `translate(0,${MARGIN.top})`)
       .call(xAxis)
       .call((g) => g.select(".domain").attr("stroke", "#f9a8d4"))
@@ -259,7 +268,7 @@ export function TimelineChart({ members, groups, memberships }: Props) {
           });
 
         svg
-          .select<SVGGElement>("g:nth-child(3)")
+          .select<SVGGElement>("g.x-axis")
           .call(
             xAxis.scale(newX) as unknown as (
               selection: d3.Selection<SVGGElement, unknown, null, undefined>
