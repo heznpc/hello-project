@@ -10,7 +10,7 @@ import type { Song, LineDistribution, Member, Group } from "@/lib/types";
 import { DistributionChart } from "./distribution-chart";
 
 export default function DistributionPage() {
-  const { t, locale } = useLocale();
+  const { locale } = useLocale();
   const songs = songsData as Song[];
   const distributions = distributionsData as LineDistribution[];
   const members = membersData as Member[];

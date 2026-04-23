@@ -3,8 +3,7 @@
 import {
   createContext,
   useContext,
-  useState,
-  useEffect,
+  useSyncExternalStore,
   type ReactNode,
 } from "react";
 import {
@@ -26,26 +25,55 @@ const LocaleContext = createContext<LocaleContextValue>({
   t: (key: TranslationKey) => getTranslation(key, "ko"),
 });
 
-export function LocaleProvider({ children }: { children: ReactNode }) {
-  const [locale, setLocaleState] = useState<Locale>("ko");
-  const [mounted, setMounted] = useState(false);
+// External locale store synced with localStorage + navigator preference.
+// Using useSyncExternalStore instead of useState+useEffect avoids
+// React 19's set-state-in-effect lint and gives a deterministic
+// server/client snapshot split that hydrates cleanly.
+const listeners = new Set<() => void>();
+let cached: Locale | null = null;
 
-  useEffect(() => {
-    setLocaleState(detectLocale());
-    setMounted(true);
-  }, []);
+function notify() {
+  cached = null;
+  for (const cb of listeners) cb();
+}
+
+function subscribe(cb: () => void): () => void {
+  listeners.add(cb);
+  const onStorage = (e: StorageEvent) => {
+    if (e.key === "hp-locale") notify();
+  };
+  window.addEventListener("storage", onStorage);
+  return () => {
+    listeners.delete(cb);
+    window.removeEventListener("storage", onStorage);
+  };
+}
+
+function getClientSnapshot(): Locale {
+  if (cached !== null) return cached;
+  cached = detectLocale();
+  return cached;
+}
+
+function getServerSnapshot(): Locale {
+  return "ko";
+}
+
+export function LocaleProvider({ children }: { children: ReactNode }) {
+  const locale = useSyncExternalStore(
+    subscribe,
+    getClientSnapshot,
+    getServerSnapshot,
+  );
 
   const setLocale = (l: Locale) => {
-    setLocaleState(l);
+    cached = l;
     localStorage.setItem("hp-locale", l);
     document.documentElement.lang = l;
+    for (const cb of listeners) cb();
   };
 
   const t = (key: TranslationKey) => getTranslation(key, locale);
-
-  if (!mounted) {
-    return <div style={{ visibility: "hidden" }}>{children}</div>;
-  }
 
   return (
     <LocaleContext.Provider value={{ locale, setLocale, t }}>
