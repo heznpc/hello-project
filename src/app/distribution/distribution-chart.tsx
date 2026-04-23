@@ -11,7 +11,6 @@ import {
   PieChart,
   Pie,
   Cell,
-  Legend,
 } from "recharts";
 import { useLocale } from "@/lib/locale-context";
 import type { Song, LineDistribution, Member, Group } from "@/lib/types";
