@@ -1,0 +1,59 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# GITHUB_TOKEN 권한: Pages 배포에 필요
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 동시 배포 1개로 제한 — 이전 배포가 진행 중이면 큐잉.
+# cancel-in-progress=false: 진행 중 배포는 끝까지 보장 (production 사이트 보호).
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build static export
+        run: npm run build
+        env:
+          # repo 이름 = subpath. heznpc.github.io/hello-project/ 로 서빙됨.
+          NEXT_PUBLIC_BASE_PATH: /hello-project
+
+      - name: Disable Jekyll
+        # GitHub Pages 의 기본 Jekyll 처리가 _next/ 같은 underscore 폴더를 무시함.
+        # .nojekyll 빈 파일을 두면 raw static 서빙으로 전환.
+        run: touch ./out/.nojekyll
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

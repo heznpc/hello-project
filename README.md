@@ -5,6 +5,8 @@
 가입·신곡 같은 최신 동향은 의도적으로 반영하지 않습니다. 한·일 30–40대
 올드팬을 위한 시각 자료가 목적입니다.
 
+**Live**: https://heznpc.github.io/hello-project/
+
 > ハロー！プロジェクト 黄金期・プラチナ期 アーカイブ — 멤버 lineage
 > 타임라인 + 곡별 라인 분포. D3 + Recharts, 정적 JSON, 광고 없음.
 
@@ -156,10 +158,22 @@ jq 파이프라인). 자동화는 known gaps 의 일부.
 
 ```bash
 npm install
-npm run dev      # 개발 서버
-npm run build    # 정적 사이트 빌드
+npm run dev      # 개발 서버 (basePath 없음, http://localhost:3000)
+npm run build    # 정적 사이트 빌드 → out/
 npm run lint     # ESLint
 ```
+
+## 배포 (GitHub Pages)
+
+`main` 푸시 → `.github/workflows/deploy.yml` 가 자동으로 `out/` 정적 산출물을
+GitHub Pages 환경에 업로드. URL 은 https://heznpc.github.io/hello-project/.
+
+- `NEXT_PUBLIC_BASE_PATH=/hello-project` 가 CI 빌드에서만 주입되므로 로컬
+  dev/build 는 루트로 동작.
+- 동시 배포는 1개로 제한 (`concurrency: pages`). 진행 중 배포는 강제 취소
+  되지 않음 (production 보호).
+- 본 사이트는 데이터 컷오프 고정이라 빌드 산출물도 사실상 고정 — 정적
+  호스팅 비용 0 이 의도된 설계 일부.
 
 ## Next.js 16 주의
 
