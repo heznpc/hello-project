@@ -7,15 +7,16 @@ const UA = "HelloProjectFanTool/1.0 (personal use)";
 // Main H!P groups with their MusicBrainz IDs
 const GROUP_MBIDS: Record<string, string> = {
   "morning-musume": "9bffb20c-dd17-4895-9fd1-4e73e888d799",
-  "angerme": "c0d4b203-3bfe-4007-9ad0-54d9f7a8c2a5",
-  "juice-juice": "d-juice-juice", // placeholder, will look up
+  // Verified 2026-05 — prior MBIDs returned 404 after MB merges/refactors
+  "angerme": "1283f619-2789-4892-af46-29a13e5cca5b", // アンジュルム (S/mileage 후신, 같은 artist)
+  "juice-juice": "d-juice-juice",
   "tsubaki-factory": "d-tsubaki-factory",
   "beyooooonds": "d-beyooooonds",
   "ocha-norma": "d-ocha-norma",
   "country-girls": "d-country-girls",
   "kobushi-factory": "d-kobushi-factory",
-  "cute": "3d02f53a-5c39-4e2f-a498-4710cdcc9ee0",
-  "berryz-koubou": "1f75c5e0-3ec4-4861-8e89-f8f3b631c218",
+  "cute": "98c90095-a4ee-4644-b445-ca6219f0ca00", // ℃‐ute
+  "berryz-koubou": "2b20f61f-571a-427f-8b67-ec767be9efdc", // Berryz工房
   "morning-musume-otome-gumi": "d-otome",
   "morning-musume-sakura-gumi": "d-sakura",
   "mini-moni": "d-minimoni",
@@ -26,6 +27,20 @@ const GROUP_MBIDS: Record<string, string> = {
   "v-u-den": "d-v-u-den",
   "w-double-you": "d-w",
   "hello-project": "670fda82-b7cf-47fd-b94d-9b4bab4bd9b7",
+  // Collab / mini units (1998-2014 era)
+  buono: "d-buono",
+  tanpopo: "d-tanpopo",
+  petitmoni: "d-petitmoni",
+  "aa-unit": "d-aa-unit",
+  gam: "d-gam",
+  zyx: "37017c66-f21d-42e0-9ef8-26ec5b147de1", // ZYX (H!P) — searchArtist matches Austrian artist by default
+  "def-diva": "d-def-diva",
+  "high-king": "d-high-king",
+  // Satoyama / Satoumi movement units (2011-2014)
+  peaberry: "d-peaberry",
+  // Diana Lane (Satoumi unit, 2012) not registered on MB — skipped
+  harvest: "f7f29a5c-3f84-4a03-89d1-17d3c9d1cf4c", // ハーベスト (H!P), hardcoded to avoid mismatch with 1977 CCM band
+  "green-fields": "d-green-fields",
 };
 
 interface MBRelation {
@@ -150,6 +165,17 @@ async function main() {
       ja: "ハロー！プロジェクト",
       en: "Hello! Project",
     },
+    buono: { ja: "Buono!", en: "Buono!" },
+    tanpopo: { ja: "タンポポ", en: "Tanpopo" },
+    petitmoni: { ja: "プッチモニ", en: "Petitmoni" },
+    "aa-unit": { ja: "Aa!", en: "Aa!" },
+    gam: { ja: "GAM", en: "GAM" },
+    zyx: { ja: "ZYX", en: "ZYX" },
+    "def-diva": { ja: "DEF.DIVA", en: "DEF.DIVA" },
+    "high-king": { ja: "High-King", en: "High-King" },
+    peaberry: { ja: "ピーベリー", en: "Peaberry" },
+    harvest: { ja: "ハーベスト", en: "Harvest" },
+    "green-fields": { ja: "グリーンフィールズ", en: "Green Fields" },
   };
 
   // Default colors for groups
@@ -172,6 +198,17 @@ async function main() {
     "v-u-den": "#9C27B0",
     "w-double-you": "#00BCD4",
     "hello-project": "#FF1493",
+    buono: "#673AB7",
+    tanpopo: "#FFC107",
+    petitmoni: "#FF80AB",
+    "aa-unit": "#03A9F4",
+    gam: "#CDDC39",
+    zyx: "#00ACC1",
+    "def-diva": "#C2185B",
+    "high-king": "#5D4037",
+    peaberry: "#A1887F",
+    harvest: "#388E3C",
+    "green-fields": "#689F38",
   };
 
   // Resolve placeholder MBIDs by searching

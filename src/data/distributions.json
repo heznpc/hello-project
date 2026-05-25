@@ -184,6 +184,52 @@
     "totalSeconds": 391
   },
   {
+    "songId": "morning-musume-appare-kaitenzushi",
+    "lines": [
+      {
+        "memberId": "tanaka-reina",
+        "seconds": 191,
+        "percentage": 28.9
+      },
+      {
+        "memberId": "takahashi-ai",
+        "seconds": 88,
+        "percentage": 13.3
+      },
+      {
+        "memberId": "niigaki-risa",
+        "seconds": 87,
+        "percentage": 13.2
+      },
+      {
+        "memberId": "kamei-eri",
+        "seconds": 86,
+        "percentage": 13
+      },
+      {
+        "memberId": "michishige-sayumi",
+        "seconds": 69,
+        "percentage": 10.4
+      },
+      {
+        "memberId": "mitsui-aika",
+        "seconds": 52,
+        "percentage": 7.9
+      },
+      {
+        "memberId": "junjun",
+        "seconds": 47,
+        "percentage": 7.1
+      },
+      {
+        "memberId": "linlin",
+        "seconds": 41,
+        "percentage": 6.2
+      }
+    ],
+    "totalSeconds": 661
+  },
+  {
     "songId": "morning-musume-aruiteru",
     "lines": [
       {
@@ -402,33 +448,33 @@
     "lines": [
       {
         "memberId": "goto-maki",
-        "seconds": 144,
-        "percentage": 19.3
+        "seconds": 145,
+        "percentage": 19.4
       },
       {
         "memberId": "abe-natsumi",
         "seconds": 141,
-        "percentage": 18.9
+        "percentage": 18.8
       },
       {
         "memberId": "takahashi-ai",
         "seconds": 82,
-        "percentage": 11
+        "percentage": 10.9
       },
       {
         "memberId": "yaguchi-mari",
         "seconds": 79,
-        "percentage": 10.6
+        "percentage": 10.5
       },
       {
         "memberId": "iida-kaori",
         "seconds": 73,
-        "percentage": 9.8
+        "percentage": 9.7
       },
       {
         "memberId": "niigaki-risa",
         "seconds": 55,
-        "percentage": 7.4
+        "percentage": 7.3
       },
       {
         "memberId": "konno-asami",
@@ -466,225 +512,58 @@
         "percentage": 1.6
       }
     ],
-    "totalSeconds": 748
+    "totalSeconds": 749
   },
   {
     "songId": "morning-musume-egao-yes-nude",
     "lines": [
       {
-        "memberId": "mitsui-aika",
-        "seconds": 1016,
-        "percentage": 47.6
-      },
-      {
         "memberId": "takahashi-ai",
         "seconds": 305,
-        "percentage": 14.3
+        "percentage": 25.5
       },
       {
         "memberId": "niigaki-risa",
         "seconds": 153,
-        "percentage": 7.2
+        "percentage": 12.8
       },
       {
         "memberId": "fujimoto-miki",
         "seconds": 141,
-        "percentage": 6.6
+        "percentage": 11.8
       },
       {
         "memberId": "yoshizawa-hitomi",
         "seconds": 138,
-        "percentage": 6.5
+        "percentage": 11.5
+      },
+      {
+        "memberId": "mitsui-aika",
+        "seconds": 135,
+        "percentage": 11.3
       },
       {
         "memberId": "kusumi-koharu-1",
         "seconds": 134,
-        "percentage": 6.3
+        "percentage": 11.2
       },
       {
         "memberId": "tanaka-reina",
         "seconds": 105,
-        "percentage": 4.9
+        "percentage": 8.8
       },
       {
         "memberId": "kamei-eri",
-        "seconds": 42,
-        "percentage": 2
+        "seconds": 45,
+        "percentage": 3.8
       },
       {
         "memberId": "michishige-sayumi",
         "seconds": 42,
-        "percentage": 2
-      },
-      {
-        "memberId": "kamei-eri-mcolor",
-        "seconds": 17,
-        "percentage": 0.8
-      },
-      {
-        "memberId": "tanaka-reina-mcolor",
-        "seconds": 15,
-        "percentage": 0.7
-      },
-      {
-        "memberId": "yoshizawa-hitomi-mcolor",
-        "seconds": 12,
-        "percentage": 0.6
-      },
-      {
-        "memberId": "niigaki-risa-mcolor",
-        "seconds": 13,
-        "percentage": 0.6
+        "percentage": 3.5
       }
     ],
-    "totalSeconds": 2133
-  },
-  {
-    "songId": "morning-musume-gosenfu-no-tasuki",
-    "lines": [
-      {
-        "memberId": "fukumura-mizuki",
-        "seconds": 63,
-        "percentage": 16.2
-      },
-      {
-        "memberId": "nonaka-miki",
-        "seconds": 54,
-        "percentage": 13.8
-      },
-      {
-        "memberId": "oda-sakura",
-        "seconds": 53,
-        "percentage": 13.6
-      },
-      {
-        "memberId": "sato-masaki",
-        "seconds": 28,
-        "percentage": 7.2
-      },
-      {
-        "memberId": "makino-maria-1",
-        "seconds": 22,
-        "percentage": 5.6
-      },
-      {
-        "memberId": "haga-akane-1",
-        "seconds": 22,
-        "percentage": 5.6
-      },
-      {
-        "memberId": "morito-chisaki",
-        "seconds": 22,
-        "percentage": 5.6
-      },
-      {
-        "memberId": "yokoyama-reina",
-        "seconds": 20,
-        "percentage": 5.1
-      },
-      {
-        "memberId": "kaga-kaede",
-        "seconds": 18,
-        "percentage": 4.6
-      },
-      {
-        "memberId": "ikuta-erina",
-        "seconds": 18,
-        "percentage": 4.6
-      },
-      {
-        "memberId": "iikubo-haruna",
-        "seconds": 18,
-        "percentage": 4.6
-      },
-      {
-        "memberId": "ishida-ayumi",
-        "seconds": 18,
-        "percentage": 4.6
-      },
-      {
-        "memberId": "kudo-haruka",
-        "seconds": 18,
-        "percentage": 4.6
-      },
-      {
-        "memberId": "ogata-haruna",
-        "seconds": 16,
-        "percentage": 4.1
-      }
-    ],
-    "totalSeconds": 390
-  },
-  {
-    "songId": "morning-musume-hana-ga-saku-taiyou-abite",
-    "lines": [
-      {
-        "memberId": "fukumura-mizuki",
-        "seconds": 80,
-        "percentage": 21.4
-      },
-      {
-        "memberId": "sato-masaki",
-        "seconds": 47,
-        "percentage": 12.6
-      },
-      {
-        "memberId": "oda-sakura",
-        "seconds": 46,
-        "percentage": 12.3
-      },
-      {
-        "memberId": "nonaka-miki",
-        "seconds": 35,
-        "percentage": 9.4
-      },
-      {
-        "memberId": "ogata-haruna",
-        "seconds": 25,
-        "percentage": 6.7
-      },
-      {
-        "memberId": "morito-chisaki",
-        "seconds": 20,
-        "percentage": 5.4
-      },
-      {
-        "memberId": "ishida-ayumi",
-        "seconds": 20,
-        "percentage": 5.4
-      },
-      {
-        "memberId": "makino-maria-1",
-        "seconds": 18,
-        "percentage": 4.8
-      },
-      {
-        "memberId": "haga-akane-1",
-        "seconds": 18,
-        "percentage": 4.8
-      },
-      {
-        "memberId": "iikubo-haruna",
-        "seconds": 16,
-        "percentage": 4.3
-      },
-      {
-        "memberId": "ikuta-erina",
-        "seconds": 16,
-        "percentage": 4.3
-      },
-      {
-        "memberId": "kaga-kaede",
-        "seconds": 16,
-        "percentage": 4.3
-      },
-      {
-        "memberId": "yokoyama-reina",
-        "seconds": 16,
-        "percentage": 4.3
-      }
-    ],
-    "totalSeconds": 373
+    "totalSeconds": 1198
   },
   {
     "songId": "morning-musume-happy-summer-wedding",
@@ -2954,47 +2833,6 @@
     "totalSeconds": 1906
   },
   {
-    "songId": "juice-juice-fiesta-fiesta",
-    "lines": [
-      {
-        "memberId": "takagi-sayuki",
-        "seconds": 103,
-        "percentage": 17.7
-      },
-      {
-        "memberId": "miyamoto-karin",
-        "seconds": 101,
-        "percentage": 17.4
-      },
-      {
-        "memberId": "kanazawa-tomoko",
-        "seconds": 80,
-        "percentage": 13.7
-      },
-      {
-        "memberId": "yanagawa-nanami-jj",
-        "seconds": 79,
-        "percentage": 13.6
-      },
-      {
-        "memberId": "uemura-akari",
-        "seconds": 74,
-        "percentage": 12.7
-      },
-      {
-        "memberId": "miyazaki-yuka",
-        "seconds": 73,
-        "percentage": 12.5
-      },
-      {
-        "memberId": "dambara-ruru",
-        "seconds": 72,
-        "percentage": 12.4
-      }
-    ],
-    "totalSeconds": 582
-  },
-  {
     "songId": "juice-juice-samidare-bijo-ga-samidareru",
     "lines": [
       {
@@ -3088,292 +2926,6 @@
     "totalSeconds": 634
   },
   {
-    "songId": "tsubaki-factory-junai-crusher",
-    "lines": [
-      {
-        "memberId": "kasai-yuumi",
-        "seconds": 134,
-        "percentage": 14.6
-      },
-      {
-        "memberId": "fukuda-marine",
-        "seconds": 113,
-        "percentage": 12.3
-      },
-      {
-        "memberId": "tanimoto-ami",
-        "seconds": 109,
-        "percentage": 11.9
-      },
-      {
-        "memberId": "akiyama-mao",
-        "seconds": 109,
-        "percentage": 11.9
-      },
-      {
-        "memberId": "onoda-saori",
-        "seconds": 107,
-        "percentage": 11.7
-      },
-      {
-        "memberId": "ono-mizuho",
-        "seconds": 102,
-        "percentage": 11.1
-      },
-      {
-        "memberId": "ishii-mihane",
-        "seconds": 66,
-        "percentage": 7.2
-      },
-      {
-        "memberId": "yofu-runo",
-        "seconds": 61,
-        "percentage": 6.7
-      },
-      {
-        "memberId": "murata-yuu",
-        "seconds": 60,
-        "percentage": 6.5
-      },
-      {
-        "memberId": "doi-fuka",
-        "seconds": 56,
-        "percentage": 6.1
-      }
-    ],
-    "totalSeconds": 917
-  },
-  {
-    "songId": "tsubaki-factory-kedakaku-sakihokore",
-    "lines": [
-      {
-        "memberId": "ogata-risa",
-        "seconds": 184,
-        "percentage": 25.1
-      },
-      {
-        "memberId": "kishimoto-yumeno",
-        "seconds": 162,
-        "percentage": 22.1
-      },
-      {
-        "memberId": "asakura-kiki",
-        "seconds": 118,
-        "percentage": 16.1
-      },
-      {
-        "memberId": "niinuma-kisora",
-        "seconds": 109,
-        "percentage": 14.9
-      },
-      {
-        "memberId": "tanimoto-ami",
-        "seconds": 84,
-        "percentage": 11.5
-      },
-      {
-        "memberId": "yamagishi-riko",
-        "seconds": 75,
-        "percentage": 10.2
-      }
-    ],
-    "totalSeconds": 732
-  },
-  {
-    "songId": "tsubaki-factory-secret-summer",
-    "lines": [
-      {
-        "memberId": "kasai-yuumi",
-        "seconds": 209,
-        "percentage": 20.1
-      },
-      {
-        "memberId": "fukuda-marine",
-        "seconds": 154,
-        "percentage": 14.8
-      },
-      {
-        "memberId": "akiyama-mao",
-        "seconds": 105,
-        "percentage": 10.1
-      },
-      {
-        "memberId": "onoda-saori",
-        "seconds": 102,
-        "percentage": 9.8
-      },
-      {
-        "memberId": "tanimoto-ami",
-        "seconds": 96,
-        "percentage": 9.2
-      },
-      {
-        "memberId": "yofu-runo",
-        "seconds": 91,
-        "percentage": 8.7
-      },
-      {
-        "memberId": "ono-mizuho",
-        "seconds": 91,
-        "percentage": 8.7
-      },
-      {
-        "memberId": "doi-fuka",
-        "seconds": 90,
-        "percentage": 8.6
-      },
-      {
-        "memberId": "ishii-mihane",
-        "seconds": 59,
-        "percentage": 5.7
-      },
-      {
-        "memberId": "murata-yuu",
-        "seconds": 44,
-        "percentage": 4.2
-      }
-    ],
-    "totalSeconds": 1041
-  },
-  {
-    "songId": "tsubaki-factory-seishun-manmannaka",
-    "lines": [
-      {
-        "memberId": "kishimoto-yumeno",
-        "seconds": 48,
-        "percentage": 18.4
-      },
-      {
-        "memberId": "ogata-risa",
-        "seconds": 47,
-        "percentage": 18
-      },
-      {
-        "memberId": "niinuma-kisora",
-        "seconds": 44,
-        "percentage": 16.9
-      },
-      {
-        "memberId": "asakura-kiki",
-        "seconds": 43,
-        "percentage": 16.5
-      },
-      {
-        "memberId": "yamagishi-riko",
-        "seconds": 41,
-        "percentage": 15.7
-      },
-      {
-        "memberId": "tanimoto-ami",
-        "seconds": 38,
-        "percentage": 14.6
-      }
-    ],
-    "totalSeconds": 261
-  },
-  {
-    "songId": "beyooooonds-saikoo-de-dance",
-    "lines": [
-      {
-        "memberId": "satoyoshi-utano",
-        "seconds": 486,
-        "percentage": 38.4
-      },
-      {
-        "memberId": "maeda-kokoro",
-        "seconds": 125,
-        "percentage": 9.9
-      },
-      {
-        "memberId": "takase-kurumi",
-        "seconds": 113,
-        "percentage": 8.9
-      },
-      {
-        "memberId": "kiyono-momohime",
-        "seconds": 95,
-        "percentage": 7.5
-      },
-      {
-        "memberId": "okamura-minami",
-        "seconds": 94,
-        "percentage": 7.4
-      },
-      {
-        "memberId": "nishida-shiori",
-        "seconds": 93,
-        "percentage": 7.3
-      },
-      {
-        "memberId": "hirai-miyo",
-        "seconds": 56,
-        "percentage": 4.4
-      },
-      {
-        "memberId": "kobayashi-honoka",
-        "seconds": 56,
-        "percentage": 4.4
-      },
-      {
-        "memberId": "eguchi-saya",
-        "seconds": 41,
-        "percentage": 3.2
-      },
-      {
-        "memberId": "hirai-miyo-mcolor",
-        "seconds": 32,
-        "percentage": 2.5
-      },
-      {
-        "memberId": "okamura-minami-mcolor",
-        "seconds": 30,
-        "percentage": 2.4
-      },
-      {
-        "memberId": "takase-kurumi-mcolor",
-        "seconds": 24,
-        "percentage": 1.9
-      },
-      {
-        "memberId": "nishida-shiori-mcolor",
-        "seconds": 22,
-        "percentage": 1.7
-      }
-    ],
-    "totalSeconds": 1267
-  },
-  {
-    "songId": "country-girls-kaite-wa-keshite-no-i-love-you",
-    "lines": [
-      {
-        "memberId": "ozeki-mai",
-        "seconds": 229,
-        "percentage": 22.1
-      },
-      {
-        "memberId": "morito-chisaki-cg",
-        "seconds": 211,
-        "percentage": 20.3
-      },
-      {
-        "memberId": "funaki-musubu-cg",
-        "seconds": 206,
-        "percentage": 19.9
-      },
-      {
-        "memberId": "yanagawa-nanami-cg",
-        "seconds": 205,
-        "percentage": 19.8
-      },
-      {
-        "memberId": "yamaki-risa",
-        "seconds": 186,
-        "percentage": 17.9
-      }
-    ],
-    "totalSeconds": 1037
-  },
-  {
     "songId": "angerme-ama-no-jaku",
     "lines": [
       {
@@ -3430,36 +2982,36 @@
     "lines": [
       {
         "memberId": "fukuda-kanon-s",
-        "seconds": 220,
-        "percentage": 30.6
+        "seconds": 218,
+        "percentage": 30.4
       },
       {
         "memberId": "takeuchi-akari-s",
         "seconds": 155,
-        "percentage": 21.5
+        "percentage": 21.6
       },
       {
         "memberId": "tamura-meimi-s",
         "seconds": 152,
-        "percentage": 21.1
+        "percentage": 21.2
       },
       {
         "memberId": "wada-ayaka-s",
         "seconds": 124,
-        "percentage": 17.2
+        "percentage": 17.3
       },
       {
         "memberId": "katsuta-rina-s",
         "seconds": 37,
-        "percentage": 5.1
+        "percentage": 5.2
       },
       {
         "memberId": "nakanishi-kana-s",
         "seconds": 32,
-        "percentage": 4.4
+        "percentage": 4.5
       }
     ],
-    "totalSeconds": 720
+    "totalSeconds": 718
   },
   {
     "songId": "angerme-dot-bikini",
@@ -4010,67 +3562,6 @@
     "totalSeconds": 446
   },
   {
-    "songId": "cute-amazuppai-haru-ni-sakura-saku",
-    "lines": [
-      {
-        "memberId": "hagiwara-mai",
-        "seconds": 690,
-        "percentage": 74.7
-      },
-      {
-        "memberId": "suzuki-airi",
-        "seconds": 48,
-        "percentage": 5.2
-      },
-      {
-        "memberId": "sugaya-risako",
-        "seconds": 45,
-        "percentage": 4.9
-      },
-      {
-        "memberId": "natsuyaki-miyabi",
-        "seconds": 30,
-        "percentage": 3.2
-      },
-      {
-        "memberId": "sudo-maasa",
-        "seconds": 27,
-        "percentage": 2.9
-      },
-      {
-        "memberId": "kumai-yurina",
-        "seconds": 20,
-        "percentage": 2.2
-      },
-      {
-        "memberId": "tokunaga-chinami",
-        "seconds": 18,
-        "percentage": 1.9
-      },
-      {
-        "memberId": "natsuyaki-miyabi-mcolor",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "sugaya-risako-ute-lightred",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "suzuki-airi-lightgreen",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "tokunaga-chinami-mcolor",
-        "seconds": 10,
-        "percentage": 1.1
-      }
-    ],
-    "totalSeconds": 924
-  },
-  {
     "songId": "cute-bye-bye-bye",
     "lines": [
       {
@@ -4141,62 +3632,62 @@
     "songId": "cute-chou-happy-song",
     "lines": [
       {
-        "memberId": "hagiwara-mai",
-        "seconds": 920,
-        "percentage": 65.1
-      },
-      {
         "memberId": "natsuyaki-miyabi",
         "seconds": 135,
-        "percentage": 9.6
-      },
-      {
-        "memberId": "suzuki-airi",
-        "seconds": 117,
-        "percentage": 8.3
+        "percentage": 27.8
       },
       {
         "memberId": "sugaya-risako",
         "seconds": 109,
-        "percentage": 7.7
+        "percentage": 22.5
+      },
+      {
+        "memberId": "shimizu-saki",
+        "seconds": 53,
+        "percentage": 10.9
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 52,
+        "percentage": 10.7
       },
       {
         "memberId": "kumai-yurina",
         "seconds": 49,
-        "percentage": 3.5
+        "percentage": 10.1
       },
       {
         "memberId": "sudo-maasa",
         "seconds": 22,
-        "percentage": 1.6
+        "percentage": 4.5
+      },
+      {
+        "memberId": "shimizu-saki-mcolor",
+        "seconds": 16,
+        "percentage": 3.3
       },
       {
         "memberId": "tokunaga-chinami",
         "seconds": 15,
-        "percentage": 1.1
+        "percentage": 3.1
       },
       {
         "memberId": "natsuyaki-miyabi-mcolor",
         "seconds": 12,
-        "percentage": 0.8
+        "percentage": 2.5
       },
       {
         "memberId": "sugaya-risako-ute-lightred",
         "seconds": 12,
-        "percentage": 0.8
-      },
-      {
-        "memberId": "suzuki-airi-lightgreen",
-        "seconds": 12,
-        "percentage": 0.8
+        "percentage": 2.5
       },
       {
         "memberId": "tokunaga-chinami-mcolor",
         "seconds": 10,
-        "percentage": 0.7
+        "percentage": 2.1
       }
     ],
-    "totalSeconds": 1413
+    "totalSeconds": 485
   },
   {
     "songId": "cute-crazy-kanzen-na-otona",
@@ -5123,67 +4614,6 @@
     "totalSeconds": 833
   },
   {
-    "songId": "berryz-koubou-amazuppai-haru-ni-sakura-saku",
-    "lines": [
-      {
-        "memberId": "hagiwara-mai",
-        "seconds": 690,
-        "percentage": 74.7
-      },
-      {
-        "memberId": "suzuki-airi",
-        "seconds": 48,
-        "percentage": 5.2
-      },
-      {
-        "memberId": "sugaya-risako",
-        "seconds": 45,
-        "percentage": 4.9
-      },
-      {
-        "memberId": "natsuyaki-miyabi",
-        "seconds": 30,
-        "percentage": 3.2
-      },
-      {
-        "memberId": "sudo-maasa",
-        "seconds": 27,
-        "percentage": 2.9
-      },
-      {
-        "memberId": "kumai-yurina",
-        "seconds": 20,
-        "percentage": 2.2
-      },
-      {
-        "memberId": "tokunaga-chinami",
-        "seconds": 18,
-        "percentage": 1.9
-      },
-      {
-        "memberId": "natsuyaki-miyabi-mcolor",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "sugaya-risako-ute-lightred",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "suzuki-airi-lightgreen",
-        "seconds": 12,
-        "percentage": 1.3
-      },
-      {
-        "memberId": "tokunaga-chinami-mcolor",
-        "seconds": 10,
-        "percentage": 1.1
-      }
-    ],
-    "totalSeconds": 924
-  },
-  {
     "songId": "berryz-koubou-anata-nashi-de-wa-ikite-yukenai",
     "lines": [
       {
@@ -5376,62 +4806,62 @@
     "songId": "berryz-koubou-chou-happy-song",
     "lines": [
       {
-        "memberId": "hagiwara-mai",
-        "seconds": 920,
-        "percentage": 65.1
-      },
-      {
         "memberId": "natsuyaki-miyabi",
         "seconds": 135,
-        "percentage": 9.6
-      },
-      {
-        "memberId": "suzuki-airi",
-        "seconds": 117,
-        "percentage": 8.3
+        "percentage": 27.8
       },
       {
         "memberId": "sugaya-risako",
         "seconds": 109,
-        "percentage": 7.7
+        "percentage": 22.5
+      },
+      {
+        "memberId": "shimizu-saki",
+        "seconds": 53,
+        "percentage": 10.9
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 52,
+        "percentage": 10.7
       },
       {
         "memberId": "kumai-yurina",
         "seconds": 49,
-        "percentage": 3.5
+        "percentage": 10.1
       },
       {
         "memberId": "sudo-maasa",
         "seconds": 22,
-        "percentage": 1.6
+        "percentage": 4.5
+      },
+      {
+        "memberId": "shimizu-saki-mcolor",
+        "seconds": 16,
+        "percentage": 3.3
       },
       {
         "memberId": "tokunaga-chinami",
         "seconds": 15,
-        "percentage": 1.1
+        "percentage": 3.1
       },
       {
         "memberId": "natsuyaki-miyabi-mcolor",
         "seconds": 12,
-        "percentage": 0.8
+        "percentage": 2.5
       },
       {
         "memberId": "sugaya-risako-ute-lightred",
         "seconds": 12,
-        "percentage": 0.8
-      },
-      {
-        "memberId": "suzuki-airi-lightgreen",
-        "seconds": 12,
-        "percentage": 0.8
+        "percentage": 2.5
       },
       {
         "memberId": "tokunaga-chinami-mcolor",
         "seconds": 10,
-        "percentage": 0.7
+        "percentage": 2.1
       }
     ],
-    "totalSeconds": 1413
+    "totalSeconds": 485
   },
   {
     "songId": "berryz-koubou-dakishimete-dakishimete",
@@ -6394,5 +5824,1969 @@
       }
     ],
     "totalSeconds": 823
+  },
+  {
+    "songId": "buono-bravo-bravo",
+    "lines": [
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 87,
+        "percentage": 36.3
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 86,
+        "percentage": 35.8
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 67,
+        "percentage": 27.9
+      }
+    ],
+    "totalSeconds": 240
+  },
+  {
+    "songId": "buono-gachinko-de-ikou",
+    "lines": [
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 251,
+        "percentage": 38.6
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 221,
+        "percentage": 33.9
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 179,
+        "percentage": 27.5
+      }
+    ],
+    "totalSeconds": 651
+  },
+  {
+    "songId": "buono-honto-no-jibun",
+    "lines": [
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 108,
+        "percentage": 38
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 100,
+        "percentage": 35.2
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 76,
+        "percentage": 26.8
+      }
+    ],
+    "totalSeconds": 284
+  },
+  {
+    "songId": "buono-kiss-kiss-kiss",
+    "lines": [
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 243,
+        "percentage": 35.7
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 234,
+        "percentage": 34.4
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 204,
+        "percentage": 30
+      }
+    ],
+    "totalSeconds": 681
+  },
+  {
+    "songId": "buono-my-boy",
+    "lines": [
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 361,
+        "percentage": 35.1
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 344,
+        "percentage": 33.4
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 324,
+        "percentage": 31.5
+      }
+    ],
+    "totalSeconds": 1029
+  },
+  {
+    "songId": "buono-natsu-dakara",
+    "lines": [
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 465,
+        "percentage": 44.6
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 294,
+        "percentage": 28.2
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 283,
+        "percentage": 27.2
+      }
+    ],
+    "totalSeconds": 1042
+  },
+  {
+    "songId": "buono-our-songs",
+    "lines": [
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 169,
+        "percentage": 39.7
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 143,
+        "percentage": 33.6
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 114,
+        "percentage": 26.8
+      }
+    ],
+    "totalSeconds": 426
+  },
+  {
+    "songId": "buono-renai-rider",
+    "lines": [
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 130,
+        "percentage": 43.6
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 84,
+        "percentage": 28.2
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 84,
+        "percentage": 28.2
+      }
+    ],
+    "totalSeconds": 298
+  },
+  {
+    "songId": "buono-rottara-rottara",
+    "lines": [
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 455,
+        "percentage": 39.6
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 353,
+        "percentage": 30.7
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 342,
+        "percentage": 29.7
+      }
+    ],
+    "totalSeconds": 1150
+  },
+  {
+    "songId": "buono-take-it-easy",
+    "lines": [
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 201,
+        "percentage": 34.6
+      },
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 190,
+        "percentage": 32.7
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 190,
+        "percentage": 32.7
+      }
+    ],
+    "totalSeconds": 581
+  },
+  {
+    "songId": "buono-zassou-no-uta",
+    "lines": [
+      {
+        "memberId": "suzuki-airi-buono",
+        "seconds": 255,
+        "percentage": 41.7
+      },
+      {
+        "memberId": "natsuyaki-miyabi-buono",
+        "seconds": 186,
+        "percentage": 30.4
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 170,
+        "percentage": 27.8
+      }
+    ],
+    "totalSeconds": 611
+  },
+  {
+    "songId": "tanpopo-be-happy-koi-no-yajirobee",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 239,
+        "percentage": 26.3
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 223,
+        "percentage": 24.5
+      },
+      {
+        "memberId": "niigaki-risa",
+        "seconds": 222,
+        "percentage": 24.4
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 200,
+        "percentage": 22
+      },
+      {
+        "memberId": "ishikawa-rika-mcolor",
+        "seconds": 13,
+        "percentage": 1.4
+      },
+      {
+        "memberId": "konno-asami-mcolor",
+        "seconds": 12,
+        "percentage": 1.3
+      }
+    ],
+    "totalSeconds": 909
+  },
+  {
+    "songId": "tanpopo-koi-wo-shichaimashita",
+    "lines": [
+      {
+        "memberId": "kago-ai",
+        "seconds": 195,
+        "percentage": 27.1
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 175,
+        "percentage": 24.3
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 170,
+        "percentage": 23.6
+      },
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 161,
+        "percentage": 22.4
+      },
+      {
+        "memberId": "iida-kaori-mcolor",
+        "seconds": 12,
+        "percentage": 1.7
+      },
+      {
+        "memberId": "ishikawa-rika-mcolor",
+        "seconds": 7,
+        "percentage": 1
+      }
+    ],
+    "totalSeconds": 720
+  },
+  {
+    "songId": "tanpopo-last-kiss",
+    "lines": [
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 681,
+        "percentage": 55.1
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 281,
+        "percentage": 22.7
+      },
+      {
+        "memberId": "ishiguro-aya",
+        "seconds": 265,
+        "percentage": 21.4
+      },
+      {
+        "memberId": "ishiguro-aya-mcolor",
+        "seconds": 10,
+        "percentage": 0.8
+      }
+    ],
+    "totalSeconds": 1237
+  },
+  {
+    "songId": "tanpopo-otome-pasta-ni-kandou",
+    "lines": [
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 193,
+        "percentage": 32
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 187,
+        "percentage": 31
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 118,
+        "percentage": 19.5
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 106,
+        "percentage": 17.5
+      }
+    ],
+    "totalSeconds": 604
+  },
+  {
+    "songId": "tanpopo-oujisama-to-yuki-no-yoru",
+    "lines": [
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 161,
+        "percentage": 30
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 148,
+        "percentage": 27.6
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 125,
+        "percentage": 23.3
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 103,
+        "percentage": 19.2
+      }
+    ],
+    "totalSeconds": 537
+  },
+  {
+    "songId": "tanpopo-seinaru-kane-ga-hibiku-yoru",
+    "lines": [
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 873,
+        "percentage": 69.3
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 213,
+        "percentage": 16.9
+      },
+      {
+        "memberId": "ishiguro-aya",
+        "seconds": 164,
+        "percentage": 13
+      },
+      {
+        "memberId": "ishiguro-aya-mcolor",
+        "seconds": 10,
+        "percentage": 0.8
+      }
+    ],
+    "totalSeconds": 1260
+  },
+  {
+    "songId": "petitmoni-baby-koi-ni-knock-out",
+    "lines": [
+      {
+        "memberId": "yoshizawa-hitomi",
+        "seconds": 259,
+        "percentage": 37.3
+      },
+      {
+        "memberId": "goto-maki",
+        "seconds": 226,
+        "percentage": 32.6
+      },
+      {
+        "memberId": "yasuda-kei",
+        "seconds": 209,
+        "percentage": 30.1
+      }
+    ],
+    "totalSeconds": 694
+  },
+  {
+    "songId": "petitmoni-chokotto-love",
+    "lines": [
+      {
+        "memberId": "ichii-sayaka",
+        "seconds": 266,
+        "percentage": 47.2
+      },
+      {
+        "memberId": "goto-maki",
+        "seconds": 177,
+        "percentage": 31.4
+      },
+      {
+        "memberId": "yasuda-kei",
+        "seconds": 121,
+        "percentage": 21.5
+      }
+    ],
+    "totalSeconds": 564
+  },
+  {
+    "songId": "petitmoni-pittari-shitai-xmas",
+    "lines": [
+      {
+        "memberId": "yasuda-kei",
+        "seconds": 205,
+        "percentage": 37.1
+      },
+      {
+        "memberId": "yoshizawa-hitomi",
+        "seconds": 195,
+        "percentage": 35.3
+      },
+      {
+        "memberId": "goto-maki",
+        "seconds": 144,
+        "percentage": 26
+      },
+      {
+        "memberId": "yasuda-kei-mcolor",
+        "seconds": 9,
+        "percentage": 1.6
+      }
+    ],
+    "totalSeconds": 553
+  },
+  {
+    "songId": "gam-daisuki-rakuten-eagles",
+    "lines": [
+      {
+        "memberId": "matsuura-aya",
+        "seconds": 109,
+        "percentage": 49.5
+      },
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 98,
+        "percentage": 44.5
+      },
+      {
+        "memberId": "matsuura-aya-mcolor",
+        "seconds": 13,
+        "percentage": 5.9
+      }
+    ],
+    "totalSeconds": 220
+  },
+  {
+    "songId": "gam-lu-lu-lu",
+    "lines": [
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 432,
+        "percentage": 57.6
+      },
+      {
+        "memberId": "matsuura-aya",
+        "seconds": 305,
+        "percentage": 40.7
+      },
+      {
+        "memberId": "matsuura-aya-mcolor",
+        "seconds": 13,
+        "percentage": 1.7
+      }
+    ],
+    "totalSeconds": 750
+  },
+  {
+    "songId": "gam-melodies",
+    "lines": [
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 315,
+        "percentage": 49.6
+      },
+      {
+        "memberId": "matsuura-aya",
+        "seconds": 273,
+        "percentage": 43
+      },
+      {
+        "memberId": "ma",
+        "seconds": 34,
+        "percentage": 5.4
+      },
+      {
+        "memberId": "matsuura-aya-mcolor",
+        "seconds": 13,
+        "percentage": 2
+      }
+    ],
+    "totalSeconds": 635
+  },
+  {
+    "songId": "gam-thanks",
+    "lines": [
+      {
+        "memberId": "matsuura-aya",
+        "seconds": 201,
+        "percentage": 48.7
+      },
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 199,
+        "percentage": 48.2
+      },
+      {
+        "memberId": "matsuura-aya-mcolor",
+        "seconds": 13,
+        "percentage": 3.1
+      }
+    ],
+    "totalSeconds": 413
+  },
+  {
+    "songId": "zyx-iku-zyx-fly-high",
+    "lines": [
+      {
+        "memberId": "murakami-megumi",
+        "seconds": 1090,
+        "percentage": 57.1
+      },
+      {
+        "memberId": "umeda-erika",
+        "seconds": 282,
+        "percentage": 14.8
+      },
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 236,
+        "percentage": 12.4
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 142,
+        "percentage": 7.4
+      },
+      {
+        "memberId": "yajima-maimi",
+        "seconds": 131,
+        "percentage": 6.9
+      },
+      {
+        "memberId": "yajima-maimi-mcolor",
+        "seconds": 16,
+        "percentage": 0.8
+      },
+      {
+        "memberId": "yaguchi-mari-mcolor",
+        "seconds": 11,
+        "percentage": 0.6
+      }
+    ],
+    "totalSeconds": 1908
+  },
+  {
+    "songId": "zyx-shiroi-tokyo",
+    "lines": [
+      {
+        "memberId": "murakami-megumi",
+        "seconds": 647,
+        "percentage": 59.9
+      },
+      {
+        "memberId": "umeda-erika",
+        "seconds": 142,
+        "percentage": 13.1
+      },
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 111,
+        "percentage": 10.3
+      },
+      {
+        "memberId": "tsugunaga-momoko",
+        "seconds": 87,
+        "percentage": 8
+      },
+      {
+        "memberId": "yajima-maimi",
+        "seconds": 67,
+        "percentage": 6.2
+      },
+      {
+        "memberId": "yajima-maimi-mcolor",
+        "seconds": 16,
+        "percentage": 1.5
+      },
+      {
+        "memberId": "yaguchi-mari-mcolor",
+        "seconds": 11,
+        "percentage": 1
+      }
+    ],
+    "totalSeconds": 1081
+  },
+  {
+    "songId": "def-diva-lets-go-rakuten-eagles",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika-mcolor",
+        "seconds": 12,
+        "percentage": 57.1
+      },
+      {
+        "memberId": "abe-natsumi-mcolor",
+        "seconds": 9,
+        "percentage": 42.9
+      }
+    ],
+    "totalSeconds": 21
+  },
+  {
+    "songId": "def-diva-suki-sugite-baka-mitai",
+    "lines": [
+      {
+        "memberId": "matsuura-aya",
+        "seconds": 268,
+        "percentage": 26.4
+      },
+      {
+        "memberId": "abe-natsumi",
+        "seconds": 248,
+        "percentage": 24.4
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 245,
+        "percentage": 24.1
+      },
+      {
+        "memberId": "goto-maki",
+        "seconds": 235,
+        "percentage": 23.1
+      },
+      {
+        "memberId": "ishikawa-rika-mcolor",
+        "seconds": 12,
+        "percentage": 1.2
+      },
+      {
+        "memberId": "abe-natsumi-mcolor",
+        "seconds": 9,
+        "percentage": 0.9
+      }
+    ],
+    "totalSeconds": 1017
+  },
+  {
+    "songId": "coconuts-musume-dance-chance",
+    "lines": [
+      {
+        "memberId": "ching-chelsea",
+        "seconds": 254,
+        "percentage": 58.1
+      },
+      {
+        "memberId": "kimura-ayaka",
+        "seconds": 108,
+        "percentage": 24.7
+      },
+      {
+        "memberId": "todd-mika",
+        "seconds": 42,
+        "percentage": 9.6
+      },
+      {
+        "memberId": "barbaran-april",
+        "seconds": 18,
+        "percentage": 4.1
+      },
+      {
+        "memberId": "delaunay-danielle",
+        "seconds": 15,
+        "percentage": 3.4
+      }
+    ],
+    "totalSeconds": 437
+  },
+  {
+    "songId": "coconuts-musume-jounetsu-yuki-miraisen",
+    "lines": [
+      {
+        "memberId": "kimura-ayaka",
+        "seconds": 250,
+        "percentage": 36.5
+      },
+      {
+        "memberId": "sandbo-lehua",
+        "seconds": 225,
+        "percentage": 32.9
+      },
+      {
+        "memberId": "todd-mika",
+        "seconds": 209,
+        "percentage": 30.6
+      }
+    ],
+    "totalSeconds": 684
+  },
+  {
+    "songId": "coconuts-musume-morning-musume-single-medley-hawaiian",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika-mcolor",
+        "seconds": 16,
+        "percentage": 18.2
+      },
+      {
+        "memberId": "yasuda-kei-mcolor",
+        "seconds": 12,
+        "percentage": 13.6
+      },
+      {
+        "memberId": "ogawa-makoto-mcolor",
+        "seconds": 12,
+        "percentage": 13.6
+      },
+      {
+        "memberId": "iida-kaori-mcolor",
+        "seconds": 11,
+        "percentage": 12.5
+      },
+      {
+        "memberId": "takahashi-ai-mcolor",
+        "seconds": 11,
+        "percentage": 12.5
+      },
+      {
+        "memberId": "fujimoto-miki-mcolor",
+        "seconds": 10,
+        "percentage": 11.4
+      },
+      {
+        "memberId": "kimura-ayaka-mcolor",
+        "seconds": 9,
+        "percentage": 10.2
+      },
+      {
+        "memberId": "tsuji-nozomi-mcolor",
+        "seconds": 7,
+        "percentage": 8
+      }
+    ],
+    "totalSeconds": 88
+  },
+  {
+    "songId": "coconuts-musume-tokonatsu-musume",
+    "lines": [
+      {
+        "memberId": "delaunay-danielle",
+        "seconds": 157,
+        "percentage": 34.2
+      },
+      {
+        "memberId": "sandbo-lehua",
+        "seconds": 136,
+        "percentage": 29.6
+      },
+      {
+        "memberId": "kimura-ayaka",
+        "seconds": 105,
+        "percentage": 22.9
+      },
+      {
+        "memberId": "todd-mika",
+        "seconds": 58,
+        "percentage": 12.6
+      },
+      {
+        "memberId": "wada-ayaka",
+        "seconds": 3,
+        "percentage": 0.7
+      }
+    ],
+    "totalSeconds": 459
+  },
+  {
+    "songId": "coconuts-musume-watashi-mo-i-love-you",
+    "lines": [
+      {
+        "memberId": "delaunay-danielle",
+        "seconds": 216,
+        "percentage": 30.5
+      },
+      {
+        "memberId": "sandbo-lehua",
+        "seconds": 193,
+        "percentage": 27.3
+      },
+      {
+        "memberId": "todd-mika",
+        "seconds": 151,
+        "percentage": 21.3
+      },
+      {
+        "memberId": "kimura-ayaka",
+        "seconds": 99,
+        "percentage": 14
+      },
+      {
+        "memberId": "wada-ayaka",
+        "seconds": 49,
+        "percentage": 6.9
+      }
+    ],
+    "totalSeconds": 708
+  },
+  {
+    "songId": "country-musume-bye-bye-saigo-no-yoru",
+    "lines": [
+      {
+        "memberId": "satoda-mai",
+        "seconds": 299,
+        "percentage": 38.9
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 280,
+        "percentage": 36.4
+      },
+      {
+        "memberId": "kimura-asami",
+        "seconds": 190,
+        "percentage": 24.7
+      }
+    ],
+    "totalSeconds": 769
+  },
+  {
+    "songId": "country-musume-futari-no-hokkaido",
+    "lines": [
+      {
+        "memberId": "kobayashi-azusa",
+        "seconds": 131,
+        "percentage": 54.8
+      },
+      {
+        "memberId": "toda-rinne",
+        "seconds": 64,
+        "percentage": 26.8
+      },
+      {
+        "memberId": "yanagihara-hiromi",
+        "seconds": 44,
+        "percentage": 18.4
+      }
+    ],
+    "totalSeconds": 239
+  },
+  {
+    "songId": "country-musume-hajimete-no-happy-birthday",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 277,
+        "percentage": 40.9
+      },
+      {
+        "memberId": "toda-rinne",
+        "seconds": 220,
+        "percentage": 32.5
+      },
+      {
+        "memberId": "kimura-asami",
+        "seconds": 180,
+        "percentage": 26.6
+      }
+    ],
+    "totalSeconds": 677
+  },
+  {
+    "songId": "country-musume-iroppoi-onna-sexy-baby",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 224,
+        "percentage": 35.7
+      },
+      {
+        "memberId": "satoda-mai",
+        "seconds": 169,
+        "percentage": 26.9
+      },
+      {
+        "memberId": "kimura-asami",
+        "seconds": 122,
+        "percentage": 19.4
+      },
+      {
+        "memberId": "toda-rinne",
+        "seconds": 113,
+        "percentage": 18
+      }
+    ],
+    "totalSeconds": 628
+  },
+  {
+    "songId": "country-musume-koi-ga-suteki-na-kisetsu",
+    "lines": [
+      {
+        "memberId": "rinne",
+        "seconds": 367,
+        "percentage": 67
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 181,
+        "percentage": 33
+      }
+    ],
+    "totalSeconds": 548
+  },
+  {
+    "songId": "country-musume-koibito-wa-kokoro-no-ouendan",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 470,
+        "percentage": 38.1
+      },
+      {
+        "memberId": "toda-rinne",
+        "seconds": 384,
+        "percentage": 31.2
+      },
+      {
+        "memberId": "kimura-asami",
+        "seconds": 378,
+        "percentage": 30.7
+      }
+    ],
+    "totalSeconds": 1232
+  },
+  {
+    "songId": "country-musume-senpai-love-again",
+    "lines": [
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 433,
+        "percentage": 43.7
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 311,
+        "percentage": 31.4
+      },
+      {
+        "memberId": "satoda-mai",
+        "seconds": 125,
+        "percentage": 12.6
+      },
+      {
+        "memberId": "miuna",
+        "seconds": 122,
+        "percentage": 12.3
+      }
+    ],
+    "totalSeconds": 991
+  },
+  {
+    "songId": "country-musume-shining-itoshiki-anata",
+    "lines": [
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 412,
+        "percentage": 58.8
+      },
+      {
+        "memberId": "satoda-mai",
+        "seconds": 157,
+        "percentage": 22.4
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 87,
+        "percentage": 12.4
+      },
+      {
+        "memberId": "kimura-asami",
+        "seconds": 24,
+        "percentage": 3.4
+      },
+      {
+        "memberId": "saito-miuna",
+        "seconds": 21,
+        "percentage": 3
+      }
+    ],
+    "totalSeconds": 701
+  },
+  {
+    "songId": "country-musume-uwaki-na-honey-pie",
+    "lines": [
+      {
+        "memberId": "kimura-asami",
+        "seconds": 230,
+        "percentage": 31.4
+      },
+      {
+        "memberId": "fujimoto-miki",
+        "seconds": 162,
+        "percentage": 22.1
+      },
+      {
+        "memberId": "satoda-mai",
+        "seconds": 146,
+        "percentage": 19.9
+      },
+      {
+        "memberId": "saito-miuna",
+        "seconds": 127,
+        "percentage": 17.3
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 68,
+        "percentage": 9.3
+      }
+    ],
+    "totalSeconds": 733
+  },
+  {
+    "songId": "melon-kinenbi-akai-freesia",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 520,
+        "percentage": 70.8
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 81,
+        "percentage": 11
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 67,
+        "percentage": 9.1
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 66,
+        "percentage": 9
+      }
+    ],
+    "totalSeconds": 734
+  },
+  {
+    "songId": "melon-kinenbi-amai-anata-no-aji",
+    "lines": [
+      {
+        "memberId": "otani-masae",
+        "seconds": 434,
+        "percentage": 36.6
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 284,
+        "percentage": 23.9
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 276,
+        "percentage": 23.3
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 192,
+        "percentage": 16.2
+      }
+    ],
+    "totalSeconds": 1186
+  },
+  {
+    "songId": "melon-kinenbi-champagne-no-koi",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 443,
+        "percentage": 46.1
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 190,
+        "percentage": 19.8
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 179,
+        "percentage": 18.6
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 148,
+        "percentage": 15.4
+      }
+    ],
+    "totalSeconds": 960
+  },
+  {
+    "songId": "melon-kinenbi-chance-of-love",
+    "lines": [
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      }
+    ],
+    "totalSeconds": 26
+  },
+  {
+    "songId": "melon-kinenbi-denwa-matteimasu",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 424,
+        "percentage": 57.8
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 190,
+        "percentage": 25.9
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 60,
+        "percentage": 8.2
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 59,
+        "percentage": 8
+      }
+    ],
+    "totalSeconds": 733
+  },
+  {
+    "songId": "melon-kinenbi-dont-say-good-bye",
+    "lines": [
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      }
+    ],
+    "totalSeconds": 26
+  },
+  {
+    "songId": "melon-kinenbi-kawaii-kare",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 171,
+        "percentage": 33.8
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 140,
+        "percentage": 27.7
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 124,
+        "percentage": 24.5
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 71,
+        "percentage": 14
+      }
+    ],
+    "totalSeconds": 506
+  },
+  {
+    "songId": "melon-kinenbi-kokuhaku-kinenbi",
+    "lines": [
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      }
+    ],
+    "totalSeconds": 26
+  },
+  {
+    "songId": "melon-kinenbi-melon-tea",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 105,
+        "percentage": 26.9
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 104,
+        "percentage": 26.6
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 79,
+        "percentage": 20.2
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 77,
+        "percentage": 19.7
+      },
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 3.3
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 3.3
+      }
+    ],
+    "totalSeconds": 391
+  },
+  {
+    "songId": "melon-kinenbi-mi-da-ra-matenrou",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 364,
+        "percentage": 38.2
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 266,
+        "percentage": 27.9
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 247,
+        "percentage": 25.9
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 77,
+        "percentage": 8.1
+      }
+    ],
+    "totalSeconds": 954
+  },
+  {
+    "songId": "melon-kinenbi-namida-no-taiyou",
+    "lines": [
+      {
+        "memberId": "otani-masae",
+        "seconds": 114,
+        "percentage": 38
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 109,
+        "percentage": 36.3
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 41,
+        "percentage": 13.7
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 36,
+        "percentage": 12
+      }
+    ],
+    "totalSeconds": 300
+  },
+  {
+    "songId": "melon-kinenbi-natsu-no-yoru-wa-danger",
+    "lines": [
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 50
+      }
+    ],
+    "totalSeconds": 26
+  },
+  {
+    "songId": "melon-kinenbi-nikutai-wa-shoujiki-na-eros",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 591,
+        "percentage": 45.3
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 462,
+        "percentage": 35.4
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 217,
+        "percentage": 16.6
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 34,
+        "percentage": 2.6
+      }
+    ],
+    "totalSeconds": 1304
+  },
+  {
+    "songId": "melon-kinenbi-saa-koibito-ni-narou",
+    "lines": [
+      {
+        "memberId": "otani-masae",
+        "seconds": 308,
+        "percentage": 34
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 289,
+        "percentage": 31.9
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 180,
+        "percentage": 19.8
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 130,
+        "percentage": 14.3
+      }
+    ],
+    "totalSeconds": 907
+  },
+  {
+    "songId": "melon-kinenbi-sweet-suicide-summer-story",
+    "lines": [
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 116,
+        "percentage": 24.9
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 113,
+        "percentage": 24.3
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 111,
+        "percentage": 23.9
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 99,
+        "percentage": 21.3
+      },
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 2.8
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 2.8
+      }
+    ],
+    "totalSeconds": 465
+  },
+  {
+    "songId": "melon-kinenbi-this-is-unmei",
+    "lines": [
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 265,
+        "percentage": 30.9
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 216,
+        "percentage": 25.2
+      },
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 213,
+        "percentage": 24.9
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 163,
+        "percentage": 19
+      }
+    ],
+    "totalSeconds": 857
+  },
+  {
+    "songId": "melon-kinenbi-unforgettable",
+    "lines": [
+      {
+        "memberId": "saito-hitomi",
+        "seconds": 134,
+        "percentage": 36.4
+      },
+      {
+        "memberId": "shibata-ayumi",
+        "seconds": 99,
+        "percentage": 26.9
+      },
+      {
+        "memberId": "otani-masae",
+        "seconds": 59,
+        "percentage": 16
+      },
+      {
+        "memberId": "murata-megumi",
+        "seconds": 50,
+        "percentage": 13.6
+      },
+      {
+        "memberId": "saito-hitomi-mcolor",
+        "seconds": 13,
+        "percentage": 3.5
+      },
+      {
+        "memberId": "otani-masae-mcolor",
+        "seconds": 13,
+        "percentage": 3.5
+      }
+    ],
+    "totalSeconds": 368
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-everyday-everywhere",
+    "lines": [
+      {
+        "memberId": "honda-ruru",
+        "seconds": 457,
+        "percentage": 47.8
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 256,
+        "percentage": 26.8
+      },
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 116,
+        "percentage": 12.1
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 102,
+        "percentage": 10.7
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 1.4
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 1.3
+      }
+    ],
+    "totalSeconds": 956
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-gatamekira",
+    "lines": [
+      {
+        "memberId": "honda-ruru",
+        "seconds": 508,
+        "percentage": 32.5
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 388,
+        "percentage": 24.8
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 331,
+        "percentage": 21.2
+      },
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 310,
+        "percentage": 19.8
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 0.8
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 0.8
+      }
+    ],
+    "totalSeconds": 1562
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-hey-mahiru-no-shinkirou",
+    "lines": [
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 262,
+        "percentage": 33.2
+      },
+      {
+        "memberId": "honda-ruru",
+        "seconds": 209,
+        "percentage": 26.5
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 169,
+        "percentage": 21.4
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 125,
+        "percentage": 15.8
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 1.6
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 1.5
+      }
+    ],
+    "totalSeconds": 790
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-magic-of-love",
+    "lines": [
+      {
+        "memberId": "honda-ruru",
+        "seconds": 503,
+        "percentage": 44.3
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 296,
+        "percentage": 26.1
+      },
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 166,
+        "percentage": 14.6
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 146,
+        "percentage": 12.9
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 1.1
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 1.1
+      }
+    ],
+    "totalSeconds": 1136
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-marui-taiyou-winter-ver",
+    "lines": [
+      {
+        "memberId": "honda-ruru",
+        "seconds": 785,
+        "percentage": 53.1
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 529,
+        "percentage": 35.8
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 153,
+        "percentage": 10.3
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 0.8
+      }
+    ],
+    "totalSeconds": 1479
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-tsuki-to-taiyou",
+    "lines": [
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 293,
+        "percentage": 27.5
+      },
+      {
+        "memberId": "honda-ruru",
+        "seconds": 266,
+        "percentage": 25
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 261,
+        "percentage": 24.5
+      },
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 221,
+        "percentage": 20.7
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 1.2
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 1.1
+      }
+    ],
+    "totalSeconds": 1066
+  },
+  {
+    "songId": "taiyou-to-ciscomoon-uchuu-de-la-ta-ta",
+    "lines": [
+      {
+        "memberId": "honda-ruru",
+        "seconds": 337,
+        "percentage": 50.9
+      },
+      {
+        "memberId": "inaba-atsuko",
+        "seconds": 104,
+        "percentage": 15.7
+      },
+      {
+        "memberId": "shinoda-miho",
+        "seconds": 101,
+        "percentage": 15.3
+      },
+      {
+        "memberId": "kominato-miwa",
+        "seconds": 95,
+        "percentage": 14.4
+      },
+      {
+        "memberId": "honda-ruru-mcolor",
+        "seconds": 13,
+        "percentage": 2
+      },
+      {
+        "memberId": "shinoda-miho-mcolor",
+        "seconds": 12,
+        "percentage": 1.8
+      }
+    ],
+    "totalSeconds": 662
+  },
+  {
+    "songId": "v-u-den-ajisai-ai-ai-monogatari",
+    "lines": [
+      {
+        "memberId": "miyoshi-erika",
+        "seconds": 404,
+        "percentage": 36.7
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 391,
+        "percentage": 35.5
+      },
+      {
+        "memberId": "okada-yui",
+        "seconds": 307,
+        "percentage": 27.9
+      }
+    ],
+    "totalSeconds": 1102
+  },
+  {
+    "songId": "v-u-den-kacchoii-ze-japan",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 359,
+        "percentage": 57.5
+      },
+      {
+        "memberId": "miyoshi-erika",
+        "seconds": 148,
+        "percentage": 23.7
+      },
+      {
+        "memberId": "okada-yui",
+        "seconds": 117,
+        "percentage": 18.8
+      }
+    ],
+    "totalSeconds": 624
+  },
+  {
+    "songId": "v-u-den-kurenai-no-kisetsu",
+    "lines": [
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 426,
+        "percentage": 43.9
+      },
+      {
+        "memberId": "miyoshi-erika",
+        "seconds": 325,
+        "percentage": 33.5
+      },
+      {
+        "memberId": "okada-yui",
+        "seconds": 220,
+        "percentage": 22.7
+      }
+    ],
+    "totalSeconds": 971
+  },
+  {
+    "songId": "v-u-den-nanni-mo-iwazu-ni-i-love-you",
+    "lines": [
+      {
+        "memberId": "abe-natsumi",
+        "seconds": 80,
+        "percentage": 12.7
+      },
+      {
+        "memberId": "goto-maki",
+        "seconds": 74,
+        "percentage": 11.8
+      },
+      {
+        "memberId": "yaguchi-mari",
+        "seconds": 71,
+        "percentage": 11.3
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 69,
+        "percentage": 11
+      },
+      {
+        "memberId": "yasuda-kei",
+        "seconds": 64,
+        "percentage": 10.2
+      },
+      {
+        "memberId": "iida-kaori",
+        "seconds": 64,
+        "percentage": 10.2
+      },
+      {
+        "memberId": "tsuji-nozomi",
+        "seconds": 48,
+        "percentage": 7.6
+      },
+      {
+        "memberId": "ishikawa-rika",
+        "seconds": 47,
+        "percentage": 7.5
+      },
+      {
+        "memberId": "yoshizawa-hitomi",
+        "seconds": 25,
+        "percentage": 4
+      },
+      {
+        "memberId": "ogawa-makoto",
+        "seconds": 25,
+        "percentage": 4
+      },
+      {
+        "memberId": "niigaki-risa",
+        "seconds": 25,
+        "percentage": 4
+      },
+      {
+        "memberId": "takahashi-ai",
+        "seconds": 20,
+        "percentage": 3.2
+      },
+      {
+        "memberId": "konno-asami",
+        "seconds": 16,
+        "percentage": 2.5
+      }
+    ],
+    "totalSeconds": 628
+  },
+  {
+    "songId": "w-double-you-miss-love-tantei",
+    "lines": [
+      {
+        "memberId": "tsuji-nozomi",
+        "seconds": 281,
+        "percentage": 64
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 158,
+        "percentage": 36
+      }
+    ],
+    "totalSeconds": 439
+  },
+  {
+    "songId": "w-double-you-robo-kiss",
+    "lines": [
+      {
+        "memberId": "kago-ai",
+        "seconds": 470,
+        "percentage": 54.5
+      },
+      {
+        "memberId": "tsuji-nozomi",
+        "seconds": 393,
+        "percentage": 45.5
+      }
+    ],
+    "totalSeconds": 863
+  },
+  {
+    "songId": "mini-moni-crazy-about-you",
+    "lines": [
+      {
+        "memberId": "takahashi-ai",
+        "seconds": 359,
+        "percentage": 30.5
+      },
+      {
+        "memberId": "todd-mika",
+        "seconds": 349,
+        "percentage": 29.7
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 260,
+        "percentage": 22.1
+      },
+      {
+        "memberId": "tsuji-nozomi",
+        "seconds": 208,
+        "percentage": 17.7
+      }
+    ],
+    "totalSeconds": 1176
+  },
+  {
+    "songId": "mini-moni-lucky-cha-cha-cha",
+    "lines": [
+      {
+        "memberId": "todd-mika",
+        "seconds": 155,
+        "percentage": 26.5
+      },
+      {
+        "memberId": "tsuji-nozomi",
+        "seconds": 147,
+        "percentage": 25.1
+      },
+      {
+        "memberId": "takahashi-ai",
+        "seconds": 144,
+        "percentage": 24.6
+      },
+      {
+        "memberId": "kago-ai",
+        "seconds": 140,
+        "percentage": 23.9
+      }
+    ],
+    "totalSeconds": 586
   }
 ]

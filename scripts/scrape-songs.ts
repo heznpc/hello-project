@@ -217,6 +217,22 @@ async function main() {
     ["Category:ANGERME_Singles", "angerme"],
     ["Category:C-ute_Singles", "cute"],
     ["Category:Berryz_Koubou_Singles", "berryz-koubou"],
+    // Sub-units with wiki coverage (verified via API)
+    ["Category:Buono!_Singles", "buono"],
+    ["Category:Tanpopo_Singles", "tanpopo"],
+    ["Category:Petitmoni_Singles", "petitmoni"],
+    ["Category:GAM_Singles", "gam"],
+    ["Category:ZYX_Singles", "zyx"],
+    ["Category:DEF.DIVA_Singles", "def-diva"],
+    ["Category:Peaberry_Singles", "peaberry"],
+    // Legacy OG groups
+    ["Category:Coconuts_Musume_Singles", "coconuts-musume"],
+    ["Category:Country_Musume_Singles", "country-musume"],
+    ["Category:Melon_Kinenbi_Singles", "melon-kinenbi"],
+    ["Category:Taiyou_to_Ciscomoon_Singles", "taiyou-to-ciscomoon"],
+    ["Category:V-u-den_Singles", "v-u-den"],
+    ["Category:W_Singles", "w-double-you"],
+    ["Category:Minimoni_Singles", "mini-moni"],
   ];
 
   // Step 1: Get singles list from main wiki categories

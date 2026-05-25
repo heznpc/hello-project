@@ -8,6 +8,15 @@
     "mbid": "9bffb20c-dd17-4895-9fd1-4e73e888d799"
   },
   {
+    "id": "tanpopo",
+    "nameJa": "タンポポ",
+    "nameEn": "Tanpopo",
+    "formed": "1998-10",
+    "dissolved": "2012-05-18",
+    "color": "#FFC107",
+    "mbid": "3158237c-7e5d-451c-9106-bd20f20d581a"
+  },
+  {
     "id": "coconuts-musume",
     "nameJa": "ココナッツ娘。",
     "nameEn": "Coconuts Musume",
@@ -71,6 +80,65 @@
     "mbid": "9fb6fd87-df94-439d-ae16-b9c2b7a77a67"
   },
   {
+    "id": "def-diva",
+    "nameJa": "DEF.DIVA",
+    "nameEn": "DEF.DIVA",
+    "formed": "2005-09-03",
+    "dissolved": "2007-10-28",
+    "color": "#C2185B",
+    "mbid": "75341945-4ea6-4f6c-8aa2-1c9aa65388e7"
+  },
+  {
+    "id": "gam",
+    "nameJa": "GAM",
+    "nameEn": "GAM",
+    "formed": "2006-06-15",
+    "dissolved": "2007",
+    "color": "#CDDC39",
+    "mbid": "36b50fbf-3a6b-4abf-8b74-cd06cbbab460"
+  },
+  {
+    "id": "buono",
+    "nameJa": "Buono!",
+    "nameEn": "Buono!",
+    "formed": "2007-10",
+    "dissolved": "2017-05-22",
+    "color": "#673AB7",
+    "mbid": "cae0e51e-4af0-48b4-ac00-209ba1e83bcc"
+  },
+  {
+    "id": "high-king",
+    "nameJa": "High-King",
+    "nameEn": "High-King",
+    "formed": "2008-04-19",
+    "color": "#5D4037",
+    "mbid": "28ad3ec5-60cb-4eb1-8c18-d6dc914565ef"
+  },
+  {
+    "id": "aa-unit",
+    "nameJa": "Aa!",
+    "nameEn": "Aa!",
+    "formed": "2008-10",
+    "color": "#03A9F4",
+    "mbid": "4322e1f6-65c7-423a-9ec4-dbb6d8db2bf5"
+  },
+  {
+    "id": "peaberry",
+    "nameJa": "ピーベリー",
+    "nameEn": "Peaberry",
+    "formed": "2012",
+    "color": "#A1887F",
+    "mbid": "74ffca24-5740-4b9c-857b-6fcda6e5322b"
+  },
+  {
+    "id": "green-fields",
+    "nameJa": "グリーンフィールズ",
+    "nameEn": "Green Fields",
+    "formed": "2012",
+    "color": "#689F38",
+    "mbid": "3b12d05d-a753-48a7-924f-679f258e1acc"
+  },
+  {
     "id": "juice-juice",
     "nameJa": "Juice=Juice",
     "nameEn": "Juice=Juice",
@@ -88,39 +156,6 @@
     "mbid": "6435fff6-7b69-45a3-93dd-a612a86d911f"
   },
   {
-    "id": "kobushi-factory",
-    "nameJa": "こぶしファクトリー",
-    "nameEn": "Kobushi Factory",
-    "formed": "2015-01-02",
-    "dissolved": "2020-03-30",
-    "color": "#1ABC9C",
-    "mbid": "31cce04a-09d3-4ec4-a237-9b58924ac454"
-  },
-  {
-    "id": "tsubaki-factory",
-    "nameJa": "つばきファクトリー",
-    "nameEn": "Tsubaki Factory",
-    "formed": "2015-04-29",
-    "color": "#E74C3C",
-    "mbid": "e032efb2-5751-4da9-b598-56b15f3f49f5"
-  },
-  {
-    "id": "beyooooonds",
-    "nameJa": "BEYOOOOONDS",
-    "nameEn": "BEYOOOOONDS",
-    "formed": "2018-10-19",
-    "color": "#3498DB",
-    "mbid": "f11855b4-b28a-4b93-992a-58af5cbc4f45"
-  },
-  {
-    "id": "ocha-norma",
-    "nameJa": "OCHA NORMA",
-    "nameEn": "OCHA NORMA",
-    "formed": "2021-12-12",
-    "color": "#2ECC71",
-    "mbid": "9a3fad64-ade4-461c-8ef0-c3f10d4cdbf6"
-  },
-  {
     "id": "mini-moni",
     "nameJa": "ミニモニ。",
     "nameEn": "Minimoni",
@@ -135,5 +170,56 @@
     "formed": "unknown",
     "color": "#00BCD4",
     "mbid": "2697ee1d-c8fc-4a68-994d-cb091f6d3ff0"
+  },
+  {
+    "id": "petitmoni",
+    "nameJa": "プッチモニ",
+    "nameEn": "Petitmoni",
+    "formed": "1999-08-04",
+    "color": "#FF80AB",
+    "mbid": "bb97cc8f-3940-47e6-96c4-b75de1dfd33e"
+  },
+  {
+    "id": "harvest",
+    "nameJa": "ハーベスト",
+    "nameEn": "Harvest",
+    "formed": "2012",
+    "color": "#388E3C",
+    "mbid": "f7f29a5c-3f84-4a03-89d1-17d3c9d1cf4c"
+  },
+  {
+    "id": "berryz-koubou",
+    "nameJa": "Berryz工房",
+    "nameEn": "Berryz Koubou",
+    "formed": "2004-01-14",
+    "dissolved": "2015-03-03",
+    "color": "#FF9800",
+    "mbid": "2b20f61f-571a-427f-8b67-ec767be9efdc"
+  },
+  {
+    "id": "cute",
+    "nameJa": "℃-ute",
+    "nameEn": "C-ute",
+    "formed": "2005-06-13",
+    "dissolved": "2017-06-12",
+    "color": "#E91E63",
+    "mbid": "98c90095-a4ee-4644-b445-ca6219f0ca00"
+  },
+  {
+    "id": "angerme",
+    "nameJa": "アンジュルム",
+    "nameEn": "ANGERME",
+    "formed": "2009-04-04",
+    "color": "#FF6B9D",
+    "mbid": "1283f619-2789-4892-af46-29a13e5cca5b"
+  },
+  {
+    "id": "zyx",
+    "nameJa": "ZYX",
+    "nameEn": "ZYX",
+    "formed": "2003-04-12",
+    "dissolved": "2009-03-31",
+    "color": "#00ACC1",
+    "mbid": "37017c66-f21d-42e0-9ef8-26ec5b147de1"
   }
 ]
