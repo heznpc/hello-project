@@ -78,18 +78,49 @@ export function DistributionChart({
       ja: "YouTube 検索結果が新しいタブで開きます。公式チャンネルの動画が通常先頭に表示されます。",
       en: "Opens YouTube search in a new tab. Official channel videos are usually first.",
     },
+    gasazip: {
+      ko: "📝 가사집 (한국어 번역)",
+      ja: "📝 가사집 (韓国語訳)",
+      en: "📝 Gasazip (Korean translation)",
+    },
+    gasazipHint: {
+      ko: "가사집 (한국 팬덤이 운영하는 J-pop 한국어 번역 가사 사이트) 검색 결과로 이동",
+      ja: "韓国の J-pop 翻訳歌詞サイト「가사집」の検索結果が開きます",
+      en: "Opens search on Gasazip (Korean fan-run J-pop translation site)",
+    },
+    bugs: {
+      ko: "🎵 벅스 가사",
+      ja: "🎵 Bugs 歌詞",
+      en: "🎵 Bugs lyrics",
+    },
+    bugsHint: {
+      ko: "한국 음원 플랫폼 벅스의 가사 검색 (2026-02 H!P 스트리밍 개방 이후 등록된 곡 한정)",
+      ja: "韓国の音楽プラットフォーム Bugs の歌詞検索 (2026-02 H!P 配信解禁後に登録された曲のみ)",
+      en: "Bugs (Korean music platform) lyrics search — limited to tracks listed after the Feb 2026 H!P streaming launch",
+    },
   };
 
   const l = (key: string) => labels[key]?.[locale] ?? labels[key]?.["en"] ?? key;
 
-  // YouTube 검색 deep-link. 그룹명(일본어 우선) + 곡명(일본어 우선) + "official" 키워드.
-  // 자동 임베드 대신 검색 결과로 보내는 이유: (1) 곡별 정확한 영상 ID 자동 수집 데이터
-  // 가 MB / wiki 양쪽에서 부실 (2) 검색 키워드에 "official" 을 포함하면 공식 채널
-  // 영상이 거의 항상 첫 결과 (3) 임베드 0개 = 페이지 로딩 비용 0.
-  const ytQuery = encodeURIComponent(
-    `${group?.nameJa || group?.nameEn || ""} ${song.titleJa || song.titleEn} official`.trim()
-  );
-  const ytUrl = `https://www.youtube.com/results?search_query=${ytQuery}`;
+  // 외부 사이트 검색 deep-link.
+  // 가사 전재 대신 deep-link 만 두는 이유:
+  // - 가사는 JASRAC / KOMCA 등 권리자 등록 작품. 우리 사이트가 호스팅하면 명백한 침해.
+  // - 외부 사이트가 어떤 라이센스로 가사를 게재하는지는 그 사이트 책임 영역.
+  // - URL 형식만 확정해 두면 사이트가 자체적으로 변하더라도 코드 영향 0.
+  const songTitle = song.titleJa || song.titleEn;
+  const groupName = group?.nameJa || group?.nameEn || "";
+
+  // YouTube: "official" 키워드 추가 → 공식 채널 영상이 거의 항상 첫 결과.
+  const ytUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
+    `${groupName} ${songTitle} official`.trim()
+  )}`;
+  // 가사집(gasazip.com): 한국 팬덤이 운영하는 한국어 J-pop 가사 번역 hub.
+  // SPA 라 server-side 결과 검증 불가하나 검색 URL 형식 (`/search?q=`) 은 안정.
+  const gasazipUrl = `https://gasazip.com/search?q=${encodeURIComponent(songTitle)}`;
+  // 벅스: 한국 음원 플랫폼. 2026-02 H!P 전곡 스트리밍 개방 후 등록 시작.
+  const bugsUrl = `https://music.bugs.co.kr/search/integrated?q=${encodeURIComponent(
+    songTitle
+  )}`;
 
   return (
     <div>
@@ -138,6 +169,38 @@ export function DistributionChart({
             }}
           >
             {l("youtube")}
+          </a>
+          <a
+            href={gasazipUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={l("gasazipHint")}
+            className="inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
+            style={{
+              background: "linear-gradient(135deg, #fef3c7, #fde68a)",
+              border: "1.5px solid #fcd34d",
+              color: "#854d0e",
+              fontWeight: 600,
+              textDecoration: "none",
+            }}
+          >
+            {l("gasazip")}
+          </a>
+          <a
+            href={bugsUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={l("bugsHint")}
+            className="inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
+            style={{
+              background: "linear-gradient(135deg, #dbeafe, #bfdbfe)",
+              border: "1.5px solid #93c5fd",
+              color: "#1e40af",
+              fontWeight: 600,
+              textDecoration: "none",
+            }}
+          >
+            {l("bugs")}
           </a>
         </div>
       </div>
