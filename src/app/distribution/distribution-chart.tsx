@@ -68,9 +68,28 @@ export function DistributionChart({
     bar: { ko: "막대", ja: "バー", en: "Bar" },
     pie: { ko: "파이", ja: "パイ", en: "Pie" },
     distribution: { ko: "파트 비율", ja: "パート比率", en: "Part Distribution" },
+    youtube: {
+      ko: "▶ YouTube 공식 영상",
+      ja: "▶ YouTube 公式 MV",
+      en: "▶ Official MV on YouTube",
+    },
+    youtubeHint: {
+      ko: "유튜브 검색 결과가 새 탭에서 열립니다. 공식 채널 영상이 보통 첫 결과입니다.",
+      ja: "YouTube 検索結果が新しいタブで開きます。公式チャンネルの動画が通常先頭に表示されます。",
+      en: "Opens YouTube search in a new tab. Official channel videos are usually first.",
+    },
   };
 
   const l = (key: string) => labels[key]?.[locale] ?? labels[key]?.["en"] ?? key;
+
+  // YouTube 검색 deep-link. 그룹명(일본어 우선) + 곡명(일본어 우선) + "official" 키워드.
+  // 자동 임베드 대신 검색 결과로 보내는 이유: (1) 곡별 정확한 영상 ID 자동 수집 데이터
+  // 가 MB / wiki 양쪽에서 부실 (2) 검색 키워드에 "official" 을 포함하면 공식 채널
+  // 영상이 거의 항상 첫 결과 (3) 임베드 0개 = 페이지 로딩 비용 0.
+  const ytQuery = encodeURIComponent(
+    `${group?.nameJa || group?.nameEn || ""} ${song.titleJa || song.titleEn} official`.trim()
+  );
+  const ytUrl = `https://www.youtube.com/results?search_query=${ytQuery}`;
 
   return (
     <div>
@@ -95,7 +114,7 @@ export function DistributionChart({
           )}
         </h2>
         <div
-          className="flex items-center gap-2 mt-1"
+          className="flex items-center gap-2 mt-1 flex-wrap"
           style={{ color: "var(--text-muted)", fontSize: 14 }}
         >
           <span
@@ -104,6 +123,22 @@ export function DistributionChart({
           />
           {group?.nameEn} - {song.releaseDate} -{" "}
           {distribution.lines.length} members
+          <a
+            href={ytUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={l("youtubeHint")}
+            className="ml-2 inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
+            style={{
+              background: "linear-gradient(135deg, #fee2e2, #fecaca)",
+              border: "1.5px solid #fca5a5",
+              color: "#991b1b",
+              fontWeight: 600,
+              textDecoration: "none",
+            }}
+          >
+            {l("youtube")}
+          </a>
         </div>
       </div>
 
