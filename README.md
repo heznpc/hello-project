@@ -103,10 +103,22 @@
 |---|---|---|
 | 멤버 사진 0장 | 큼 — 일본 팬덤 시각 의존도 높음 | Wikimedia Commons 활용 가능 |
 | Apple Music / Spotify 링크 | 중 — 2026-02 스트리밍 개방 활용 못 함 | MB streaming URL relation 으로 자동화 가능 |
+| 가사 (한국어 / 일본어 / 영어) | 중 | 저작권 (JASRAC / KOMCA) 으로 전재 불가. 한국어 H!P 가사 hub 부재로 deep-link 도 어려움. 외부 사이트 deep-link 만 가능 |
 | 모바일 D3 줌 | 중 — pinch-zoom 미지원 | 데스크탑 마우스 휠 전제 |
 | Aa! / High-King / Harvest / Green Fields / Diana Lane 의 곡 데이터 | 소 | H!P Fandom Wiki 에 해당 그룹 Singles 카테고리가 없음. 멤버 lineage 만 수록 |
 | Diana Lane (사토우미 트리오, 2012) | 소 | MB 미등록. 그룹 자체가 lineage 에서 누락 |
 | 셔플 유닛 (Sexy 8, Happy 7, Odoru 11 등 연말 셔플) | 중 | MB / wiki 양쪽에서 시드 부족. 추후 hand-craft 필요 |
+
+### YouTube 영상
+
+곡마다 YouTube 검색 deep-link 가 distribution 페이지의 곡 헤더에 있음
+(`▶ YouTube 公式 MV` 버튼). 검색 키워드는 `<그룹> <곡명> official` 이고,
+공식 채널 영상이 거의 항상 첫 결과로 나옴.
+
+**검색 deep-link 를 쓰는 이유**: (1) 곡별 정확한 영상 ID 의 자동 수집 데이터가
+MB / Fandom Wiki 양쪽에서 부실 (LOVE Machine 같은 인기곡 외 등록률 0%).
+(2) `&sp=...` 같은 비공식 필터 파라미터로 verified channel 만 노출시키면
+정확하지만 YouTube 가 바꾸면 깨짐. (3) 임베드 0개 = 페이지 로딩 비용 0.
 
 위 결손은 별도 작업으로 분리되어 있습니다. **frozen era archive** 의
 데이터 보강이지 framing 변경이 아닙니다.
