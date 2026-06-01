@@ -115,11 +115,11 @@
 
 곡마다 세 개의 검색 deep-link 버튼.
 
-| 버튼 | 대상 | 검색 키워드 |
+| 버튼 | URL | 검색 키워드 |
 |---|---|---|
-| ▶ YouTube 公式 MV | youtube.com 검색 | `<그룹명 JA> <곡명 JA> official` (공식 채널 영상이 거의 항상 첫 결과) |
-| 📝 가사집 | gasazip.com (한국 팬덤 J-pop 한국어 번역 hub) | `<곡명 JA>` |
-| 🎵 Bugs 歌詞 | music.bugs.co.kr (한국 음원 플랫폼) | `<곡명 JA>` (2026-02 H!P 스트리밍 개방 후 등록된 곡 한정) |
+| ▶ YouTube 公式 MV | `youtube.com/results?search_query=` | `<그룹명 JA> <곡명 JA> official` (공식 채널 영상이 거의 항상 첫 결과) |
+| 📝 가사집 | `gasazip.com/search.html?q=` (Playwright 검증 2026-06) | `<곡명 JA>` |
+| 🎵 벅스 가사 검색 | `music.bugs.co.kr/search/lyrics?q=` (lyrics-specific endpoint, 통합검색 X) | `<곡명 JA>` |
 
 **가사 자체는 본 사이트에 게재하지 않습니다.** JASRAC / KOMCA 저작권 등록
 작품이므로 호스팅은 명백한 침해. 외부 사이트가 어떤 라이센스로 게재하는지는
