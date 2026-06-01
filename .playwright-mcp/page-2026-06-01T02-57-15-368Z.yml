@@ -1,0 +1,724 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: 
+        - link "가사집" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e6]: 가사집
+      - generic [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "인기가사" [ref=e10] [cursor=pointer]:
+              - /url: /top100.html
+          - listitem [ref=e11]:
+            - link "실시간 검색가사" [ref=e12] [cursor=pointer]:
+              - /url: /new100.html
+          - listitem [ref=e13]:
+            - link "AI 해석" [ref=e14] [cursor=pointer]:
+              - /url: /ai_interpretations.html
+          - listitem [ref=e15]:
+            - link "플레이어" [ref=e16] [cursor=pointer]:
+              - /url: /player.html
+          - listitem [ref=e17]:
+            - link "보관함" [ref=e18] [cursor=pointer]:
+              - /url: /library.html
+          - listitem [ref=e19]:
+            - link "자유게시판" [ref=e20] [cursor=pointer]:
+              - /url: /g5/bbs/board.php?bo_table=free
+        - search [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: 가사 검색
+            - textbox "가사 검색" [ref=e24]
+          - button "검색" [ref=e25] [cursor=pointer]
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - link "한국어" [ref=e28] [cursor=pointer]:
+              - /url: https://gasazip.com/search.html?q=%E6%84%9B%E3%81%AE%E7%A8%AE
+          - listitem [ref=e29]:
+            - link "English" [ref=e30] [cursor=pointer]:
+              - /url: https://en.gasazip.com/search.html?q=%E6%84%9B%E3%81%AE%E7%A8%AE
+  - generic [ref=e32]:
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - heading "회원 로그인" [level=2] [ref=e36]:
+            - generic: 회원
+            - text: 로그인
+          - link "회원가입" [ref=e37] [cursor=pointer]:
+            - /url: /g5/bbs/register.php
+        - group [ref=e39]:
+          - generic [ref=e40]:
+            - generic:
+              - text: 회원아이디
+              - strong: 필수
+            - textbox "회원아이디필수" [ref=e41]:
+              - /placeholder: 아이디
+            - generic:
+              - text: 비밀번호
+              - strong: 필수
+            - textbox "비밀번호필수" [ref=e42]:
+              - /placeholder: 비밀번호
+            - button "로그인" [ref=e43] [cursor=pointer]
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - checkbox "자동로그인" [ref=e46]
+              - generic [ref=e47]: 자동로그인
+            - link "정보찾기" [ref=e50] [cursor=pointer]:
+              - /url: /g5/bbs/password_lost.php
+          - generic [ref=e51]:
+            - heading "소셜계정으로 로그인" [level=3]
+            - generic [ref=e52]:
+              - link "네이버 로그인" [ref=e53] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=naver&url=%2Fsearch.html%3Fq%3D%25E6%2584%259B%25E3%2581%25AE%25E7%25A8%25AE
+                - generic [ref=e54]: 네이버 로그인
+              - link "카카오 로그인" [ref=e55] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=kakao&url=%2Fsearch.html%3Fq%3D%25E6%2584%259B%25E3%2581%25AE%25E7%25A8%25AE
+                - generic [ref=e56]: 카카오 로그인
+              - link "페이스북 로그인" [ref=e57] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=facebook&url=%2Fsearch.html%3Fq%3D%25E6%2584%259B%25E3%2581%25AE%25E7%25A8%25AE
+                - generic [ref=e58]: 페이스북 로그인
+              - link "X 로그인" [ref=e59] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=twitter&url=%2Fsearch.html%3Fq%3D%25E6%2584%259B%25E3%2581%25AE%25E7%25A8%25AE
+                - generic [ref=e60]: X 로그인
+      - button "가사 등록" [ref=e61] [cursor=pointer]:
+        - generic [ref=e62]: ✏
+        - text: 가사 등록
+      - button "싱크 가사 등록" [ref=e63] [cursor=pointer]:
+        - generic [ref=e64]: ✏
+        - text: 싱크 가사 등록
+    - generic [ref=e65]:
+      - insertion [ref=e67]:
+        - iframe [ref=e69]:
+          - generic [active] [ref=f2e1]:
+            - generic [ref=f2e3]:
+              - link:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CBJL8CPUcaq3oIKWS_tMPz6-1-Aqx_PGphwHp9K7T6xWhpvjz0B0QASDqvJoCYJuD6YScKaABz7vXzULIAQKpAqt8SZ6e1gY-qAMByAPJBKoEsgJP0KPeIWPYYCVY10lv5SlxzqE3auAVGLuT_vIGQK3LR8ydFNvUPaBUdxVhjKZk-0Y0XzzdFWZNcBaim8iKvTSJtW5nl3gRD8XYlkOALDHEme1LtfVAk08jfVDLjgDmYDZYpiahDHZOj34OOWOhAMSXDiR2-Y84Gib-0IgTm-jVD5IAvG1UmlVfLbZxNF7FBFcs2pG1wGlIFt2-tTbe3KuQHtx2HmR2hP7hD2RXmWjDxukK_vjfcVYN6tAc-noDBfTfG3dmGN_6eNsiJq6fdxbCbREEzbaQaLomwUgEimPVAWWP2XcnZ_0jphtqllUzm2Qam7IpX-4Ooy3jrqan5Aq7wH5Nf4ndP_SmHcq-lmUxeAXwDEilHsl2fxa89NtBS6BpV0Y-Xs54BUwQILS1vmcE6SbABMmv3eHqBYgFv6i9_ligBgKAB8_zp60dqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOli7l6PPheWUA2ABsQlsdqvHm-m5-oAKAZgLAcgLAaIMA5ABAaoNAktSyA0B6g0TCJCRps-F5ZQDFSWJfwQdz1cNr_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjc1NjI3MTYzMzVQBroXAjgBqhgXCQAAAACIpA5BEgo3NTYyNzE2MzM1GAGyGAkSAqZmGAIiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIrYymz4XllAMVJYl_BB3PVw2vEAEYASAAEgLGp_D_BwE&num=1&cid=CAQS9AEABaugfVWwKDKwu1_2pLR9l5YHsLq37ERsDagHn-UhHDE4VN8NhJhzOCRl7kqEMKDBWvC2bdu9KSGRXR4OIMeF_6PI7Tp7f3DOyFrhn2ghC6u1EMqiSvb0JvrNzJoIpFl56rWVjDus3g8wAfYGX5G8A9KOvBj8aM55rZla3ZL12ZwIdy1Xi7FMa5xwdxFx2iAMC4_MahtsEASrev0j9xyBfoSaz7ICDXcJs8O-Cxz99OQ6frTj2qgI3k3IH28iUas_fabXKRrte-gUQ_lZ8bp8gQ_qzHH4ajZN4jhheZwn06eHhkySFT7ZOybr7EvbEH42EEXgGAE&sig=AOD64_2ZgkcgcmCyxH6Gg-wyyqAbY_r0rg&client=ca-pub-1354836663865600&rf=2&nb=2&adurl=https://s.findmymobile.co.kr/po49f3%3Fgad_source%3D5%26gad_campaignid%3D23887565887%26gclid%3DEAIaIQobChMIrYymz4XllAMVJYl_BB3PVw2vEAEYASAAEgLGp_D_BwE
+              - img [ref=f2e7] [cursor=pointer]
+              - button [ref=f2e9] [cursor=pointer]:
+                - img [ref=f2e10]
+            - iframe
+      - region "가사 검색" [ref=e70]:
+        - generic [ref=e71]:
+          - generic [ref=e72]: Candy search
+          - heading "가사 검색" [level=1] [ref=e73]
+          - paragraph [ref=e74]: 노래 제목, 가수명, 가사 한 줄, 초성까지 한 번에 찾아보세요.
+        - search [ref=e75]:
+          - generic [ref=e76]: 검색어
+          - generic [ref=e77]:
+            - textbox "검색어" [ref=e78]:
+              - /placeholder: 노래 제목, 가수명, 가사 한 줄
+              - text: 愛の種
+            - button "검색" [ref=e79] [cursor=pointer]
+          - group "검색 범위" [ref=e80]:
+            - button "전체" [ref=e81] [cursor=pointer]
+            - button "노래" [ref=e82] [cursor=pointer]
+            - button "가사" [ref=e83] [cursor=pointer]
+        - paragraph [ref=e84]: 93개의 검색 결과
+        - generic [ref=e85]:
+          - link "愛の種 모닝구 무스메 愛 の 種 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토" [ref=e86] [cursor=pointer]:
+            - /url: /117250
+            - generic [ref=e87]: ♪
+            - generic [ref=e88]:
+              - strong [ref=e89]: 愛の種
+              - emphasis [ref=e90]: 모닝구 무스메
+              - generic [ref=e91]:
+                - emphasis [ref=e92]: 愛
+                - emphasis [ref=e93]: の
+                - emphasis [ref=e94]: 種
+                - text: 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e95]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토
+          - insertion [ref=e97]:
+            - iframe [ref=e99]:
+              - generic [active] [ref=f12e1]:
+                - generic [ref=f12e3]:
+                  - link:
+                    - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=Ci-i_CfUcaq_APLez_tMPrfLT4Q-x_PGphwGi1Izu8xWhpvjz0B0QASDqvJoCYJuD6YScKaABz7vXzULIAQKpAqt8SZ6e1gY-qAMByAPJBKoEsQJP0Jgnnxa1RdXsuOTueP6fCnfdu_yh16eq3K_-B8a2bgjYwtPYJ2SV0t2eZ1CDCVUnmKlHkh8i2mIkLXOsQ3-7qSCNZT3ZHcmR21M_HSKXJJRgkKigzEyFvHkAUxrrliN35hoaWfHM4TwEEUyCWD1yMdNRdB0kRGiNp1jJytBIySszVD7126Xk49inge8J8ERXO37vGp_mGiuKyh7IUvPvovQDbRA4TzstOsROS-FU1wrsZ2ZbQ_zoE6RLEjYAbglKIY1-S7CK6KMR9s4Qs3EIUSbSO1Q0cJvcVLBX08PuufTXcKB8smAYMksu_Ucto_KM1Oz5cbuycyWAQHaikWBBiHtGeFOZReILZ31gpSdf27dNWCsFtmLWV9XKLx7r-h6K-DaN8pdIWO_iki4MmxRyRcAEya_d4eoFiAW_qL3-WKAGAoAHz_OnrR2oB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WM_a-8-F5ZQDYAGxCWx2q8eb6bn6gAoBmAsByAsBogwDkAEBqg0CS1LIDQHqDRMIrOz-z4XllAMVt5l_BB0t-TT88A0CiA4J2BMM0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAqZmGAIiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI7-j-z4XllAMVt5l_BB0t-TT8EAEYASAAEgJs5fD_BwE&num=1&cid=CAQS9AEABaugfSN4yP16bTW_nQGY3GZvSDTMITw2IbuqBExbDEORJnsP3KSoZrVPMqzP-DCvEvWM4oP8YdCgbXySLsd-u7ViIe7vvDax8X4igcg_Qgb1tVW47n4HKLt9AOXzsZZZQDpVoyH_mXeWHt_kTVDMSW6SBkZMDS2ltRCdAoF7rJY1QgjVV9ETACAowZT4sxnisQZaicZ1uuzDkstiQMaP_ewI8ZTy59ceaX2rRUCxAmYgk0493OZmSE4hHA4dgxkfMgtWtSRYg4t3ZCNg4uPAeOECluPg_KgPY7uUFA3TYwkCccIpIsEaLfC1DimoTcuDSaFoGAE&sig=AOD64_0fCUOPHYxWWWYFBW9fDoRyt8Ux6Q&client=ca-pub-1354836663865600&rf=2&nb=2&adurl=https://s.findmymobile.co.kr/po49f3%3Fgad_source%3D5%26gad_campaignid%3D23887565887%26gclid%3DEAIaIQobChMI7-j-z4XllAMVt5l_BB0t-TT8EAEYASAAEgJs5fD_BwE
+                  - img [ref=f12e7] [cursor=pointer]
+                  - button [ref=f12e9] [cursor=pointer]:
+                    - img [ref=f12e10]
+                - iframe
+          - link "愛の種 morning musume(모닝구무스메) さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을" [ref=e100] [cursor=pointer]:
+            - /url: /155327
+            - generic [ref=e101]: ♪
+            - generic [ref=e102]:
+              - strong [ref=e103]: 愛の種
+              - emphasis [ref=e104]: morning musume(모닝구무스메)
+              - generic [ref=e105]:
+                - text: さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e106]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을
+          - link "愛の種 morning musume さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을" [ref=e107] [cursor=pointer]:
+            - /url: /147121
+            - generic [ref=e108]: ♪
+            - generic [ref=e109]:
+              - strong [ref=e110]: 愛の種
+              - emphasis [ref=e111]: morning musume
+              - generic [ref=e112]:
+                - text: さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e113]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을
+          - link "救世種 川嶋あい 遥か彼方何億年前 星が一つ生まれた 하루카카나타난오쿠넨마에 호시가히토츠우마레타 아득한 저편 몇억년전 별이 하나 태어났어 そこに最初 の 雨粒が落ち やがて海になっていく 소코니사이쇼노아메쯔부가오치 야가테우미니낫테이쿠 거기에 첫 빗방울이 떨어지고 이윽고 바다가 되어 가 海は生命 の ゆりかごになり 命が一つ生まれた 우미와이노치노유리카고니나리 이노치가히토츠우마레타" [ref=e114] [cursor=pointer]:
+            - /url: /310037
+            - generic [ref=e115]: ♪
+            - generic [ref=e116]:
+              - strong [ref=e117]: 救世種
+              - emphasis [ref=e118]: 川嶋あい
+              - generic [ref=e119]:
+                - text: 遥か彼方何億年前 星が一つ生まれた 하루카카나타난오쿠넨마에 호시가히토츠우마레타 아득한 저편 몇억년전 별이 하나 태어났어 そこに最初
+                - emphasis [ref=e120]: の
+                - text: 雨粒が落ち やがて海になっていく 소코니사이쇼노아메쯔부가오치 야가테우미니낫테이쿠 거기에 첫 빗방울이 떨어지고 이윽고 바다가 되어 가 海は生命
+                - emphasis [ref=e121]: の
+                - text: ゆりかごになり 命が一つ生まれた 우미와이노치노유리카고니나리 이노치가히토츠우마레타
+          - insertion [ref=e123]:
+            - iframe [ref=e125]:
+              - iframe [ref=f14e1]:
+                - generic [active]:
+                  - link "서든어택 Play Now" [ref=f23e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=YsXww4JUAaWzd_wZCvUcag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=3k5y9sdGSX2EWlnITjCRnA&crpid=_WYAPat_SKarLN1rhzC9ow&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_7rGQKqdy70IyoPfy7rZQoru-uY79uqa13mSPwHEEZ4zqUmR1K4lNU1u_uYJNZmS_cHd9wmOWu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1U8Squ1x1U8A121uy71u-uYOPJ1u_uqumKqI9o4QxujR&ui=CyljUmOjUbisc8M121l0MIirtIsBtbggcswmCi34UIE1IjNgtrlPnmZ1K4lYc8Myuqa1oqGQKqGR71Qmo1Qx2qay71lO&consent=1&ddhh=onRx&flanding_rdr=
+                    - generic [ref=f23e2]:
+                      - img [ref=f23e4]
+                      - generic [ref=f23e5]:
+                        - img [ref=f23e6]
+                        - button [ref=f23e8]
+                      - generic [ref=f23e9]:
+                        - generic [ref=f23e10]: 서든어택
+                        - generic [ref=f23e11]: Play Now
+                  - button [ref=f23e13] [cursor=pointer]
+          - link "ウソツキ種 Misono 芽生えた 愛 情 ゆっくり大事に 育ててきた の に それはないんじゃない?! 根っこもたくさん しっかり生えて ?く笑いた絆 あれは何だった の ?! じゃあ最後に一つ言うけど 「疑い出したらキリがない」哀しいじゃん 噓つき!責任ちゃんととったらどう?! 噓つき!自分でまいた 種 でしょ?! 大嫌い!信じてきたバカな自分も?! 大好きだった!" [ref=e126] [cursor=pointer]:
+            - /url: /2424753
+            - generic [ref=e127]: ♪
+            - generic [ref=e128]:
+              - strong [ref=e129]: ウソツキ種
+              - emphasis [ref=e130]: Misono
+              - generic [ref=e131]:
+                - text: 芽生えた
+                - emphasis [ref=e132]: 愛
+                - text: 情 ゆっくり大事に 育ててきた
+                - emphasis [ref=e133]: の
+                - text: に それはないんじゃない?! 根っこもたくさん しっかり生えて ?く笑いた絆 あれは何だった
+                - emphasis [ref=e134]: の
+                - text: "?! じゃあ最後に一つ言うけど 「疑い出したらキリがない」哀しいじゃん 噓つき!責任ちゃんととったらどう?! 噓つき!自分でまいた"
+                - emphasis [ref=e135]: 種
+                - text: でしょ?! 大嫌い!信じてきたバカな自分も?! 大好きだった!
+          - link "機種変エクスタシィ (기종변경 엑스터시) Idoling!!! 機 種 ?!どれにしますか 機 種 ?!よく考えて 機 種 ?!よりどりみどり 機 種 ?!テンションあがる 最近は電源がスグに切れるし ソロソロ潮時な の かしら どれだけ充電をしても 昔みたいに長く持たない 2年間 一?で傷だらけ もう 愛 着あるけどお疲れ??" [ref=e136] [cursor=pointer]:
+            - /url: /2414281
+            - generic [ref=e137]: ♪
+            - generic [ref=e138]:
+              - strong [ref=e139]: 機種変エクスタシィ (기종변경 엑스터시)
+              - emphasis [ref=e140]: Idoling!!!
+              - generic [ref=e141]:
+                - text: 機
+                - emphasis [ref=e142]: 種
+                - text: "?!どれにしますか 機"
+                - emphasis [ref=e143]: 種
+                - text: "?!よく考えて 機"
+                - emphasis [ref=e144]: 種
+                - text: "?!よりどりみどり 機"
+                - emphasis [ref=e145]: 種
+                - text: "?!テンションあがる 最近は電源がスグに切れるし ソロソロ潮時な"
+                - emphasis [ref=e146]: の
+                - text: かしら どれだけ充電をしても 昔みたいに長く持たない 2年間 一?で傷だらけ もう
+                - emphasis [ref=e147]: 愛
+                - text: 着あるけどお疲れ??
+          - insertion [ref=e149]:
+            - iframe [ref=e151]:
+              - iframe [ref=f15e1]:
+                - generic [active]:
+                  - link [ref=f24e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=myJMh7RHD6uUfv7mCvUcag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=U3Wdis06TJ-zjXZv88Qyow&crpid=fOBeYxBgRJ6l8Peyf3BtQA&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_70uVKquy70Mxor6s7rMm20Z-uY79uqa13mSPwHEEZ4zqUmR1K4lNU1u_uYJNZmS_cHd9wmOWu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1U8Squ1x1U8A121uy71u-uYOPJ1u_uqumKqI9o4QxujR&ui=CyljUmOjUbisc8M121l0MIirtIsBtbggcswmCi34UIE1IjNgtrlPnmZ1K4lYc8Myuqa1oqGQKqGR71Qmo1Qx2qay71lO&consent=1&ddhh=onRx&flanding_rdr=
+                    - img [ref=f24e2]
+                  - button [ref=f24e4] [cursor=pointer]
+          - link "唄種-ウタタネ Suara あなた の 心 の 庭で いつか花となれ 笑顔?かす唄 種 『ことば』＝想い?える 時にためらうけど それは それは すべて の はじまりな の かもしれない 光へ?くとわかっていても ひとりきりでは遠く感じるでしょう 「裏切りだとか、こりごりだよ」って 疑っても ?がっても 近づけないよ 手と手を?ぎ合えたら きっと?くはず こ の ぬくもり あなた の 心 の 庭で いつか花となれ 笑顔?" [ref=e152] [cursor=pointer]:
+            - /url: /2452058
+            - generic [ref=e153]: ♪
+            - generic [ref=e154]:
+              - strong [ref=e155]: 唄種-ウタタネ
+              - emphasis [ref=e156]: Suara
+              - generic [ref=e157]:
+                - text: あなた
+                - emphasis [ref=e158]: の
+                - text: 心
+                - emphasis [ref=e159]: の
+                - text: 庭で いつか花となれ 笑顔?かす唄
+                - emphasis [ref=e160]: 種
+                - text: 『ことば』＝想い?える 時にためらうけど それは それは すべて
+                - emphasis [ref=e161]: の
+                - text: はじまりな
+                - emphasis [ref=e162]: の
+                - text: かもしれない 光へ?くとわかっていても ひとりきりでは遠く感じるでしょう 「裏切りだとか、こりごりだよ」って 疑っても ?がっても 近づけないよ 手と手を?ぎ合えたら きっと?くはず こ
+                - emphasis [ref=e163]: の
+                - text: ぬくもり あなた
+                - emphasis [ref=e164]: の
+                - text: 心
+                - emphasis [ref=e165]: の
+                - text: 庭で いつか花となれ 笑顔?
+          - link "愛の種 (사랑의 씨앗) 모닝구무스메 愛 の 種 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토" [ref=e166] [cursor=pointer]:
+            - /url: /153865
+            - generic [ref=e167]: ♪
+            - generic [ref=e168]:
+              - strong [ref=e169]: 愛の種 (사랑의 씨앗)
+              - emphasis [ref=e170]: 모닝구무스메
+              - generic [ref=e171]:
+                - emphasis [ref=e172]: 愛
+                - emphasis [ref=e173]: の
+                - emphasis [ref=e174]: 種
+                - text: 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e175]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토
+          - link "사랑의 씨앗(愛の種) 모닝구무스메 愛 の 種 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리" [ref=e176] [cursor=pointer]:
+            - /url: /173530
+            - generic [ref=e177]: ♪
+            - generic [ref=e178]:
+              - strong [ref=e179]: 사랑의 씨앗(愛の種)
+              - emphasis [ref=e180]: 모닝구무스메
+              - generic [ref=e181]:
+                - emphasis [ref=e182]: 愛
+                - emphasis [ref=e183]: の
+                - emphasis [ref=e184]: 種
+                - text: 사랑의 씨앗 さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e185]: の
+                - text: り もっと 輝いて 네에 카제니노리
+          - link "Aino Tane / 愛の種 Morning Musume さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을" [ref=e186] [cursor=pointer]:
+            - /url: /365379
+            - generic [ref=e187]: ♪
+            - generic [ref=e188]:
+              - strong [ref=e189]: Aino Tane / 愛の種
+              - emphasis [ref=e190]: Morning Musume
+              - generic [ref=e191]:
+                - text: さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e192]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을
+          - link "ミニハムずの愛の唄 Minimoni ミニハムず の 愛 の 唄 미니하무즈노아이노우타 미니햄즈 사랑의 노래 띵띠딩 띠띠띠띵~~ 빠빠빠~~ LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 러브 유 LOVE LOVE LOVE LOVE I Love you 愛 愛 愛 愛 ミニハムず!" [ref=e193] [cursor=pointer]:
+            - /url: /147210
+            - generic [ref=e194]: ♪
+            - generic [ref=e195]:
+              - strong [ref=e196]: ミニハムずの愛の唄
+              - emphasis [ref=e197]: Minimoni
+              - generic [ref=e198]:
+                - text: ミニハムず
+                - emphasis [ref=e199]: の
+                - emphasis [ref=e200]: 愛
+                - emphasis [ref=e201]: の
+                - text: 唄 미니하무즈노아이노우타 미니햄즈 사랑의 노래 띵띠딩 띠띠띠띵~~ 빠빠빠~~ LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 러브 유 LOVE LOVE LOVE LOVE I Love you
+                - emphasis [ref=e202]: 愛
+                - emphasis [ref=e203]: 愛
+                - emphasis [ref=e204]: 愛
+                - emphasis [ref=e205]: 愛
+                - text: ミニハムず!
+          - link "ai no hana aimyon 言葉足らず の 愛 を 愛 を貴方へ 私は決して今を 今を憎んではいない 歪んだ雲が空を 空を濁して 私 の 夢は全て 全て置いてきた の 命ある日々 静かに誰かを 愛 した日々 空が晴れたら 愛 を 愛 を伝えて 涙は明日 の 為 新しい花 の 種 恋に焦がれた人は 人は天 の 上 いつかあ の 場所で強く 強く手を結び抱いて 緑ゆれてる 貴方 の 声が聴こえた気がする 空が晴れたら 逢いに逢いに来て欲しい 涙は枯れないわ 明日へと繋がる" [ref=e206] [cursor=pointer]:
+            - /url: /2951636
+            - generic [ref=e207]: ♪
+            - generic [ref=e208]:
+              - strong [ref=e209]: ai no hana
+              - emphasis [ref=e210]: aimyon
+              - generic [ref=e211]:
+                - text: 言葉足らず
+                - emphasis [ref=e212]: の
+                - emphasis [ref=e213]: 愛
+                - text: を
+                - emphasis [ref=e214]: 愛
+                - text: を貴方へ 私は決して今を 今を憎んではいない 歪んだ雲が空を 空を濁して 私
+                - emphasis [ref=e215]: の
+                - text: 夢は全て 全て置いてきた
+                - emphasis [ref=e216]: の
+                - text: 命ある日々 静かに誰かを
+                - emphasis [ref=e217]: 愛
+                - text: した日々 空が晴れたら
+                - emphasis [ref=e218]: 愛
+                - text: を
+                - emphasis [ref=e219]: 愛
+                - text: を伝えて 涙は明日
+                - emphasis [ref=e220]: の
+                - text: 為 新しい花
+                - emphasis [ref=e221]: の
+                - emphasis [ref=e222]: 種
+                - text: 恋に焦がれた人は 人は天
+                - emphasis [ref=e223]: の
+                - text: 上 いつかあ
+                - emphasis [ref=e224]: の
+                - text: 場所で強く 強く手を結び抱いて 緑ゆれてる 貴方
+                - emphasis [ref=e225]: の
+                - text: 声が聴こえた気がする 空が晴れたら 逢いに逢いに来て欲しい 涙は枯れないわ 明日へと繋がる
+          - insertion [ref=e227]:
+            - iframe [ref=e229]:
+              - iframe [ref=f13e1]:
+                - generic [active]:
+                  - link "서든어택 Play Now" [ref=f22e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=n73DNrdaBnKsBFF-CvUcag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=GiAKab7yRseHG2hbd2bd5g&crpid=8pJTdbdcRPubKX62pyKIGQ&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_7rGQKqdy70IyoPfy7rZQoru-uY79uqa13mSPwHEEZ4zqUmR1K4lNU1u_uYJNZmS_cHd9wmOWu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1U8Squ1x1U8A121uy71u-uYOPJ1u_uqumKqI9o4QxujR&ui=CyljUmOjUbisc8M121l0MIirtIsBtbggcswmCi34UIE1IjNgtrlPnmZ1K4lYc8Myuqa1oqGQKqGR71Qmo1Qx2qay71lO&consent=1&ddhh=onRx&flanding_rdr=
+                    - generic [ref=f22e2]:
+                      - img [ref=f22e4]
+                      - generic [ref=f22e5]:
+                        - img [ref=f22e6]
+                        - button [ref=f22e8]
+                      - generic [ref=f22e9]:
+                        - generic [ref=f22e10]: 서든어택
+                        - generic [ref=f22e11]: Play Now
+                  - button [ref=f22e13] [cursor=pointer]
+          - link "歡びの種 YUKI 食べてしまえば 도쿠이리노링고오 타베테시마에바 독이 들어간 사과를 먹어버리면 ステージ の 上から 落ちちゃうわ 스테-지노우에카라 오치챠우와 무대위에서 떨어져버려요 結びなおしてね 무스비나오시테네 다시 묶어주세요 見逃してしまう 歓び の 種 を 미노가시테시마우 요로코비노타네오 놓쳐버린 기쁨의 씨앗을 暖かい大地で 育" [ref=e230] [cursor=pointer]:
+            - /url: /227932
+            - generic [ref=e231]: ♪
+            - generic [ref=e232]:
+              - strong [ref=e233]: 歡びの種
+              - emphasis [ref=e234]: YUKI
+              - generic [ref=e235]:
+                - text: 食べてしまえば 도쿠이리노링고오 타베테시마에바 독이 들어간 사과를 먹어버리면 ステージ
+                - emphasis [ref=e236]: の
+                - text: 上から 落ちちゃうわ 스테-지노우에카라 오치챠우와 무대위에서 떨어져버려요 結びなおしてね 무스비나오시테네 다시 묶어주세요 見逃してしまう 歓び
+                - emphasis [ref=e237]: の
+                - emphasis [ref=e238]: 種
+                - text: を 미노가시테시마우 요로코비노타네오 놓쳐버린 기쁨의 씨앗을 暖かい大地で 育
+          - link "minihams 미니모니 ミニハムず の 愛 の 唄 미니하무즈노아이노우타 미니햄즈 사랑의 노래 띵띠딩 띠띠띠띵~~ 빠빠빠~~ LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 러브 유 LOVE LOVE LOVE LOVE I Love you 愛 愛 愛 愛 ミニハムず!" [ref=e239] [cursor=pointer]:
+            - /url: /102515
+            - generic [ref=e240]: ♪
+            - generic [ref=e241]:
+              - strong [ref=e242]: minihams
+              - emphasis [ref=e243]: 미니모니
+              - generic [ref=e244]:
+                - text: ミニハムず
+                - emphasis [ref=e245]: の
+                - emphasis [ref=e246]: 愛
+                - emphasis [ref=e247]: の
+                - text: 唄 미니하무즈노아이노우타 미니햄즈 사랑의 노래 띵띠딩 띠띠띠띵~~ 빠빠빠~~ LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 러브 유 LOVE LOVE LOVE LOVE I Love you
+                - emphasis [ref=e248]: 愛
+                - emphasis [ref=e249]: 愛
+                - emphasis [ref=e250]: 愛
+                - emphasis [ref=e251]: 愛
+                - text: ミニハムず!
+          - insertion [ref=e253]
+          - link "ミニハムずの愛の唄 ミニハムず(うた:ミニモニ) ミニハムず の 愛 の 唄 作詞 つんく 作曲 つんく 唄 ミニハムず(うた:ミニモニ。) (Ah Uh Ah Uh) LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 라뷰우 LOVE LOVE LOVE LOVE 사랑해=_=ㆀ 愛 愛 愛 愛 ミニハムず! 아이아이아이아이 미니하무즈!" [ref=e255] [cursor=pointer]:
+            - /url: /98780
+            - generic [ref=e256]: ♪
+            - generic [ref=e257]:
+              - strong [ref=e258]: ミニハムずの愛の唄
+              - emphasis [ref=e259]: ミニハムず(うた:ミニモニ)
+              - generic [ref=e260]:
+                - text: ミニハムず
+                - emphasis [ref=e261]: の
+                - emphasis [ref=e262]: 愛
+                - emphasis [ref=e263]: の
+                - text: 唄 作詞 つんく 作曲 つんく 唄 ミニハムず(うた:ミニモニ。) (Ah Uh Ah Uh) LOVE LOVE LOVE LOVE アイ ラブ ユウ LOVE LOVE LOVE LOVE 아이 라뷰우 LOVE LOVE LOVE LOVE 사랑해=_=ㆀ
+                - emphasis [ref=e264]: 愛
+                - emphasis [ref=e265]: 愛
+                - emphasis [ref=e266]: 愛
+                - emphasis [ref=e267]: 愛
+                - text: ミニハムず! 아이아이아이아이 미니하무즈!
+          - insertion [ref=e269]
+          - link "ネオ&#12539;ブラボ&#12540;！！ Southern All Stars 愛 の 夏来れば皆”高温万歳” 病める時代を忘れて 太陽待ち焦がれた”浪漫人 種 ” 闇が流れる現代だから 熱い放射で揺れる影より 明日 の 空は暗い 嘆き の 風を肉体に受けて 君と夢を見ていたね ＊情熱 の 相対性は NEO 終わり無き世 の Blues（Oh, My Baby） 永遠 の 最終形は ZERO" [ref=e271] [cursor=pointer]:
+            - /url: /284024
+            - generic [ref=e272]: ♪
+            - generic [ref=e273]:
+              - strong [ref=e274]: ネオ&#12539;ブラボ&#12540;！！
+              - emphasis [ref=e275]: Southern All Stars
+              - generic [ref=e276]:
+                - emphasis [ref=e277]: 愛
+                - emphasis [ref=e278]: の
+                - text: 夏来れば皆”高温万歳” 病める時代を忘れて 太陽待ち焦がれた”浪漫人
+                - emphasis [ref=e279]: 種
+                - text: ” 闇が流れる現代だから 熱い放射で揺れる影より 明日
+                - emphasis [ref=e280]: の
+                - text: 空は暗い 嘆き
+                - emphasis [ref=e281]: の
+                - text: 風を肉体に受けて 君と夢を見ていたね ＊情熱
+                - emphasis [ref=e282]: の
+                - text: 相対性は NEO 終わり無き世
+                - emphasis [ref=e283]: の
+                - text: Blues（Oh, My Baby） 永遠
+                - emphasis [ref=e284]: の
+                - text: 最終形は ZERO
+          - link "愛は花&#12539;君はその種子 Miyako Harumi やさしさを 押(お)し流(なが)す 야시시사오 오시나가쓰 상냥함을 흘러가게하는 愛 (あい) それは川(かわ) 아이 소레와 카와 사랑 그것은 강 魂(たましい)を 切(き)り裂(さ)く 타마시이오 키리사쿠 혼을 가르는 愛 (あい) それはナイフ 아이 소레와 나이후 사랑 그것은 나이프 とめどない 渴(かわ)きが 타메도나이 카와키가 끝이 없는" [ref=e285] [cursor=pointer]:
+            - /url: /188058
+            - generic [ref=e286]: ♪
+            - generic [ref=e287]:
+              - strong [ref=e288]: 愛は花&#12539;君はその種子
+              - emphasis [ref=e289]: Miyako Harumi
+              - generic [ref=e290]:
+                - text: やさしさを 押(お)し流(なが)す 야시시사오 오시나가쓰 상냥함을 흘러가게하는
+                - emphasis [ref=e291]: 愛
+                - text: (あい) それは川(かわ) 아이 소레와 카와 사랑 그것은 강 魂(たましい)を 切(き)り裂(さ)く 타마시이오 키리사쿠 혼을 가르는
+                - emphasis [ref=e292]: 愛
+                - text: (あい) それはナイフ 아이 소레와 나이후 사랑 그것은 나이프 とめどない 渴(かわ)きが 타메도나이 카와키가 끝이 없는
+          - link "ボクラの庭 - Eco Mix (우리들의 정원) Idoling!!! 目 の 前に?がる ボクラ の 庭 ボクラはいつか踏み出して そ の 瞬間に道が出?た ボクラにしか見えない道 それがこ の 星さ ボクラはいつか仰ぎ見て そ の 瞬間に空が出?た 世界はそう ボクラ の ため 生まれてきたよ だから 決めたんだ こ の 手で生かそう だいすきなこ の 地球 目 の 前に?がる ボクラ の 庭に 花 の 種 を植えて ?かそう 今 手と手をつないで 永遠 の ?" [ref=e293] [cursor=pointer]:
+            - /url: /2438978
+            - generic [ref=e294]: ♪
+            - generic [ref=e295]:
+              - strong [ref=e296]: ボクラの庭 - Eco Mix (우리들의 정원)
+              - emphasis [ref=e297]: Idoling!!!
+              - generic [ref=e298]:
+                - text: 目
+                - emphasis [ref=e299]: の
+                - text: 前に?がる ボクラ
+                - emphasis [ref=e300]: の
+                - text: 庭 ボクラはいつか踏み出して そ
+                - emphasis [ref=e301]: の
+                - text: 瞬間に道が出?た ボクラにしか見えない道 それがこ
+                - emphasis [ref=e302]: の
+                - text: 星さ ボクラはいつか仰ぎ見て そ
+                - emphasis [ref=e303]: の
+                - text: 瞬間に空が出?た 世界はそう ボクラ
+                - emphasis [ref=e304]: の
+                - text: ため 生まれてきたよ だから 決めたんだ こ
+                - emphasis [ref=e305]: の
+                - text: 手で生かそう だいすきなこ
+                - emphasis [ref=e306]: の
+                - text: 地球 目
+                - emphasis [ref=e307]: の
+                - text: 前に?がる ボクラ
+                - emphasis [ref=e308]: の
+                - text: 庭に 花
+                - emphasis [ref=e309]: の
+                - emphasis [ref=e310]: 種
+                - text: を植えて ?かそう 今 手と手をつないで 永遠
+                - emphasis [ref=e311]: の
+                - text: "?"
+          - link "ボクラの庭 (우리들의 정원) Idoling!!! 目 の 前に?がる ボクラ の 庭 ボクラはいつか踏み出して そ の 瞬間に道が出?た ボクラにしか見えない道 それがこ の 星さ ボクラはいつか仰ぎ見て そ の 瞬間に空が出?た 世界はそう ボクラ の ため 生まれてきたよ だから 決めたんだ こ の 手で生かそう だいすきなこ の 地球 目 の 前に?がる ボクラ の 庭に 花 の 種 を植えて ?かそう 今 手と手をつないで 永遠 の ?" [ref=e312] [cursor=pointer]:
+            - /url: /2420524
+            - generic [ref=e313]: ♪
+            - generic [ref=e314]:
+              - strong [ref=e315]: ボクラの庭 (우리들의 정원)
+              - emphasis [ref=e316]: Idoling!!!
+              - generic [ref=e317]:
+                - text: 目
+                - emphasis [ref=e318]: の
+                - text: 前に?がる ボクラ
+                - emphasis [ref=e319]: の
+                - text: 庭 ボクラはいつか踏み出して そ
+                - emphasis [ref=e320]: の
+                - text: 瞬間に道が出?た ボクラにしか見えない道 それがこ
+                - emphasis [ref=e321]: の
+                - text: 星さ ボクラはいつか仰ぎ見て そ
+                - emphasis [ref=e322]: の
+                - text: 瞬間に空が出?た 世界はそう ボクラ
+                - emphasis [ref=e323]: の
+                - text: ため 生まれてきたよ だから 決めたんだ こ
+                - emphasis [ref=e324]: の
+                - text: 手で生かそう だいすきなこ
+                - emphasis [ref=e325]: の
+                - text: 地球 目
+                - emphasis [ref=e326]: の
+                - text: 前に?がる ボクラ
+                - emphasis [ref=e327]: の
+                - text: 庭に 花
+                - emphasis [ref=e328]: の
+                - emphasis [ref=e329]: 種
+                - text: を植えて ?かそう 今 手と手をつないで 永遠
+                - emphasis [ref=e330]: の
+                - text: "?"
+          - link "愛の種 / Aino Tane (사랑의 씨앗) Morning Musume さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に の り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을" [ref=e331] [cursor=pointer]:
+            - /url: /2690902
+            - generic [ref=e332]: ♪
+            - generic [ref=e333]:
+              - strong [ref=e334]: 愛の種 / Aino Tane (사랑의 씨앗)
+              - emphasis [ref=e335]: Morning Musume
+              - generic [ref=e336]:
+                - text: さあ 出かけよう きっと 屆くから 사아 데카케요오 킷-토 토도쿠카라 자아 나가는 거야 반드시 닿을 수 있으니까 髮を切って，夢をみがく 好きな空を，めざすために 카미오 킷-테 유메오 미가쿠 스키나 소라오 메자스타메니 머리를 자르고 꿈을 키울꺼야 좋아하는 하늘을 향하기 위해 ねえ 風に
+                - emphasis [ref=e337]: の
+                - text: り もっと 輝いて 네에 카제니노리 못-토 카가야이테 이제 바람을
+          - link "Evergreen Moumoon か細く白い指が そ の 種 を植えた 百年後 の 誰かが 幸せであるように 時を越えて 愛 し合う 比翼 の 鳥 空へ向かって そう、羽ばたいていく筈な の に わたしたちは 飛べずに 運命に弄ばれている もう、楽にさせて 愛 を 叫び続けるから ずっと 愛 を 隠さずにいるから きっと 永久に 消えないで そして 神様が 決めた\"ふたり\"だってこと 知るよ" [ref=e338] [cursor=pointer]:
+            - /url: /2417389
+            - generic [ref=e339]: ♪
+            - generic [ref=e340]:
+              - strong [ref=e341]: Evergreen
+              - emphasis [ref=e342]: Moumoon
+              - generic [ref=e343]:
+                - text: か細く白い指が そ
+                - emphasis [ref=e344]: の
+                - emphasis [ref=e345]: 種
+                - text: を植えた 百年後
+                - emphasis [ref=e346]: の
+                - text: 誰かが 幸せであるように 時を越えて
+                - emphasis [ref=e347]: 愛
+                - text: し合う 比翼
+                - emphasis [ref=e348]: の
+                - text: 鳥 空へ向かって そう、羽ばたいていく筈な
+                - emphasis [ref=e349]: の
+                - text: に わたしたちは 飛べずに 運命に弄ばれている もう、楽にさせて
+                - emphasis [ref=e350]: 愛
+                - text: を 叫び続けるから ずっと
+                - emphasis [ref=e351]: 愛
+                - text: を 隠さずにいるから きっと 永久に 消えないで そして 神様が 決めた"ふたり"だってこと 知るよ
+          - link "B.M.G. Keung To 姜濤, Anson Lo 盧瀚霆 加速 聽心跳加速 只得妳使一切起伏 不想 不想再占卜 想跟妳當刻接觸 只一秒碰面給妳虜走人生 瞌起眼聽到總有妳聲音 來盡快 跟我走 不怕陌生 Ay you know I'll never let you go Want you to be my lady baby Want you to be my lady baby Just be my girl 愛 你上了癮 愛 我快答允 要與妳抱緊 拋開 種 種 拘謹" [ref=e352] [cursor=pointer]:
+            - /url: /3161106
+            - generic [ref=e353]: ♪
+            - generic [ref=e354]:
+              - strong [ref=e355]: B.M.G.
+              - emphasis [ref=e356]: Keung To 姜濤, Anson Lo 盧瀚霆
+              - generic [ref=e357]:
+                - text: 加速 聽心跳加速 只得妳使一切起伏 不想 不想再占卜 想跟妳當刻接觸 只一秒碰面給妳虜走人生 瞌起眼聽到總有妳聲音 來盡快 跟我走 不怕陌生 Ay you know I'll never let you go Want you to be my lady baby Want you to be my lady baby Just be my girl
+                - emphasis [ref=e358]: 愛
+                - text: 你上了癮
+                - emphasis [ref=e359]: 愛
+                - text: 我快答允 要與妳抱緊 拋開
+                - emphasis [ref=e360]: 種
+                - emphasis [ref=e361]: 種
+                - text: 拘謹
+          - link "太陽と埃の中で / Taiyou To Hokori No Nakade (태양과 먼지 속에) CHAGE & ASKA 名前も国もない 生まれたて の 元気 All right どんな羽根をくれる の 僕等はいつだって 風邪をひいたままさ オイル の 切れた未来 の プログラム 大事に回してる 追い駆けて 追いかけても つかめない も の ばかりさ 愛 して 愛 しても 近づく程 見えない 太陽と埃 の 匂いを覚えてる All right どんな 種 子を蒔いた の 僕が君についた あ の 日 の 嘘よりも 上手に上手にはぐれて行く 涙も誘わずに 追い駆けて" [ref=e362] [cursor=pointer]:
+            - /url: /2739485
+            - generic [ref=e363]: ♪
+            - generic [ref=e364]:
+              - strong [ref=e365]: 太陽と埃の中で / Taiyou To Hokori No Nakade (태양과 먼지 속에)
+              - emphasis [ref=e366]: CHAGE & ASKA
+              - generic [ref=e367]:
+                - text: 名前も国もない 生まれたて
+                - emphasis [ref=e368]: の
+                - text: 元気 All right どんな羽根をくれる
+                - emphasis [ref=e369]: の
+                - text: 僕等はいつだって 風邪をひいたままさ オイル
+                - emphasis [ref=e370]: の
+                - text: 切れた未来
+                - emphasis [ref=e371]: の
+                - text: プログラム 大事に回してる 追い駆けて 追いかけても つかめない も
+                - emphasis [ref=e372]: の
+                - text: ばかりさ
+                - emphasis [ref=e373]: 愛
+                - text: して
+                - emphasis [ref=e374]: 愛
+                - text: しても 近づく程 見えない 太陽と埃
+                - emphasis [ref=e375]: の
+                - text: 匂いを覚えてる All right どんな
+                - emphasis [ref=e376]: 種
+                - text: 子を蒔いた
+                - emphasis [ref=e377]: の
+                - text: 僕が君についた あ
+                - emphasis [ref=e378]: の
+                - text: 日
+                - emphasis [ref=e379]: の
+                - text: 嘘よりも 上手に上手にはぐれて行く 涙も誘わずに 追い駆けて
+          - link "日付愛更線 廣瀨香美 (Hirose Kohmi) -ション 치죠-노이루미네-숀 거리위의불빛들 渗む二人 の 町並みが小さくなる 니지무후타리노마치나미가치-사쿠나루 번지는두사람의거리가작아져요 あなた の あったかいシェルタ-で 아나타노앗타카이셰루타-데 그대의따뜻한피난처에서 暮らすはずだったけど 쿠라스하즈닷타케도 살아갈예정이었지만 地圖に描かれた点線を超えて 치즈니에가카레타텐센오코에테" [ref=e380] [cursor=pointer]:
+            - /url: /285524
+            - generic [ref=e381]: ♪
+            - generic [ref=e382]:
+              - strong [ref=e383]: 日付愛更線
+              - emphasis [ref=e384]: 廣瀨香美 (Hirose Kohmi)
+              - generic [ref=e385]:
+                - text: "-ション 치죠-노이루미네-숀 거리위의불빛들 渗む二人"
+                - emphasis [ref=e386]: の
+                - text: 町並みが小さくなる 니지무후타리노마치나미가치-사쿠나루 번지는두사람의거리가작아져요 あなた
+                - emphasis [ref=e387]: の
+                - text: あったかいシェルタ-で 아나타노앗타카이셰루타-데 그대의따뜻한피난처에서 暮らすはずだったけど 쿠라스하즈닷타케도 살아갈예정이었지만 地圖に描かれた点線を超えて 치즈니에가카레타텐센오코에테
+          - link "ネコに風船 大塚愛 あたし の ンち 商店街 の 本屋 の 横 아타시노우치쇼우텐가이노홍야노요코 우리집.상점가의 책방 옆 毎日車と変わらずたくさん の 人達流れる 마이니치쿠루마토카와라즈타쿠상노히토타치나가레루 매일 자동차와, 변함없이 많은 사람들이 흘러간다. 気付けばネコと呼ばれて自分がネコだって気付いた 키즈케바네코토요바레테지분가네코닷테키즈이타" [ref=e388] [cursor=pointer]:
+            - /url: /222305
+            - generic [ref=e389]: ♪
+            - generic [ref=e390]:
+              - strong [ref=e391]: ネコに風船
+              - emphasis [ref=e392]: 大塚愛
+              - generic [ref=e393]:
+                - text: あたし
+                - emphasis [ref=e394]: の
+                - text: ンち 商店街
+                - emphasis [ref=e395]: の
+                - text: 本屋
+                - emphasis [ref=e396]: の
+                - text: 横 아타시노우치쇼우텐가이노홍야노요코 우리집.상점가의 책방 옆 毎日車と変わらずたくさん
+                - emphasis [ref=e397]: の
+                - text: 人達流れる 마이니치쿠루마토카와라즈타쿠상노히토타치나가레루 매일 자동차와, 변함없이 많은 사람들이 흘러간다. 気付けばネコと呼ばれて自分がネコだって気付いた 키즈케바네코토요바레테지분가네코닷테키즈이타
+          - link "ル&#12540;プ Sakamoto Maaya ループ 作詞 ｈ‘ｓ 作曲 ｈ－wonder ねえ こ の 街が夕闇に染まるときは 世界 の どこかで朝日がさす 君 の 手 の 中 そ の 花が枯れるときは 小さな 種 を落とすだろう 踏み固められた土を道だと呼ぶ の ならば 目を閉じることでも 愛 かな？" [ref=e398] [cursor=pointer]:
+            - /url: /221811
+            - generic [ref=e399]: ♪
+            - generic [ref=e400]:
+              - strong [ref=e401]: ル&#12540;プ
+              - emphasis [ref=e402]: Sakamoto Maaya
+              - generic [ref=e403]:
+                - text: ループ 作詞 ｈ‘ｓ 作曲 ｈ－wonder ねえ こ
+                - emphasis [ref=e404]: の
+                - text: 街が夕闇に染まるときは 世界
+                - emphasis [ref=e405]: の
+                - text: どこかで朝日がさす 君
+                - emphasis [ref=e406]: の
+                - text: 手
+                - emphasis [ref=e407]: の
+                - text: 中 そ
+                - emphasis [ref=e408]: の
+                - text: 花が枯れるときは 小さな
+                - emphasis [ref=e409]: 種
+                - text: を落とすだろう 踏み固められた土を道だと呼ぶ
+                - emphasis [ref=e410]: の
+                - text: ならば 目を閉じることでも
+                - emphasis [ref=e411]: 愛
+                - text: かな？
+          - link "認愛 GX (鼓鼓 呂思緯、蕭秉治) 最浪漫的晚餐 是和你坐在巷子口的麵攤依偎取暖 捨不得說晚安 想和你躺在落日後的沙灘數著星海 就算世界崩裂 在生命凋零之前 我都會在你身邊 為你認 愛 為你認栽公開表白 讓我活在你的每個現在未來 曾經我們擁有同一 種 寂寞 直到我們 愛 上同一片天空 靈魂只為彼此存在 你是我唯一的 愛 原來 愛 很簡單 是你告訴我有個人想念就不會孤單 生活狼狽不堪 是你從後座緊緊擁抱著我陪我勇敢 就算世界崩裂 在生命凋零之前 我都會在你身邊" [ref=e412] [cursor=pointer]:
+            - /url: /3018115
+            - generic [ref=e413]: ♪
+            - generic [ref=e414]:
+              - strong [ref=e415]: 認愛
+              - emphasis [ref=e416]: GX (鼓鼓 呂思緯、蕭秉治)
+              - generic [ref=e417]:
+                - text: 最浪漫的晚餐 是和你坐在巷子口的麵攤依偎取暖 捨不得說晚安 想和你躺在落日後的沙灘數著星海 就算世界崩裂 在生命凋零之前 我都會在你身邊 為你認
+                - emphasis [ref=e418]: 愛
+                - text: 為你認栽公開表白 讓我活在你的每個現在未來 曾經我們擁有同一
+                - emphasis [ref=e419]: 種
+                - text: 寂寞 直到我們
+                - emphasis [ref=e420]: 愛
+                - text: 上同一片天空 靈魂只為彼此存在 你是我唯一的
+                - emphasis [ref=e421]: 愛
+                - text: 原來
+                - emphasis [ref=e422]: 愛
+                - text: 很簡單 是你告訴我有個人想念就不會孤單 生活狼狽不堪 是你從後座緊緊擁抱著我陪我勇敢 就算世界崩裂 在生命凋零之前 我都會在你身邊
+          - link "Black Cherry Acid Black Cherry 젖어서 빠져들어 私 の 中へ 種 を残しよみがえれ... 와타시노 나카에 타네오 노코시 요미가에레 내 안에 씨앗을 남겨 되살아나... 愛 してくれなくていいよ... 愛 してないから 아이시떼 쿠레나쿠테 이이요, 아이시떼나이카라 사랑해주지 않아도 돼... 사랑하지 않으니까 これ以上惨めにさせないで..." [ref=e423] [cursor=pointer]:
+            - /url: /339815
+            - generic [ref=e424]: ♪
+            - generic [ref=e425]:
+              - strong [ref=e426]: Black Cherry
+              - emphasis [ref=e427]: Acid Black Cherry
+              - generic [ref=e428]:
+                - text: 젖어서 빠져들어 私
+                - emphasis [ref=e429]: の
+                - text: 中へ
+                - emphasis [ref=e430]: 種
+                - text: を残しよみがえれ... 와타시노 나카에 타네오 노코시 요미가에레 내 안에 씨앗을 남겨 되살아나...
+                - emphasis [ref=e431]: 愛
+                - text: してくれなくていいよ...
+                - emphasis [ref=e432]: 愛
+                - text: してないから 아이시떼 쿠레나쿠테 이이요, 아이시떼나이카라 사랑해주지 않아도 돼... 사랑하지 않으니까 これ以上惨めにさせないで...
+          - link "倚天屠龍記 羅文 仇如劍，斷盡多少 愛 根？人間高手一世英雄，亦免不了 愛 和恨！屠龍寶刀，弄不斷情仇相分； 愛 恨有誰可解？誰可無憾！萬 種 恩，偏偏生千般恨，問你怎不痛心？屠龍寶刀，弄不斷情仇相分； 愛 恨有誰可解？誰可無憾！萬 種 恩，偏偏生千般恨，問你怎可不痛心？情網困盡多少英雄，情 愛 偏會變仇恨！" [ref=e433] [cursor=pointer]:
+            - /url: /2963423
+            - generic [ref=e434]: ♪
+            - generic [ref=e435]:
+              - strong [ref=e436]: 倚天屠龍記
+              - emphasis [ref=e437]: 羅文
+              - generic [ref=e438]:
+                - text: 仇如劍，斷盡多少
+                - emphasis [ref=e439]: 愛
+                - text: 根？人間高手一世英雄，亦免不了
+                - emphasis [ref=e440]: 愛
+                - text: 和恨！屠龍寶刀，弄不斷情仇相分；
+                - emphasis [ref=e441]: 愛
+                - text: 恨有誰可解？誰可無憾！萬
+                - emphasis [ref=e442]: 種
+                - text: 恩，偏偏生千般恨，問你怎不痛心？屠龍寶刀，弄不斷情仇相分；
+                - emphasis [ref=e443]: 愛
+                - text: 恨有誰可解？誰可無憾！萬
+                - emphasis [ref=e444]: 種
+                - text: 恩，偏偏生千般恨，問你怎可不痛心？情網困盡多少英雄，情
+                - emphasis [ref=e445]: 愛
+                - text: 偏會變仇恨！
+          - link "歡びの種 (Yorokobino Tane) (기쁨의 씨앗) Yuki び の 種 (기쁨의 씨앗) 作詞者名 YUKI 作曲者名 谷好位置 ア-ティスト YUKI 逆さまに見てた 冷たい空 사카사마니미테타 츠메타이소라 뒤집어서 보았던 차가운 하늘 泣いて赤くなる 街を 見下ろした 나이테아카쿠나루 마치오 미오로시타 울며 붉어지는 거리를 내려다봤어요 風に流されて ゆだね 카제니나가사레테 카라다유다네 바람이 흘러서" [ref=e446] [cursor=pointer]:
+            - /url: /371542
+            - generic [ref=e447]: ♪
+            - generic [ref=e448]:
+              - strong [ref=e449]: 歡びの種 (Yorokobino Tane) (기쁨의 씨앗)
+              - emphasis [ref=e450]: Yuki
+              - generic [ref=e451]:
+                - text: び
+                - emphasis [ref=e452]: の
+                - emphasis [ref=e453]: 種
+                - text: (기쁨의 씨앗) 作詞者名 YUKI 作曲者名 谷好位置 ア-ティスト YUKI 逆さまに見てた 冷たい空 사카사마니미테타 츠메타이소라 뒤집어서 보았던 차가운 하늘 泣いて赤くなる 街を 見下ろした 나이테아카쿠나루 마치오 미오로시타 울며 붉어지는 거리를 내려다봤어요 風に流されて ゆだね 카제니나가사레테 카라다유다네 바람이 흘러서
+        - insertion [ref=e455]
+  - text:     
+  - contentinfo [ref=e457]:
+    - paragraph [ref=e458]:
+      - link "개인정보취급방침" [ref=e459] [cursor=pointer]:
+        - /url: /g5/bbs/content.php?co_id=privacy
+      - link "서비스이용약관" [ref=e460] [cursor=pointer]:
+        - /url: /g5/bbs/content.php?co_id=provision
+      - text: / Copyright © 2004~2025 ☊ Gasazip.com All rights reserved.
+      - text: "/ E-mail :"
+      - link "hwanico@gmail.com" [ref=e461] [cursor=pointer]:
+        - /url: mailto:hwanico@gmail.com
+      - text: /
+      - link "RSS" [ref=e462] [cursor=pointer]:
+        - /url: /rss.html
+    - button "문의하기" [ref=e464] [cursor=pointer]:
+      - img [ref=e465]
+      - text: 문의하기

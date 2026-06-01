@@ -1,0 +1,708 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - text: 
+        - link "가사집" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e6]: 가사집
+      - generic [ref=e7]:
+        - list [ref=e8]:
+          - listitem [ref=e9]:
+            - link "인기가사" [ref=e10] [cursor=pointer]:
+              - /url: /top100.html
+          - listitem [ref=e11]:
+            - link "실시간 검색가사" [ref=e12] [cursor=pointer]:
+              - /url: /new100.html
+          - listitem [ref=e13]:
+            - link "AI 해석" [ref=e14] [cursor=pointer]:
+              - /url: /ai_interpretations.html
+          - listitem [ref=e15]:
+            - link "플레이어" [ref=e16] [cursor=pointer]:
+              - /url: /player.html
+          - listitem [ref=e17]:
+            - link "보관함" [ref=e18] [cursor=pointer]:
+              - /url: /library.html
+          - listitem [ref=e19]:
+            - link "자유게시판" [ref=e20] [cursor=pointer]:
+              - /url: /g5/bbs/board.php?bo_table=free
+        - search [ref=e21]:
+          - generic [ref=e22]:
+            - generic [ref=e23]: 가사 검색
+            - textbox "가사 검색" [ref=e24]
+          - button "검색" [ref=e25] [cursor=pointer]
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - link "한국어" [ref=e28] [cursor=pointer]:
+              - /url: https://gasazip.com/
+          - listitem [ref=e29]:
+            - link "English" [ref=e30] [cursor=pointer]:
+              - /url: https://en.gasazip.com/
+  - insertion [ref=e32]:
+    - iframe [ref=e34]:
+      - generic [active] [ref=f3e1]:
+        - generic [ref=f3e6]:
+          - generic [ref=f3e7]:
+            - generic "카카오 배틀그라운드" [ref=f3e9]:
+              - link "PUBG x Harley-Davidson" [ref=f3e10] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_snv5fQcarSLF9Pt_tMP9qmA2AaNy6qDhwG2hp294RWN2o_wsBAQASDqvJoCYJuD6YScKaABiqTx_QLIAQGpAllTQXvYxgY-qAMByAPLBKoE4wFP0Amka8d7drpkEAm0Sto0nJYucxVh85RL_0nlsff2eXLYs8DEsU76KZIUh3JC2HQj7rpnlaPh1egHzRAR9AFSaGFsJ4SOHz22NyYQqGXw1aTEZkqEMZdgsG2EvbijNkdNVGptRjihTRTbkrYYgK7wz3ES9GTvaylHDD5mEOFdRWLv6U07xqHv_IAthlBLsjx4IWrkVUN7Cu5HsAMZzMk5uOc8xPA3MGPowPNxqOYH7ihKom4QU3Uh_Q_yEujly-hNaCAxjpx-RW1HUJnXjgZ2dedjxDw40EHikXrd97o2KWP1e8AEqo_OkOcFiAX-taTmWIAH3tuOggGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WLuJwb6F5ZQDYAGxCWLsaF7qH3A4gAoBmAsByAsBogwDkAEBqg0CS1LIDQHqDRMIqZnEvoXllAMV07Z_BB32FABr8A0CiA4J2BMK0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAsZPGAEiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE&num=1&cid=CAQS9AEABaugfbztyXua8aEBBiveeNnfUZTqjtr_Q5y0G13xv0kfF1kA1zpJeJUCXG5Beg7xlxoerWq6uzYlx3EfJ5kNtXrzpmWrIfeVMfYNEM6KUeC_DBLAnHY7rmwJtLvdq6bydB5XoPTh2u9WbCZQORVYFJQ_0xLD795ZuT7HXhzMzUUyqTqXjzvbjgcs5qMKv9lzQZLEl4Y2aGoHs2HQrIlDJJIm0yZ3uXpHfjLWoDxGdPnwTKE1ffz8bMOUz7WVGhmivfrfrWxvg8xRy5B75S4pWxXtXusOpXbC2crQYk99MvcDlBy_2c8ILa080rrR0JAxwE96GAE&sig=AOD64_3Yb28TyPN-afUTwnjbGl5tCuA34Q&client=ca-pub-1354836663865600&rf=1&nb=0&adurl=https://pubg.game.daum.net/pubg/index.daum%3Futm_source%3Dgdn%26utm_medium%3Ddisplay%26utm_campaign%3D20260513_harley%26utm_content%3Dgdn_display_pc%26gad_source%3D5%26gad_campaignid%3D23836826366%26gclid%3DEAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE
+            - generic [ref=f3e11]:
+              - link "자신만의 길을 개척하고, 전장을 이끌 자들을 위한 라이딩이 곧 시작됩니다." [ref=f3e13] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_snv5fQcarSLF9Pt_tMP9qmA2AaNy6qDhwG2hp294RWN2o_wsBAQASDqvJoCYJuD6YScKaABiqTx_QLIAQGpAllTQXvYxgY-qAMByAPLBKoE4wFP0Amka8d7drpkEAm0Sto0nJYucxVh85RL_0nlsff2eXLYs8DEsU76KZIUh3JC2HQj7rpnlaPh1egHzRAR9AFSaGFsJ4SOHz22NyYQqGXw1aTEZkqEMZdgsG2EvbijNkdNVGptRjihTRTbkrYYgK7wz3ES9GTvaylHDD5mEOFdRWLv6U07xqHv_IAthlBLsjx4IWrkVUN7Cu5HsAMZzMk5uOc8xPA3MGPowPNxqOYH7ihKom4QU3Uh_Q_yEujly-hNaCAxjpx-RW1HUJnXjgZ2dedjxDw40EHikXrd97o2KWP1e8AEqo_OkOcFiAX-taTmWIAH3tuOggGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WLuJwb6F5ZQDYAGxCWLsaF7qH3A4gAoBmAsByAsBogwDkAEBqg0CS1LIDQHqDRMIqZnEvoXllAMV07Z_BB32FABr8A0CiA4J2BMK0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAsZPGAEiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE&num=1&cid=CAQS9AEABaugfbztyXua8aEBBiveeNnfUZTqjtr_Q5y0G13xv0kfF1kA1zpJeJUCXG5Beg7xlxoerWq6uzYlx3EfJ5kNtXrzpmWrIfeVMfYNEM6KUeC_DBLAnHY7rmwJtLvdq6bydB5XoPTh2u9WbCZQORVYFJQ_0xLD795ZuT7HXhzMzUUyqTqXjzvbjgcs5qMKv9lzQZLEl4Y2aGoHs2HQrIlDJJIm0yZ3uXpHfjLWoDxGdPnwTKE1ffz8bMOUz7WVGhmivfrfrWxvg8xRy5B75S4pWxXtXusOpXbC2crQYk99MvcDlBy_2c8ILa080rrR0JAxwE96GAE&sig=AOD64_3Yb28TyPN-afUTwnjbGl5tCuA34Q&client=ca-pub-1354836663865600&rf=1&nb=7&adurl=https://pubg.game.daum.net/pubg/index.daum%3Futm_source%3Dgdn%26utm_medium%3Ddisplay%26utm_campaign%3D20260513_harley%26utm_content%3Dgdn_display_pc%26gad_source%3D5%26gad_campaignid%3D23836826366%26gclid%3DEAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE
+              - link [ref=f3e14] [cursor=pointer]:
+                - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_snv5fQcarSLF9Pt_tMP9qmA2AaNy6qDhwG2hp294RWN2o_wsBAQASDqvJoCYJuD6YScKaABiqTx_QLIAQGpAllTQXvYxgY-qAMByAPLBKoE4wFP0Amka8d7drpkEAm0Sto0nJYucxVh85RL_0nlsff2eXLYs8DEsU76KZIUh3JC2HQj7rpnlaPh1egHzRAR9AFSaGFsJ4SOHz22NyYQqGXw1aTEZkqEMZdgsG2EvbijNkdNVGptRjihTRTbkrYYgK7wz3ES9GTvaylHDD5mEOFdRWLv6U07xqHv_IAthlBLsjx4IWrkVUN7Cu5HsAMZzMk5uOc8xPA3MGPowPNxqOYH7ihKom4QU3Uh_Q_yEujly-hNaCAxjpx-RW1HUJnXjgZ2dedjxDw40EHikXrd97o2KWP1e8AEqo_OkOcFiAX-taTmWIAH3tuOggGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WLuJwb6F5ZQDYAGxCWLsaF7qH3A4gAoBmAsByAsBogwDkAEBqg0CS1LIDQHqDRMIqZnEvoXllAMV07Z_BB32FABr8A0CiA4J2BMK0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAsZPGAEiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE&num=1&cid=CAQS9AEABaugfbztyXua8aEBBiveeNnfUZTqjtr_Q5y0G13xv0kfF1kA1zpJeJUCXG5Beg7xlxoerWq6uzYlx3EfJ5kNtXrzpmWrIfeVMfYNEM6KUeC_DBLAnHY7rmwJtLvdq6bydB5XoPTh2u9WbCZQORVYFJQ_0xLD795ZuT7HXhzMzUUyqTqXjzvbjgcs5qMKv9lzQZLEl4Y2aGoHs2HQrIlDJJIm0yZ3uXpHfjLWoDxGdPnwTKE1ffz8bMOUz7WVGhmivfrfrWxvg8xRy5B75S4pWxXtXusOpXbC2crQYk99MvcDlBy_2c8ILa080rrR0JAxwE96GAE&sig=AOD64_3Yb28TyPN-afUTwnjbGl5tCuA34Q&client=ca-pub-1354836663865600&rf=1&nb=8&adurl=https://pubg.game.daum.net/pubg/index.daum%3Futm_source%3Dgdn%26utm_medium%3Ddisplay%26utm_campaign%3D20260513_harley%26utm_content%3Dgdn_display_pc%26gad_source%3D5%26gad_campaignid%3D23836826366%26gclid%3DEAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE
+                - img [ref=f3e15]
+          - generic "카카오 배틀그라운드" [ref=f3e17]:
+            - link "카카오 배틀그라운드" [ref=f3e18] [cursor=pointer]:
+              - /url: https://www.googleadservices.com/pagead/aclk?sa=L&ai=C_snv5fQcarSLF9Pt_tMP9qmA2AaNy6qDhwG2hp294RWN2o_wsBAQASDqvJoCYJuD6YScKaABiqTx_QLIAQGpAllTQXvYxgY-qAMByAPLBKoE4wFP0Amka8d7drpkEAm0Sto0nJYucxVh85RL_0nlsff2eXLYs8DEsU76KZIUh3JC2HQj7rpnlaPh1egHzRAR9AFSaGFsJ4SOHz22NyYQqGXw1aTEZkqEMZdgsG2EvbijNkdNVGptRjihTRTbkrYYgK7wz3ES9GTvaylHDD5mEOFdRWLv6U07xqHv_IAthlBLsjx4IWrkVUN7Cu5HsAMZzMk5uOc8xPA3MGPowPNxqOYH7ihKom4QU3Uh_Q_yEujly-hNaCAxjpx-RW1HUJnXjgZ2dedjxDw40EHikXrd97o2KWP1e8AEqo_OkOcFiAX-taTmWIAH3tuOggGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCDMIgGEQARifAzIIioKAgICAgAg6D4BAgMCAgICAqIACqIOAEEi9_cE6WLuJwb6F5ZQDYAGxCWLsaF7qH3A4gAoBmAsByAsBogwDkAEBqg0CS1LIDQHqDRMIqZnEvoXllAMV07Z_BB32FABr8A0CiA4J2BMK0BUBmBYByhYCCgD4FgGAFwGyFwQYAVAGuhcCOAGyGAkSAsZPGAEiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE&num=1&cid=CAQS9AEABaugfbztyXua8aEBBiveeNnfUZTqjtr_Q5y0G13xv0kfF1kA1zpJeJUCXG5Beg7xlxoerWq6uzYlx3EfJ5kNtXrzpmWrIfeVMfYNEM6KUeC_DBLAnHY7rmwJtLvdq6bydB5XoPTh2u9WbCZQORVYFJQ_0xLD795ZuT7HXhzMzUUyqTqXjzvbjgcs5qMKv9lzQZLEl4Y2aGoHs2HQrIlDJJIm0yZ3uXpHfjLWoDxGdPnwTKE1ffz8bMOUz7WVGhmivfrfrWxvg8xRy5B75S4pWxXtXusOpXbC2crQYk99MvcDlBy_2c8ILa080rrR0JAxwE96GAE&sig=AOD64_3Yb28TyPN-afUTwnjbGl5tCuA34Q&client=ca-pub-1354836663865600&rf=1&nb=1&adurl=https://pubg.game.daum.net/pubg/index.daum%3Futm_source%3Dgdn%26utm_medium%3Ddisplay%26utm_campaign%3D20260513_harley%26utm_content%3Dgdn_display_pc%26gad_source%3D5%26gad_campaignid%3D23836826366%26gclid%3DEAIaIQobChMI9JHEvoXllAMV07Z_BB32FABrEAEYASAAEgJLR_D_BwE
+        - img [ref=f3e22] [cursor=pointer]
+        - button [ref=f3e24] [cursor=pointer]:
+          - img [ref=f3e25]
+        - iframe
+  - generic [ref=e36]:
+    - generic [ref=e38]:
+      - region "가사 찾기, 가장 빠르게" [ref=e39]:
+        - generic [ref=e40]:
+          - paragraph [ref=e41]:
+            - text: 가사 검색
+            - link "노래 가사집" [ref=e42] [cursor=pointer]:
+              - img [ref=e44]
+              - text: 노래 가사집
+          - heading "가사 찾기, 가장 빠르게" [level=1] [ref=e46]
+          - paragraph [ref=e47]: 노래 제목, 가수명, 가사 한 줄만 입력하면 바로 원하는 가사를 찾을 수 있습니다.
+          - search [ref=e48]:
+            - generic [ref=e49]: 검색
+            - generic [ref=e50]:
+              - textbox "검색" [ref=e51]:
+                - /placeholder: 노래 제목, 가수명, 가사 한 줄
+              - button "검색" [ref=e52] [cursor=pointer]
+            - paragraph [ref=e53]: 가수, 노래, 가사 내용은 물론 초성 검색도 가능합니다.
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]: 등록 가사
+            - strong [ref=e57]: 1,575,743
+          - generic [ref=e58]:
+            - generic [ref=e59]: 싱크 가사
+            - strong [ref=e60]: 184,085
+          - generic [ref=e61]:
+            - generic [ref=e62]: 실시간 검색
+            - strong [ref=e63]: "ON"
+      - region "키워드로 찾기" [ref=e64]:
+        - heading "키워드로 찾기" [level=2] [ref=e66]
+        - generic "추천 분위기" [ref=e67]:
+          - generic [ref=e68]:
+            - link "신나는" [ref=e69] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%8B%A0%EB%82%98%EB%8A%94
+            - link "듣기" [ref=e70] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%8B%A0%EB%82%98%EB%8A%94
+              - generic [ref=e71]: 
+              - generic [ref=e72]: 듣기
+          - generic [ref=e73]:
+            - link "감성" [ref=e74] [cursor=pointer]:
+              - /url: /search.html?tag=%EA%B0%90%EC%84%B1
+            - link "듣기" [ref=e75] [cursor=pointer]:
+              - /url: /player.html?tag=%EA%B0%90%EC%84%B1
+              - generic [ref=e76]: 
+              - generic [ref=e77]: 듣기
+          - generic [ref=e78]:
+            - link "집중" [ref=e79] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%A7%91%EC%A4%91
+            - link "듣기" [ref=e80] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%A7%91%EC%A4%91
+              - generic [ref=e81]: 
+              - generic [ref=e82]: 듣기
+          - generic [ref=e83]:
+            - link "드라이브" [ref=e84] [cursor=pointer]:
+              - /url: /search.html?tag=%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C
+            - link "듣기" [ref=e85] [cursor=pointer]:
+              - /url: /player.html?tag=%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C
+              - generic [ref=e86]: 
+              - generic [ref=e87]: 듣기
+          - generic [ref=e88]:
+            - link "새벽" [ref=e89] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%83%88%EB%B2%BD
+            - link "듣기" [ref=e90] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%83%88%EB%B2%BD
+              - generic [ref=e91]: 
+              - generic [ref=e92]: 듣기
+          - generic [ref=e93]:
+            - link "비 오는 날" [ref=e94] [cursor=pointer]:
+              - /url: /search.html?tag=%EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0
+            - link "듣기" [ref=e95] [cursor=pointer]:
+              - /url: /player.html?tag=%EB%B9%84%20%EC%98%A4%EB%8A%94%20%EB%82%A0
+              - generic [ref=e96]: 
+              - generic [ref=e97]: 듣기
+          - generic [ref=e98]:
+            - link "운동" [ref=e99] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%9A%B4%EB%8F%99
+            - link "듣기" [ref=e100] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%9A%B4%EB%8F%99
+              - generic [ref=e101]: 
+              - generic [ref=e102]: 듣기
+          - generic [ref=e103]:
+            - link "산책" [ref=e104] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%82%B0%EC%B1%85
+            - link "듣기" [ref=e105] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%82%B0%EC%B1%85
+              - generic [ref=e106]: 
+              - generic [ref=e107]: 듣기
+          - generic [ref=e108]:
+            - link "카페" [ref=e109] [cursor=pointer]:
+              - /url: /search.html?tag=%EC%B9%B4%ED%8E%98
+            - link "듣기" [ref=e110] [cursor=pointer]:
+              - /url: /player.html?tag=%EC%B9%B4%ED%8E%98
+              - generic [ref=e111]: 
+              - generic [ref=e112]: 듣기
+          - generic [ref=e113]:
+            - link "휴식" [ref=e114] [cursor=pointer]:
+              - /url: /search.html?tag=%ED%9C%B4%EC%8B%9D
+            - link "듣기" [ref=e115] [cursor=pointer]:
+              - /url: /player.html?tag=%ED%9C%B4%EC%8B%9D
+              - generic [ref=e116]: 
+              - generic [ref=e117]: 듣기
+      - region "최근 AI 해석" [ref=e118]:
+        - generic [ref=e119]:
+          - heading "최근 AI 해석" [level=2] [ref=e120]:
+            - link "최근 AI 해석" [ref=e121] [cursor=pointer]:
+              - /url: /ai_interpretations.html
+          - link "AI 해석 전체보기" [ref=e122] [cursor=pointer]:
+            - /url: /ai_interpretations.html
+        - generic [ref=e123]:
+          - link "Hold Up - Neo, Jeiff This lyric is about losing yourself in a nightlife moment with someone, driven by energy, rhythm, and physical chemistry. Repeated hooks and short commands create a club-style call-and-response vibe, emphasizing freedom, immediacy, and playful attraction on the dance floor." [ref=e124] [cursor=pointer]:
+            - /url: /2998454
+            - generic [ref=e125]: AI
+            - generic [ref=e126]:
+              - strong [ref=e127]: Hold Up - Neo, Jeiff
+              - generic [ref=e128]: This lyric is about losing yourself in a nightlife moment with someone, driven by energy, rhythm, and physical chemistry. Repeated hooks and short commands create a club-style call-and-response vibe, emphasizing freedom, immediacy, and playful attraction on the dance floor.
+          - link "LIMBO - DPR IAN 이 곡은 사랑과 집착의 경계가 뒤섞인 관계에서 벗어나고자 하면서도 다시 되돌아오는 화자의 고립감과 정신적 소모를 그린다. 상대를 떠나보내도 마음의 절반을 거기 두고, 고통을 일부러 감내하며 ‘구원되지 않는 상태’에 갇혀 있는 심리를 묘사한다." [ref=e129] [cursor=pointer]:
+            - /url: /3053895
+            - generic [ref=e130]: AI
+            - generic [ref=e131]:
+              - strong [ref=e132]: LIMBO - DPR IAN
+              - generic [ref=e133]: 이 곡은 사랑과 집착의 경계가 뒤섞인 관계에서 벗어나고자 하면서도 다시 되돌아오는 화자의 고립감과 정신적 소모를 그린다. 상대를 떠나보내도 마음의 절반을 거기 두고, 고통을 일부러 감내하며 ‘구원되지 않는 상태’에 갇혀 있는 심리를 묘사한다.
+          - link "Hanson - I Will Come To You - 1. hanson 이 곡은 누군가가 길을 잃고 힘든 밤을 지날 때, 멀리 있더라도 포기하지 않고 곁에 서 주겠다는 약속의 노래입니다. 사랑이나 우정의 형태로 '버려지지 않는다'는 위로를 반복적으로 전하며, 절망의 순간에도 계속 이어지는 관계와 희망을 강조합니다." [ref=e134] [cursor=pointer]:
+            - /url: /79082
+            - generic [ref=e135]: AI
+            - generic [ref=e136]:
+              - strong [ref=e137]: Hanson - I Will Come To You - 1. hanson
+              - generic [ref=e138]: 이 곡은 누군가가 길을 잃고 힘든 밤을 지날 때, 멀리 있더라도 포기하지 않고 곁에 서 주겠다는 약속의 노래입니다. 사랑이나 우정의 형태로 '버려지지 않는다'는 위로를 반복적으로 전하며, 절망의 순간에도 계속 이어지는 관계와 희망을 강조합니다.
+          - link "365&7 (Feat. JAMIE) - pH-1 이 곡은 상대를 하루도 빼놓지 않고 떠올리며 집착에 가까운 그리움을 표현하는 노래야. 시간이 너무 빨리 지나가고 있어 망설이거나 시간을 끌고 싶지 않다는 마음 때문에, 직접적으로 감정을 확인하고 관계를 명확히 하려는 태도가 핵심이야. 후렴의 반복으로 그 강한 집요함과 감정의 지속성을 강조하고 있어." [ref=e139] [cursor=pointer]:
+            - /url: /2516372
+            - generic [ref=e140]: AI
+            - generic [ref=e141]:
+              - strong [ref=e142]: 365&7 (Feat. JAMIE) - pH-1
+              - generic [ref=e143]: 이 곡은 상대를 하루도 빼놓지 않고 떠올리며 집착에 가까운 그리움을 표현하는 노래야. 시간이 너무 빨리 지나가고 있어 망설이거나 시간을 끌고 싶지 않다는 마음 때문에, 직접적으로 감정을 확인하고 관계를 명확히 하려는 태도가 핵심이야. 후렴의 반복으로 그 강한 집요함과 감정의 지속성을 강조하고 있어.
+          - link "Shadow Feet - Brooke Fraser 이 노래는 삶의 불확실함과 무너지는 세상 속에서도 ‘너(신/구원)’ 안에서 무너지지 않고 서 있을 수 있다는 확신을 노래한다. 그림자 같은 유혹과 두려움 속에서 방향을 잃기 쉬운 순간마다, 진실한 빛과 새로움의 약속을 붙잡으려는 내적 여정이 묘사된다." [ref=e144] [cursor=pointer]:
+            - /url: /595366
+            - generic [ref=e145]: AI
+            - generic [ref=e146]:
+              - strong [ref=e147]: Shadow Feet - Brooke Fraser
+              - generic [ref=e148]: 이 노래는 삶의 불확실함과 무너지는 세상 속에서도 ‘너(신/구원)’ 안에서 무너지지 않고 서 있을 수 있다는 확신을 노래한다. 그림자 같은 유혹과 두려움 속에서 방향을 잃기 쉬운 순간마다, 진실한 빛과 새로움의 약속을 붙잡으려는 내적 여정이 묘사된다.
+          - link "넌나의20대였어 - 이예준 이 노래는 20대 초반의 연인 시절을 떠올리며, 갑작스러운 만남과 달콤함·다툼·아픔을 모두 겪은 청춘의 사랑을 회상하는 노래다. 군대 입대와 긴 공백, 첫 월급날 선물 같은 구체적 기억을 통해 한 사람이 한 사람의 ‘20대’를 만들어 주었던 시간을 소중한 추억으로 정리하고, 이별 후에도 완전히 아물지 않는 마음과 고마움을 동시에 고백한다." [ref=e149] [cursor=pointer]:
+            - /url: /2505550
+            - generic [ref=e150]: AI
+            - generic [ref=e151]:
+              - strong [ref=e152]: 넌나의20대였어 - 이예준
+              - generic [ref=e153]: 이 노래는 20대 초반의 연인 시절을 떠올리며, 갑작스러운 만남과 달콤함·다툼·아픔을 모두 겪은 청춘의 사랑을 회상하는 노래다. 군대 입대와 긴 공백, 첫 월급날 선물 같은 구체적 기억을 통해 한 사람이 한 사람의 ‘20대’를 만들어 주었던 시간을 소중한 추억으로 정리하고, 이별 후에도 완전히 아물지 않는 마음과 고마움을 동시에 고백한다.
+      - region "오늘의 인기가사" [ref=e154]:
+        - heading "오늘의 인기가사" [level=2] [ref=e156]:
+          - link "오늘의 인기가사" [ref=e157] [cursor=pointer]:
+            - /url: /top100.html
+        - link "#1 오늘의 노래 일요일 - 하키(Hockee) 하키(Hockee)" [ref=e158] [cursor=pointer]:
+          - /url: /2395215
+          - generic [ref=e159]: ♪
+          - generic [ref=e160]:
+            - generic [ref=e161]: "#1 오늘의 노래"
+            - strong [ref=e162]: 일요일 - 하키(Hockee)
+            - generic [ref=e163]: 하키(Hockee)
+        - generic [ref=e164]:
+          - link "2위 신문을 보지 - 정희라 정희라" [ref=e165] [cursor=pointer]:
+            - /url: /3184460
+            - generic [ref=e166]: 2위
+            - generic [ref=e167]: ♪
+            - generic [ref=e168]:
+              - strong [ref=e169]: 신문을 보지 - 정희라
+              - generic [ref=e170]: 정희라
+          - link "3위 Lovely Things (TV광고 갤럭시 S4 미니 '윤하' 편 배경음악) - Peter N… Peter Nathanson, Rodolphe Perroquin" [ref=e171] [cursor=pointer]:
+            - /url: /2821170
+            - generic [ref=e172]: 3위
+            - generic [ref=e173]: ♪
+            - generic [ref=e174]:
+              - strong [ref=e175]: Lovely Things (TV광고 갤럭시 S4 미니 '윤하' 편 배경음악) - Peter N…
+              - generic [ref=e176]: Peter Nathanson, Rodolphe Perroquin
+          - link "4위 길 끝에 서서 - @박수일@ @박수일@" [ref=e177] [cursor=pointer]:
+            - /url: /3113297
+            - generic [ref=e178]: 4위
+            - generic [ref=e179]: ♪
+            - generic [ref=e180]:
+              - strong [ref=e181]: 길 끝에 서서 - @박수일@
+              - generic [ref=e182]: "@박수일@"
+          - link "5위 MATADOR - 박지훈 박지훈" [ref=e183] [cursor=pointer]:
+            - /url: /2953751
+            - generic [ref=e184]: 5위
+            - generic [ref=e185]: ♪
+            - generic [ref=e186]:
+              - strong [ref=e187]: MATADOR - 박지훈
+              - generic [ref=e188]: 박지훈
+          - link "6위 夏に抱かれて / Natsuni Dakarete (여름에 안겨) - Iwasaki Hiromi Iwasaki Hiromi" [ref=e189] [cursor=pointer]:
+            - /url: /2742704
+            - generic [ref=e190]: 6위
+            - generic [ref=e191]: ♪
+            - generic [ref=e192]:
+              - strong [ref=e193]: 夏に抱かれて / Natsuni Dakarete (여름에 안겨) - Iwasaki Hiromi
+              - generic [ref=e194]: Iwasaki Hiromi
+          - link "7위 외로운 날 - 유 숙 유 숙" [ref=e195] [cursor=pointer]:
+            - /url: /211311
+            - generic [ref=e196]: 7위
+            - generic [ref=e197]: ♪
+            - generic [ref=e198]:
+              - strong [ref=e199]: 외로운 날 - 유 숙
+              - generic [ref=e200]: 유 숙
+          - link "8위 이래도 지랄 저래도 지랄 - 조선힙합 조선힙합" [ref=e201] [cursor=pointer]:
+            - /url: /3185564
+            - generic [ref=e202]: 8위
+            - generic [ref=e203]: ♪
+            - generic [ref=e204]:
+              - strong [ref=e205]: 이래도 지랄 저래도 지랄 - 조선힙합
+              - generic [ref=e206]: 조선힙합
+          - link "9위 ジレンマ - speena speena" [ref=e207] [cursor=pointer]:
+            - /url: /161686
+            - generic [ref=e208]: 9위
+            - generic [ref=e209]: ♪
+            - generic [ref=e210]:
+              - strong [ref=e211]: ジレンマ - speena
+              - generic [ref=e212]: speena
+          - link "10위 사랑이 비를 맞아요 - 배금성 배금성" [ref=e213] [cursor=pointer]:
+            - /url: /2527922
+            - generic [ref=e214]: 10위
+            - generic [ref=e215]: ♪
+            - generic [ref=e216]:
+              - strong [ref=e217]: 사랑이 비를 맞아요 - 배금성
+              - generic [ref=e218]: 배금성
+          - link "11위 일과 이분의 일 - 투 투 투 투" [ref=e219] [cursor=pointer]:
+            - /url: /198866
+            - generic [ref=e220]: 11위
+            - generic [ref=e221]: ♪
+            - generic [ref=e222]:
+              - strong [ref=e223]: 일과 이분의 일 - 투 투
+              - generic [ref=e224]: 투 투
+          - link "12위 銀の龍の背に乘って - Nakazima Miyuki (中島みゆき) Nakazima Miyuki (中島みゆき)" [ref=e225] [cursor=pointer]:
+            - /url: /69922
+            - generic [ref=e226]: 12위
+            - generic [ref=e227]: ♪
+            - generic [ref=e228]:
+              - strong [ref=e229]: 銀の龍の背に乘って - Nakazima Miyuki (中島みゆき)
+              - generic [ref=e230]: Nakazima Miyuki (中島みゆき)
+          - link "13위 제발 - 윤민수/신용재(포맨) 윤민수/신용재(포맨)" [ref=e231] [cursor=pointer]:
+            - /url: /546733
+            - generic [ref=e232]: 13위
+            - generic [ref=e233]: ♪
+            - generic [ref=e234]:
+              - strong [ref=e235]: 제발 - 윤민수/신용재(포맨)
+              - generic [ref=e236]: 윤민수/신용재(포맨)
+          - link "14위 Break in 2 the night - MOVE MOVE" [ref=e237] [cursor=pointer]:
+            - /url: /136425
+            - generic [ref=e238]: 14위
+            - generic [ref=e239]: ♪
+            - generic [ref=e240]:
+              - strong [ref=e241]: Break in 2 the night - MOVE
+              - generic [ref=e242]: MOVE
+          - link "15위 넌나의20대였어 - 이예준 이예준" [ref=e243] [cursor=pointer]:
+            - /url: /2505550
+            - generic [ref=e244]: 15위
+            - generic [ref=e245]: ♪
+            - generic [ref=e246]:
+              - strong [ref=e247]: 넌나의20대였어 - 이예준
+              - generic [ref=e248]: 이예준
+          - link "16위 거울은 말하지 않아 - Koniri Koniri" [ref=e249] [cursor=pointer]:
+            - /url: /3183182
+            - generic [ref=e250]: 16위
+            - generic [ref=e251]: ♪
+            - generic [ref=e252]:
+              - strong [ref=e253]: 거울은 말하지 않아 - Koniri
+              - generic [ref=e254]: Koniri
+          - link "17위 おこのみで(좋으실대로) - Sheena Ringo Sheena Ringo" [ref=e255] [cursor=pointer]:
+            - /url: /265191
+            - generic [ref=e256]: 17위
+            - generic [ref=e257]: ♪
+            - generic [ref=e258]:
+              - strong [ref=e259]: おこのみで(좋으실대로) - Sheena Ringo
+              - generic [ref=e260]: Sheena Ringo
+      - region "실시간 검색 가사" [ref=e261]:
+        - heading "실시간 검색 가사" [level=2] [ref=e263]:
+          - link "실시간 검색 가사" [ref=e264] [cursor=pointer]:
+            - /url: /new100.html
+        - generic [ref=e265]:
+          - link "조우 (Song By Lit.G) - Shady Plan (쉐이디 플랜)" [ref=e266] [cursor=pointer]:
+            - /url: /589411
+            - generic [ref=e267]: ♪
+            - strong [ref=e269]: 조우 (Song By Lit.G) - Shady Plan (쉐이디 플랜)
+          - link "Missing You (뚜껑열린 압력밥솥 & 파송송 계란탁) - 고유진 (플…" [ref=e270] [cursor=pointer]:
+            - /url: /581173
+            - generic [ref=e271]: ♪
+            - strong [ref=e273]: Missing You (뚜껑열린 압력밥솥 & 파송송 계란탁) - 고유진 (플…
+          - link "You've Got It - Billie" [ref=e274] [cursor=pointer]:
+            - /url: /273775
+            - generic [ref=e275]: ♪
+            - strong [ref=e277]: You've Got It - Billie
+          - link "Right Now - Van Halen" [ref=e278] [cursor=pointer]:
+            - /url: /65850
+            - generic [ref=e279]: ♪
+            - strong [ref=e281]: Right Now - Van Halen
+          - 'link "Can`t Help Falling In Love - UB40" [ref=e282] [cursor=pointer]':
+            - /url: /65805
+            - generic [ref=e283]: ♪
+            - strong [ref=e285]: "Can`t Help Falling In Love - UB40"
+          - link "((인생 아리랑)) - 연수정" [ref=e286] [cursor=pointer]:
+            - /url: /2524118
+            - generic [ref=e287]: ♪
+            - strong [ref=e289]: ((인생 아리랑)) - 연수정
+          - link "다시 태어나도 - 김돈규,에스더" [ref=e290] [cursor=pointer]:
+            - /url: /1226350
+            - generic [ref=e291]: ♪
+            - strong [ref=e293]: 다시 태어나도 - 김돈규,에스더
+          - link "I Need Your Love - Pentatonix(펜타토닉스)" [ref=e294] [cursor=pointer]:
+            - /url: /561828
+            - generic [ref=e295]: ♪
+            - strong [ref=e297]: I Need Your Love - Pentatonix(펜타토닉스)
+          - link "Everybody Wants To Rule The World - Tears For Fears" [ref=e298] [cursor=pointer]:
+            - /url: /65231
+            - generic [ref=e299]: ♪
+            - strong [ref=e301]: Everybody Wants To Rule The World - Tears For Fears
+          - link "Cowgirl - Underworld" [ref=e302] [cursor=pointer]:
+            - /url: /65203
+            - generic [ref=e303]: ♪
+            - strong [ref=e305]: Cowgirl - Underworld
+          - link "All shook up - Ry Cooder" [ref=e306] [cursor=pointer]:
+            - /url: /7481
+            - generic [ref=e307]: ♪
+            - strong [ref=e309]: All shook up - Ry Cooder
+          - link "그 얼굴 그 모습 - 산울림" [ref=e310] [cursor=pointer]:
+            - /url: /2012
+            - generic [ref=e311]: ♪
+            - strong [ref=e313]: 그 얼굴 그 모습 - 산울림
+      - region "최근 등록된 가사" [ref=e314]:
+        - heading "최근 등록된 가사" [level=2] [ref=e316]
+        - generic [ref=e317]:
+          - link "그리워라 - @한혜진/한혜진@" [ref=e318] [cursor=pointer]:
+            - /url: /3185676
+            - generic [ref=e319]: ♪
+            - strong [ref=e320]: 그리워라 - @한혜진/한혜진@
+          - link "너는 참 아름다운 사람 - @남미경@" [ref=e321] [cursor=pointer]:
+            - /url: /3185675
+            - generic [ref=e322]: ♪
+            - strong [ref=e323]: 너는 참 아름다운 사람 - @남미경@
+          - link "온도 - 노사연" [ref=e324] [cursor=pointer]:
+            - /url: /3185674
+            - generic [ref=e325]: ♪
+            - strong [ref=e326]: 온도 - 노사연
+          - link "Bodyelse - 박지훈" [ref=e327] [cursor=pointer]:
+            - /url: /3185673
+            - generic [ref=e328]: ♪
+            - strong [ref=e329]: Bodyelse - 박지훈
+          - link "삼겹살송 - 남규리" [ref=e330] [cursor=pointer]:
+            - /url: /3185672
+            - generic [ref=e331]: ♪
+            - strong [ref=e332]: 삼겹살송 - 남규리
+          - link "갑자기 - 아이오아이" [ref=e333] [cursor=pointer]:
+            - /url: /3185671
+            - generic [ref=e334]: ♪
+            - strong [ref=e335]: 갑자기 - 아이오아이
+          - link "나의 작은 청춘에게 - 효정 (오마이걸)" [ref=e336] [cursor=pointer]:
+            - /url: /3185670
+            - generic [ref=e337]: ♪
+            - strong [ref=e338]: 나의 작은 청춘에게 - 효정 (오마이걸)
+          - link "No Tears On The Dancefloor - 이채연" [ref=e339] [cursor=pointer]:
+            - /url: /3185669
+            - generic [ref=e340]: ♪
+            - strong [ref=e341]: No Tears On The Dancefloor - 이채연
+          - link "Motto - 있지" [ref=e342] [cursor=pointer]:
+            - /url: /3185668
+            - generic [ref=e343]: ♪
+            - strong [ref=e344]: Motto - 있지
+          - link "여행갑시다 - 정미애" [ref=e345] [cursor=pointer]:
+            - /url: /3185667
+            - generic [ref=e346]: ♪
+            - strong [ref=e347]: 여행갑시다 - 정미애
+          - link "마중 - 양지은" [ref=e348] [cursor=pointer]:
+            - /url: /3185666
+            - generic [ref=e349]: ♪
+            - strong [ref=e350]: 마중 - 양지은
+          - link "꽃바라 다시 불면 - 양지은" [ref=e351] [cursor=pointer]:
+            - /url: /3185665
+            - generic [ref=e352]: ♪
+            - strong [ref=e353]: 꽃바라 다시 불면 - 양지은
+      - region "최근 댓글" [ref=e354]:
+        - heading "최근 댓글" [level=2] [ref=e356]
+        - generic [ref=e357]:
+          - link "ㅠㅠ 노래가사점" [ref=e358] [cursor=pointer]:
+            - /url: /228079
+            - generic [ref=e359]: 톡
+            - strong [ref=e361]: ㅠㅠ 노래가사점
+          - link "가사 잘쓰네요" [ref=e362] [cursor=pointer]:
+            - /url: /3140497
+            - generic [ref=e363]: 톡
+            - strong [ref=e365]: 가사 잘쓰네요
+          - link "너무 슬픈 가사네요.." [ref=e366] [cursor=pointer]:
+            - /url: /2981195
+            - generic [ref=e367]: 톡
+            - strong [ref=e369]: 너무 슬픈 가사네요..
+          - link "귀여어" [ref=e370] [cursor=pointer]:
+            - /url: /2986824
+            - generic [ref=e371]: 톡
+            - strong [ref=e373]: 귀여어
+          - link "와...노래 진짜 좋은데 떡상했으면 좋겠네요 2집활동이 기대…" [ref=e374] [cursor=pointer]:
+            - /url: /3090711
+            - generic [ref=e375]: 톡
+            - strong [ref=e377]: 와...노래 진짜 좋은데 떡상했으면 좋겠네요 2집활동이 기대…
+          - link "노랫가사가 너무 좋네여 ㅠㅠ" [ref=e378] [cursor=pointer]:
+            - /url: /3137391
+            - generic [ref=e379]: 톡
+            - strong [ref=e381]: 노랫가사가 너무 좋네여 ㅠㅠ
+          - link "시퍼런 하늘을 찢고 치솟아 오르는 땅 우리들의 땅 터질 듯…" [ref=e382] [cursor=pointer]:
+            - /url: /163833
+            - generic [ref=e383]: 톡
+            - strong [ref=e385]: 시퍼런 하늘을 찢고 치솟아 오르는 땅 우리들의 땅 터질 듯…
+          - link "I started writing down one thing at the end of every day — what I actually man…" [ref=e386] [cursor=pointer]:
+            - /url: /2686461
+            - generic [ref=e387]: 톡
+            - strong [ref=e389]: I started writing down one thing at the end of every day — what I actually man…
+          - link "진짜감사합니다" [ref=e390] [cursor=pointer]:
+            - /url: /560605
+            - generic [ref=e391]: 톡
+            - strong [ref=e393]: 진짜감사합니다
+          - link "좋은 노래 감사해요" [ref=e394] [cursor=pointer]:
+            - /url: /2526271
+            - generic [ref=e395]: 톡
+            - strong [ref=e397]: 좋은 노래 감사해요
+          - link "사랑을 손 내밀어 잡을수 있다면 지금 손을 내밀고 싶다 시…" [ref=e398] [cursor=pointer]:
+            - /url: /348110
+            - generic [ref=e399]: 톡
+            - strong [ref=e401]: 사랑을 손 내밀어 잡을수 있다면 지금 손을 내밀고 싶다 시…
+          - link "굿 입니다~~" [ref=e402] [cursor=pointer]:
+            - /url: /3185304
+            - generic [ref=e403]: 톡
+            - strong [ref=e405]: 굿 입니다~~
+      - insertion [ref=e407]
+      - region "커뮤니티" [ref=e409]:
+        - generic [ref=e410]:
+          - heading "커뮤니티" [level=2] [ref=e411]
+          - paragraph [ref=e412]:
+            - text: 공지와 요청, 다운로드, 가사 수정 소식을 한곳에서 확인하세요.
+            - link "노래 가사집" [ref=e413] [cursor=pointer]:
+              - img [ref=e415]
+              - text: 노래 가사집
+        - generic [ref=e417]:
+          - generic [ref=e419]:
+            - heading "공지사항" [level=4] [ref=e421]:
+              - link "공지사항" [ref=e422] [cursor=pointer]:
+                - /url: /g5/bbs/board.php?bo_table=notice
+            - generic [ref=e423]:
+              - heading "유투브 재생 기능 안내" [level=6] [ref=e424]:
+                - link "유투브 재생 기능 안내" [ref=e425] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=notice&wr_id=61
+              - heading "비회원시 가사 오류 신고기능이 수정되었습니다. 3" [level=6] [ref=e426]:
+                - link "비회원시 가사 오류 신고기능이 수정되었습니다." [ref=e427] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=notice&wr_id=50
+                - generic [ref=e428]: "3"
+              - heading "가사 검색 방식 최적화 작업중입니다. 4" [level=6] [ref=e429]:
+                - link "가사 검색 방식 최적화 작업중입니다." [ref=e430] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=notice&wr_id=45
+                - generic [ref=e431]: "4"
+              - heading "서버 이전작업을 하였습니다." [level=6] [ref=e432]:
+                - link "서버 이전작업을 하였습니다." [ref=e433] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=notice&wr_id=43
+              - heading "가사안에서 뮤직비디오를 볼 수 있습니다." [level=6] [ref=e434]:
+                - link "가사안에서 뮤직비디오를 볼 수 있습니다." [ref=e435] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=notice&wr_id=41
+          - generic [ref=e437]:
+            - heading "커뮤니티" [level=4] [ref=e439]:
+              - link "커뮤니티" [ref=e440] [cursor=pointer]:
+                - /url: /g5/bbs/board.php?bo_table=free
+            - generic [ref=e441]:
+              - heading "winamp http 1.1 403 forbidden error 2" [level=6] [ref=e442]:
+                - link "winamp http 1.1 403 forbidden error" [ref=e443] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=free&wr_id=27479
+                - generic [ref=e444]: "2"
+              - heading "윈앰프에서 가사집서버 접속이안됩니다. 2" [level=6] [ref=e445]:
+                - link "윈앰프에서 가사집서버 접속이안됩니다." [ref=e446] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=free&wr_id=27475
+                - generic [ref=e447]: "2"
+              - heading "회원탈퇴 신청합니다. 1" [level=6] [ref=e448]:
+                - link "회원탈퇴 신청합니다." [ref=e449] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=free&wr_id=27473
+                - generic [ref=e450]: "1"
+              - heading "회원 탈퇴 신청합니다 1" [level=6] [ref=e451]:
+                - link "회원 탈퇴 신청합니다" [ref=e452] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=free&wr_id=27471
+                - generic [ref=e453]: "1"
+              - heading "03. 하루도 그대를 사랑하는 적이 없었다.mp3 1" [level=6] [ref=e454]:
+                - link "03. 하루도 그대를 사랑하는 적이 없었다.mp3" [ref=e455] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=free&wr_id=27469
+                - generic [ref=e456]: "1"
+          - generic [ref=e458]:
+            - heading "가사 요청" [level=4] [ref=e460]:
+              - link "가사 요청" [ref=e461] [cursor=pointer]:
+                - /url: /g5/bbs/board.php?bo_table=request
+            - generic [ref=e462]:
+              - heading "종이학" [level=6] [ref=e463]:
+                - link "종이학" [ref=e464] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=request&wr_id=2729
+              - heading "황치열 - 왜 이제와서야 (Why)" [level=6] [ref=e465]:
+                - link "황치열 - 왜 이제와서야 (Why)" [ref=e466] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=request&wr_id=2728
+              - heading "03. 하루도 그대를 사랑하지 않은 적이 없었다.mp3" [level=6] [ref=e467]:
+                - link "03. 하루도 그대를 사랑하지 않은 적이 없었다.mp3" [ref=e468] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=request&wr_id=2725
+              - heading "영탁-01-그대 내 맘에 들어오면은-사랑의 콜센타 PART45-192.m… 1" [level=6] [ref=e469]:
+                - link "영탁-01-그대 내 맘에 들어오면은-사랑의 콜센타 PART45-192.m…" [ref=e470] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=request&wr_id=2723
+                - generic [ref=e471]: "1"
+              - heading "바이브-01-가을 타나 봐-가을 타나 봐-192.mp3 2" [level=6] [ref=e472]:
+                - link "바이브-01-가을 타나 봐-가을 타나 봐-192.mp3" [ref=e473] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=request&wr_id=2719
+                - generic [ref=e474]: "2"
+        - generic [ref=e475]:
+          - generic [ref=e477]:
+            - heading "자료실" [level=4] [ref=e479]:
+              - link "자료실" [ref=e480] [cursor=pointer]:
+                - /url: /g5/bbs/board.php?bo_table=down
+            - generic [ref=e481]:
+              - heading "Winamp(윈엠프) 5.8 1" [level=6] [ref=e482]:
+                - link "Winamp(윈엠프) 5.8" [ref=e483] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=down&wr_id=307
+                - generic [ref=e484]: "1"
+              - heading "AIMP 3.55 build 1355" [level=6] [ref=e485]:
+                - link "AIMP 3.55 build 1355" [ref=e486] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=down&wr_id=301
+              - heading "가사집 4.0 - 윈엠프, AIMP 플러그인 4" [level=6] [ref=e487]:
+                - link "가사집 4.0 - 윈엠프, AIMP 플러그인" [ref=e488] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=down&wr_id=286
+                - generic [ref=e489]: "4"
+              - heading "AIMP v3.00 build 985" [level=6] [ref=e490]:
+                - link "AIMP v3.00 build 985" [ref=e491] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=down&wr_id=285
+              - heading "가사집 3.33 - 윈엠프, KMPlayer, AIMP 플러그인 12" [level=6] [ref=e492]:
+                - link "가사집 3.33 - 윈엠프, KMPlayer, AIMP 플러그인" [ref=e493] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=down&wr_id=257
+                - generic [ref=e494]: "12"
+          - generic [ref=e496]:
+            - heading "가사 삭제 요청" [level=4] [ref=e498]:
+              - link "가사 삭제 요청" [ref=e499] [cursor=pointer]:
+                - /url: /g5/bbs/board.php?bo_table=edit
+            - generic [ref=e500]:
+              - heading "http://gasazip.com/?3121170 1" [level=6] [ref=e501]:
+                - link "http://gasazip.com/?3121170" [ref=e502] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=edit&wr_id=2597
+                - generic [ref=e503]: 
+                - generic [ref=e504]: "1"
+              - heading "http://gasazip.com/?3121169 1" [level=6] [ref=e505]:
+                - link "http://gasazip.com/?3121169" [ref=e506] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=edit&wr_id=2596
+                - generic [ref=e507]: 
+                - generic [ref=e508]: "1"
+              - heading "http://gasazip.com/?3114625 1" [level=6] [ref=e509]:
+                - link "http://gasazip.com/?3114625" [ref=e510] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=edit&wr_id=2594
+                - generic [ref=e511]: 
+                - generic [ref=e512]: "1"
+              - heading "http://gasazip.com/?2507236 1" [level=6] [ref=e513]:
+                - link "http://gasazip.com/?2507236" [ref=e514] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=edit&wr_id=2592
+                - generic [ref=e515]: "1"
+              - heading "http://gasazip.com/?2941061 1" [level=6] [ref=e516]:
+                - link "http://gasazip.com/?2941061" [ref=e517] [cursor=pointer]:
+                  - /url: /g5/bbs/board.php?bo_table=edit&wr_id=2584
+                - generic [ref=e518]: "1"
+          - generic [ref=e520]:
+            - heading "최근 등록된 싱크 가사" [level=4] [ref=e522]
+            - generic [ref=e523]:
+              - heading "Seasons (feat. jedra) - Dept(뎁트)" [level=6] [ref=e524]:
+                - link "Seasons (feat. jedra) - Dept(뎁트)" [ref=e525] [cursor=pointer]:
+                  - /url: /?s184658
+              - heading "못된 남자못된 남자 (도성마녀 미리내 OST)♡♡♡ - 김민울" [level=6] [ref=e526]:
+                - link "못된 남자못된 남자 (도성마녀 미리내 OST)♡♡♡ - 김민울" [ref=e527] [cursor=pointer]:
+                  - /url: /?s184657
+              - heading "매일 밤 너를 부르다 잠이 들어 - 우은미" [level=6] [ref=e528]:
+                - link "매일 밤 너를 부르다 잠이 들어 - 우은미" [ref=e529] [cursor=pointer]:
+                  - /url: /?s184656
+              - heading "달리기 - 하림" [level=6] [ref=e530]:
+                - link "달리기 - 하림" [ref=e531] [cursor=pointer]:
+                  - /url: /?s184655
+              - heading "발걸음 ♡♡♡ - 딕펑스 (DICKPUNKS)" [level=6] [ref=e532]:
+                - link "발걸음 ♡♡♡ - 딕펑스 (DICKPUNKS)" [ref=e533] [cursor=pointer]:
+                  - /url: /?s184654
+      - insertion [ref=e535]
+    - generic [ref=e537]:
+      - generic [ref=e538]:
+        - generic [ref=e539]:
+          - heading "회원 로그인" [level=2] [ref=e540]:
+            - generic: 회원
+            - text: 로그인
+          - link "회원가입" [ref=e541] [cursor=pointer]:
+            - /url: /g5/bbs/register.php
+        - group [ref=e543]:
+          - generic [ref=e544]:
+            - generic:
+              - text: 회원아이디
+              - strong: 필수
+            - textbox "회원아이디필수" [ref=e545]:
+              - /placeholder: 아이디
+            - generic:
+              - text: 비밀번호
+              - strong: 필수
+            - textbox "비밀번호필수" [ref=e546]:
+              - /placeholder: 비밀번호
+            - button "로그인" [ref=e547] [cursor=pointer]
+          - generic [ref=e548]:
+            - generic [ref=e549]:
+              - checkbox "자동로그인" [ref=e550]
+              - generic [ref=e551]: 자동로그인
+            - link "정보찾기" [ref=e554] [cursor=pointer]:
+              - /url: /g5/bbs/password_lost.php
+          - generic [ref=e555]:
+            - heading "소셜계정으로 로그인" [level=3]
+            - generic [ref=e556]:
+              - link "네이버 로그인" [ref=e557] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=naver&url=%2F
+                - generic [ref=e558]: 네이버 로그인
+              - link "카카오 로그인" [ref=e559] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=kakao&url=%2F
+                - generic [ref=e560]: 카카오 로그인
+              - link "페이스북 로그인" [ref=e561] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=facebook&url=%2F
+                - generic [ref=e562]: 페이스북 로그인
+              - link "X 로그인" [ref=e563] [cursor=pointer]:
+                - /url: /g5/plugin/social/popup.php?provider=twitter&url=%2F
+                - generic [ref=e564]: X 로그인
+      - generic [ref=e565]:
+        - strong [ref=e566]: 참여하기
+        - paragraph [ref=e567]: 로그인 후 직접 가사와 싱크 가사를 등록할 수 있습니다.
+        - button "가사 등록" [ref=e568] [cursor=pointer]:
+          - generic [ref=e569]: ✏
+          - generic [ref=e570]: 가사 등록
+        - button "싱크 가사 등록" [ref=e571] [cursor=pointer]:
+          - generic [ref=e572]: ✏
+          - generic [ref=e573]: 싱크 가사 등록
+  - text:     
+  - contentinfo [ref=e574]:
+    - paragraph [ref=e575]:
+      - link "개인정보취급방침" [ref=e576] [cursor=pointer]:
+        - /url: /g5/bbs/content.php?co_id=privacy
+      - link "서비스이용약관" [ref=e577] [cursor=pointer]:
+        - /url: /g5/bbs/content.php?co_id=provision
+      - text: / Copyright © 2004~2025 ☊ Gasazip.com All rights reserved.
+      - link "퍼니즈 쇼핑" [ref=e578] [cursor=pointer]:
+        - /url: https://funiz.com
+      - text: /
+      - link "나와 닮은 연예인은?" [ref=e579] [cursor=pointer]:
+        - /url: https://face-k.com/
+      - text: "/ E-mail :"
+      - link "hwanico@gmail.com" [ref=e580] [cursor=pointer]:
+        - /url: mailto:hwanico@gmail.com
+      - text: /
+      - link "RSS" [ref=e581] [cursor=pointer]:
+        - /url: /rss.html
+    - button "문의하기" [ref=e583] [cursor=pointer]:
+      - img [ref=e584]
+      - text: 문의하기

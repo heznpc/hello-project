@@ -40,6 +40,70 @@ function memberName(m: Member | undefined, id: string, locale: Locale): string {
   return m.nameEn;
 }
 
+// 외부 검색 deep-link chip 의 색 팔레트. 컴포넌트 외부에 두어 매 render 재할당 회피.
+const chipPalette = {
+  youtube: {
+    background: "linear-gradient(135deg, #fee2e2, #fecaca)",
+    border: "1.5px solid #fca5a5",
+    color: "#991b1b",
+    ring: "focus-visible:ring-red-400",
+  },
+  gasazip: {
+    background: "linear-gradient(135deg, #fef3c7, #fde68a)",
+    border: "1.5px solid #fcd34d",
+    color: "#854d0e",
+    ring: "focus-visible:ring-amber-400",
+  },
+  bugs: {
+    background: "linear-gradient(135deg, #dbeafe, #bfdbfe)",
+    border: "1.5px solid #93c5fd",
+    color: "#1e40af",
+    ring: "focus-visible:ring-blue-400",
+  },
+} as const;
+
+type ChipPalette = (typeof chipPalette)[keyof typeof chipPalette];
+
+// 외부 검색 deep-link 칩. 3개 사이트 (YouTube / 가사집 / Bugs) 가 같은 패턴이라 추출.
+// 묶어두는 이유: rel="noopener noreferrer" / target="_blank" / aria-label / focus ring 같은
+// 안전·접근성 속성이 한 곳에 박혀있어야 향후 4번째 chip 추가 시 drift 가 안 생김.
+// 시각 결정:
+// - tap-target: text-sm + py-1.5 + min-h-[36px] — WCAG 2.5.5 AA (24×24) 통과, AAA (44×44) 와는
+//   trade-off (헤더 줄 높이 제약). 모바일 mis-tap 은 줄어들지만 완벽 AAA 는 아님.
+// - aria-label = hint: 모바일에서 title= 가 안 읽히는 SR 대응. emoji 도 읽지 않게 우회.
+// - focus-visible ring: 키보드 사용자가 어느 chip 에 focus 있는지 시각적 표시 (WCAG 2.4.7).
+function DeepLinkChip({
+  href,
+  label,
+  hint,
+  palette,
+}: {
+  href: string;
+  label: string;
+  hint: string;
+  palette: ChipPalette;
+}) {
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="noopener noreferrer"
+      title={hint}
+      aria-label={hint}
+      className={`inline-flex items-center px-3 py-1.5 min-h-[36px] text-sm rounded-full transition hover:brightness-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-1 ${palette.ring}`}
+      style={{
+        background: palette.background,
+        border: palette.border,
+        color: palette.color,
+        fontWeight: 600,
+        textDecoration: "none",
+      }}
+    >
+      {label}
+    </a>
+  );
+}
+
 export function DistributionChart({
   song,
   distribution,
@@ -80,7 +144,7 @@ export function DistributionChart({
     },
     gasazip: {
       ko: "📝 가사집 (한국어 번역)",
-      ja: "📝 가사집 (韓国語訳)",
+      ja: "📝「가사집」(韓国語訳)",
       en: "📝 Gasazip (Korean translation)",
     },
     gasazipHint: {
@@ -89,14 +153,14 @@ export function DistributionChart({
       en: "Opens search on Gasazip (Korean fan-run J-pop translation site)",
     },
     bugs: {
-      ko: "🎵 벅스 가사",
-      ja: "🎵 Bugs 歌詞",
-      en: "🎵 Bugs lyrics",
+      ko: "🎵 벅스 가사 검색",
+      ja: "🎵 Bugs 歌詞検索",
+      en: "🎵 Bugs lyrics search",
     },
     bugsHint: {
-      ko: "한국 음원 플랫폼 벅스의 가사 검색 (2026-02 H!P 스트리밍 개방 이후 등록된 곡 한정)",
-      ja: "韓国の音楽プラットフォーム Bugs の歌詞検索 (2026-02 H!P 配信解禁後に登録された曲のみ)",
-      en: "Bugs (Korean music platform) lyrics search — limited to tracks listed after the Feb 2026 H!P streaming launch",
+      ko: "한국 음원 플랫폼 벅스의 가사 검색 결과로 이동. 등록되지 않은 곡은 결과가 없을 수 있습니다.",
+      ja: "韓国の音楽プラットフォーム Bugs の歌詞検索結果が開きます。未登録曲は結果が無い場合があります。",
+      en: "Opens Bugs (Korean music platform) lyrics search. Tracks not yet listed may return no results.",
     },
   };
 
@@ -109,16 +173,22 @@ export function DistributionChart({
   // - URL 형식만 확정해 두면 사이트가 자체적으로 변하더라도 코드 영향 0.
   const songTitle = song.titleJa || song.titleEn;
   const groupName = group?.nameJa || group?.nameEn || "";
+  // 데이터 무결성 가드: 곡 제목이 비면 검색 URL 이 `?q=` 가 되어 dead-search.
+  // 현재 데이터엔 발생 안 하지만 미래 시드 drift 방지.
+  const canSearch = Boolean(songTitle);
 
   // YouTube: "official" 키워드 추가 → 공식 채널 영상이 거의 항상 첫 결과.
   const ytUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(
     `${groupName} ${songTitle} official`.trim()
   )}`;
   // 가사집(gasazip.com): 한국 팬덤이 운영하는 한국어 J-pop 가사 번역 hub.
-  // SPA 라 server-side 결과 검증 불가하나 검색 URL 형식 (`/search?q=`) 은 안정.
-  const gasazipUrl = `https://gasazip.com/search?q=${encodeURIComponent(songTitle)}`;
-  // 벅스: 한국 음원 플랫폼. 2026-02 H!P 전곡 스트리밍 개방 후 등록 시작.
-  const bugsUrl = `https://music.bugs.co.kr/search/integrated?q=${encodeURIComponent(
+  // 정확한 검색 URL 은 `/search.html?q=` (Playwright 검증 2026-06 — `/search?q=` 는
+  // SPA 가 home 으로 redirect 하면서 쿼리를 drop).
+  const gasazipUrl = `https://gasazip.com/search.html?q=${encodeURIComponent(songTitle)}`;
+  // 벅스: 한국 음원 플랫폼. 가사 전용 endpoint `/search/lyrics?q=` 사용 — 통합검색
+  // (`/search/integrated`) 은 곡/앨범/아티스트 mixed 결과라 label 과 mismatch.
+  // 가사 본문 검색이므로 곡명만 전달 (그룹명 노이즈 회피).
+  const bugsUrl = `https://music.bugs.co.kr/search/lyrics?q=${encodeURIComponent(
     songTitle
   )}`;
 
@@ -154,54 +224,28 @@ export function DistributionChart({
           />
           {group?.nameEn} - {song.releaseDate} -{" "}
           {distribution.lines.length} members
-          <a
-            href={ytUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            title={l("youtubeHint")}
-            className="ml-2 inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
-            style={{
-              background: "linear-gradient(135deg, #fee2e2, #fecaca)",
-              border: "1.5px solid #fca5a5",
-              color: "#991b1b",
-              fontWeight: 600,
-              textDecoration: "none",
-            }}
-          >
-            {l("youtube")}
-          </a>
-          <a
-            href={gasazipUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            title={l("gasazipHint")}
-            className="inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
-            style={{
-              background: "linear-gradient(135deg, #fef3c7, #fde68a)",
-              border: "1.5px solid #fcd34d",
-              color: "#854d0e",
-              fontWeight: 600,
-              textDecoration: "none",
-            }}
-          >
-            {l("gasazip")}
-          </a>
-          <a
-            href={bugsUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            title={l("bugsHint")}
-            className="inline-flex items-center px-3 py-1 text-xs rounded-full transition hover:brightness-95"
-            style={{
-              background: "linear-gradient(135deg, #dbeafe, #bfdbfe)",
-              border: "1.5px solid #93c5fd",
-              color: "#1e40af",
-              fontWeight: 600,
-              textDecoration: "none",
-            }}
-          >
-            {l("bugs")}
-          </a>
+          {canSearch && (
+            <>
+              <DeepLinkChip
+                href={ytUrl}
+                label={l("youtube")}
+                hint={l("youtubeHint")}
+                palette={chipPalette.youtube}
+              />
+              <DeepLinkChip
+                href={gasazipUrl}
+                label={l("gasazip")}
+                hint={l("gasazipHint")}
+                palette={chipPalette.gasazip}
+              />
+              <DeepLinkChip
+                href={bugsUrl}
+                label={l("bugs")}
+                hint={l("bugsHint")}
+                palette={chipPalette.bugs}
+              />
+            </>
+          )}
         </div>
       </div>
 

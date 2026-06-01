@@ -1,0 +1,4 @@
+[    2796ms] [LOG] JQMIGRATE: Migrate is installed, version 1.4.1 @ https://gasazip.com/g5/js/jquery-migrate-1.4.1.min.js:1
+[    2957ms] [LOG] Carduu Widget (outline, inline) initialized for card: mQlzBlFK @ https://carduu.com/js/widget.js:553
+[    2965ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://gasazip.com/:0
+[    4724ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
